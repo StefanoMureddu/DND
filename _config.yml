@@ -3,6 +3,9 @@ description: Mondo con il Continente Maggilia per ora l'unico che ho creato
 theme: jekyll-theme-cayman
 # Oppure: minima, slate, midnight, modernist
 
+# Percorso delle pagine
+source: docs
+
 # Configurazioni aggiuntive
 markdown: kramdown
 highlighter: rouge
