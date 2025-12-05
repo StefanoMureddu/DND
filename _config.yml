@@ -1,0 +1,21 @@
+﻿title: Ambientazione D&D Homebrew
+description: Mondo con il Continente Maggilia per ora l'unico che ho creato
+theme: jekyll-theme-cayman
+# Oppure: minima, slate, midnight, modernist
+
+# Configurazioni aggiuntive
+markdown: kramdown
+highlighter: rouge
+
+# Menu principale
+header_pages:
+  - docs/index.md
+  - docs/Maggilia/index.md
+
+# Defaults
+defaults:
+  - scope:
+      path: "docs/Maggilia"
+    values:
+      layout: "default"
+      continente: "Maggilia"
