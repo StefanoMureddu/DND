@@ -93,8 +93,8 @@ Storia completa generale del continente
 ## 📚 Risorse
 
 ### Mappe
-- [Mappa Politica](mappe/Maggilia_politica.png)
-- [Mappa Geografica](mappe/Maggilia_geografica.png)
+- [Mappa Politica](mappe/Maggilia_politica_web.jpg)
+- [Mappa Geografica](mappe/Maggilia_geografica_web.jpg)
 - [Mappa Vie Commerciali](mappe/commerci.jpg)
 
 ---
