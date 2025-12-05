@@ -37,14 +37,14 @@ Storia completa generale del continente
 
 ## 🏛️ Stati e Unioni
 
-### [Repubblica degli Stati Liberi](stati_e_regni/repubblica.md)
+### [Repubblica degli Stati Liberi](stati_e_regni/repubblica/repubblica.md)
 **Capitale:** Gran-Karak  
 **Governo:** Repubblica Federale  
 **Popolazione:**  
 **Economia:** 
 
 **Città principali:**
-- [Gran-Karak](citta/gran-karak.md) - Capitale
+- [Gran-Karak](citta/Gran-Karak.md) - Capitale
 - [Porto Grigio](citta/porto-grigio.md) - Porto industriale
 - [Edhellond](citta/edhellond.md) - Vecchia capitale
 
