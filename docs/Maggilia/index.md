@@ -7,7 +7,7 @@ layout: default
 
 [← Torna al Mondo](../index.md)
 
-![Mappa Continente](mappe/continente.jpg)
+![Mappa Continente](mappe/Maggilia_geografica_web.jpg)
 
 ---
 
