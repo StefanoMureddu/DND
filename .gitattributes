@@ -1,3 +1,1 @@
 docs/Maggilia/mappe/*.png filter=lfs diff=lfs merge=lfs -text
-docs/Maggilia/mappe/*.jpg filter=lfs diff=lfs merge=lfs -text
-docs/Maggilia/mappe/*.jpeg filter=lfs diff=lfs merge=lfs -text
