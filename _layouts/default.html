@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: 'it' }}">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ page.title | default: site.title }}</title>
+    <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400&family=Cinzel:wght@400;600;700&display=swap" rel="stylesheet">
+    {% seo %}
+</head>
+<body>
+    <!-- Book Cover/Spine Effect -->
+    <div class="book-spine"></div>
+    
+    <!-- Left Sidebar Navigation -->
+    <nav class="sidebar">
+        <div class="sidebar-header">
+            <h1 class="site-title">
+                <a href="{{ '/' | relative_url }}">{{ site.title | default: "Cronache di Maggilia" }}</a>
+            </h1>
+            <p class="site-subtitle">{{ site.description | default: "Un mondo fantasy homebrew" }}</p>
+        </div>
+        
+        <div class="nav-menu">
+            <!-- Navigation Menu -->
+            <ul class="nav-list">
+                <li class="nav-item">
+                    <a href="{{ '/' | relative_url }}" class="nav-link">🏠 Home</a>
+                </li>
+                
+                <!-- Maggilia Continent -->
+                <li class="nav-item has-dropdown">
+                    <button class="nav-link dropdown-toggle" onclick="toggleDropdown(this)">
+                        🗺️ Maggilia <span class="arrow">▶</span>
+                    </button>
+                    <ul class="dropdown-menu">
+                        <li><a href="{{ '/Maggilia/' | relative_url }}">Panoramica</a></li>
+                        
+                        <!-- Repubblica degli Stati Liberi -->
+                        <li class="has-submenu">
+                            <button class="submenu-toggle" onclick="toggleSubmenu(this)">
+                                Repubblica Stati Liberi <span class="arrow">▶</span>
+                            </button>
+                            <ul class="submenu">
+                                <li><a href="{{ '/Maggilia/stati_e_regni/repubblica/repubblica' | relative_url }}">📜 Informazioni</a></li>
+                                <li><a href="{{ '/Maggilia/stati_e_regni/repubblica/storia/storia' | relative_url }}">📚 Storia</a></li>
+                                <li><a href="{{ '/Maggilia/mappe/' | relative_url }}">🗺️ Mappe</a></li>
+                            </ul>
+                        </li>
+                        
+                        <!-- General sections -->
+                        <li><a href="{{ '/Maggilia/citta/' | relative_url }}">🏛️ Città</a></li>
+                        <li><a href="{{ '/Maggilia/regioni/' | relative_url }}">🏔️ Regioni</a></li>
+                        <li><a href="{{ '/Maggilia/personaggi/' | relative_url }}">👥 Personaggi</a></li>
+                        <li><a href="{{ '/Maggilia/eventi/' | relative_url }}">⚔️ Eventi</a></li>
+                        <li><a href="{{ '/Maggilia/storia/storia_completa' | relative_url }}">📖 Storia Completa</a></li>
+                    </ul>
+                </li>
+                
+                <!-- Additional continents can be added here -->
+                <li class="nav-item">
+                    <a href="#" class="nav-link disabled">🌍 Altri Continenti</a>
+                </li>
+            </ul>
+        </div>
+        
+        <div class="sidebar-footer">
+            <p class="copyright">Anno 157 NE<br>{{ site.time | date: '%Y' }}</p>
+        </div>
+    </nav>
+    
+    <!-- Main Content Area -->
+    <main class="content">
+        <!-- Breadcrumb Navigation -->
+        {% if page.breadcrumbs %}
+        <nav class="breadcrumb">
+            <a href="{{ '/' | relative_url }}">Home</a>
+            {% for crumb in page.breadcrumbs %}
+                <span class="separator">›</span>
+                {% if forloop.last %}
+                    <span class="current">{{ crumb.title }}</span>
+                {% else %}
+                    <a href="{{ crumb.url | relative_url }}">{{ crumb.title }}</a>
+                {% endif %}
+            {% endfor %}
+        </nav>
+        {% endif %}
+        
+        <!-- Page Header -->
+        {% if page.title %}
+        <header class="page-header">
+            <h1 class="page-title">{{ page.title }}</h1>
+            {% if page.subtitle %}
+            <p class="page-subtitle">{{ page.subtitle }}</p>
+            {% endif %}
+        </header>
+        {% endif %}
+        
+        <!-- Main Content -->
+        <article class="page-content">
+            {{ content }}
+        </article>
+        
+        <!-- Page Footer -->
+        <footer class="page-footer">
+            {% if page.last_updated %}
+            <p class="last-updated">Ultimo aggiornamento: {{ page.last_updated }}</p>
+            {% endif %}
+        </footer>
+    </main>
+    
+    <!-- JavaScript for dropdown menus -->
+    <script>
+        function toggleDropdown(button) {
+            const parent = button.parentElement;
+            const wasActive = parent.classList.contains('active');
+            
+            // Close all dropdowns
+            document.querySelectorAll('.nav-item.has-dropdown').forEach(item => {
+                item.classList.remove('active');
+            });
+            
+            // Toggle current dropdown
+            if (!wasActive) {
+                parent.classList.add('active');
+            }
+        }
+        
+        function toggleSubmenu(button) {
+            const parent = button.parentElement;
+            parent.classList.toggle('active');
+        }
+        
+        // Close dropdowns when clicking outside
+        document.addEventListener('click', function(event) {
+            if (!event.target.closest('.nav-menu')) {
+                document.querySelectorAll('.nav-item.has-dropdown').forEach(item => {
+                    item.classList.remove('active');
+                });
+            }
+        });
+    </script>
+</body>
+</html>

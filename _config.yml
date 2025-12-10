@@ -1,7 +1,9 @@
-﻿title: Ambientazione D&D Homebrew
-description: Mondo con il Continente Maggilia per ora l'unico che ho creato
-theme: jekyll-theme-architect
-# Oppure: minima, slate, midnight, modernist
+﻿title: Cronache di Maggilia
+description: Un mondo fantasy homebrew per D&D 5e - Anno 157 NE
+lang: it
+
+# Tema custom (non usiamo più il tema architect)
+# theme: jekyll-theme-architect
 
 # Percorso delle pagine
 source: docs
@@ -10,15 +12,31 @@ source: docs
 markdown: kramdown
 highlighter: rouge
 
-# Menu principale
-header_pages:
-  - docs/index.md
-  - docs/Maggilia/index.md
+# Plugin (per GitHub Pages)
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Impostazioni SEO
+author: Stefano Mureddu
+social:
+  name: Cronache di Maggilia
+  links: []
 
 # Defaults
 defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
   - scope:
       path: "docs/Maggilia"
     values:
       layout: "default"
       continente: "Maggilia"
+
+# Esclusioni
+exclude:
+  - README.md
+  - optimize-image.sh
+  - mappe/
