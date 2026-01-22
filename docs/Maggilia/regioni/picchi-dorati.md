@@ -3,8 +3,6 @@ title: Picchi Dorati
 layout: default
 ---
 
-# Picchi Dorati
- 
  I Picchi Dorati sono una catena montuosa situata nella parte nord di Maggilia, famosa per le sue miniere d'oro e per le sue vette imponenti, che funge da divisore tra il centro e il nord del continente.
  
 ## Geografia
