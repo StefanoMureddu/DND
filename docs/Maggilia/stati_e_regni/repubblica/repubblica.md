@@ -2,14 +2,14 @@
 Comunemente chiamata la Repubblica la Repubblica degli Stati Liberi è una giovane repubblica unica nel suo genere nata circa 150 anni fa
 
 ## Storia
-La repubblica nasce dopo una lunga guerra civile all'interno del vecchio imperodei 4 re. 
+La repubblica nasce dopo una lunga guerra civile all'interno del vecchio impero dei 4 re. 
 
 ## Struttura politica
 La struttura politica della repubblica è la seguente:
 -Ogni città e paese possiede un consiglio cittadino di 5 e un sindaco eletto dagli abitanti che vota per decidere la gestione della città (il voto del sindaco vale doppio)
 -Ogni regione possiede 1 Governatore eletto dai consigli cittadini che gestisce la regione a stretto contatto con i sindaci locali
 -La repubblica posside un senato nella quale sono presenti 5 rappresentanti per stato votati dal popolo che propongono e votano per la gestione della repubblica
--Il senato eleggie tra di esso un presidente della camera incaricato di gestire le riunioni del senato e fungere da volto. È dunque lui che deve firmare i documenti ufficali statali e prendersene la responsabilità.
+-Il senato eleggie tra di esso un Gran Cancelliere incaricato di gestire le riunioni del senato e fungere da volto. È dunque lui che deve firmare i documenti ufficali statali e prendersene la responsabilità.
 -La repubblica ha inoltre un consiglio composto dai governatori che deve approvare le decisioni del senato, tuttavia in casi di parità il presidente del senato può votare anche nel consiglio
 
 ## Struttura sociale
