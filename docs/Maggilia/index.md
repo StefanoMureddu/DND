@@ -55,6 +55,7 @@ Storia completa generale del continente
 ### Terrestri
 - **Picchi Dorati** - [Dettagli](regioni/picchi-dorati.md)
 - **Valle del Drago** - [Dettagli](regioni/valle-del-drago.md)
+- **Costa Brumetallo** - [Dettagli](regioni/costa-brumetallo.md)
 
 ### Mari e Baie
 - **Mare dell'Ovest** 
