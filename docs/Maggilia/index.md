@@ -56,6 +56,7 @@ Storia completa generale del continente
 - **Picchi Dorati** - [Dettagli](regioni/picchi-dorati.md)
 - **Valle del Drago** - [Dettagli](regioni/valle-del-drago.md)
 - **Costa Brumetallo** - [Dettagli](regioni/costa-brumetallo.md)
+- **Bosconero** - [Dettagli](regioni/bosconero.md)
 
 ### Mari e Baie
 - **Mare dell'Ovest** 
