@@ -18,7 +18,7 @@ Bosconero è una regione situata nella parte centro occidentale di Maggilia, car
 
 
 ## Insediamenti
- La città principale della regione è Albanova, situata sulla costa alla foce del fiume Brumetallo e detta anche la città del progresso data la sua vocazione industriale e tecnologica. La città è un importante centro commerciale e industriale, con numerose fabbriche e officine che producono beni per l'intero continente nonchè la sede delle più importanti istituzioni scientifiche e tecnologiche di Maggilia.
+ La città principale della regione è Albanova, situata sulla costa alla foce del fiume Brumetallo e detta anche la città del domani data la sua vocazione industriale e tecnologica. La città è un importante centro commerciale e industriale, con numerose fabbriche e officine che producono beni per l'intero continente nonchè la sede delle più importanti istituzioni scientifiche e tecnologiche di Maggilia.
  Altri insediamenti minori includono villaggi di pescatori lungo la costa e vari villaggi minerari nelle Catene degli Antichi. All'interno della regione si trovano anche diverse comunità di druidi e guardiani della foresta che vivono in armonia con la natura circostante come il villaggio di Fendifoglia.
  
 

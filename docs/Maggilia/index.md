@@ -57,6 +57,7 @@ Storia completa generale del continente
 - **Valle del Drago** - [Dettagli](regioni/valle-del-drago.md)
 - **Costa Brumetallo** - [Dettagli](regioni/costa-brumetallo.md)
 - **Bosconero** - [Dettagli](regioni/bosconero.md)
+- **Brughiera di Sottovento** - [Dettagli](regioni/brughiera-di-sottovento.md)
 
 ### Mari e Baie
 - **Mare dell'Ovest** 
