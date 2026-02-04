@@ -58,6 +58,12 @@ Storia completa generale del continente
 - **Costa Brumetallo** - [Dettagli](regioni/costa-brumetallo.md)
 - **Bosconero** - [Dettagli](regioni/bosconero.md)
 - **Brughiera di Sottovento** - [Dettagli](regioni/brughiera-di-sottovento.md)
+- **Foresta dei 4 Re** - [Dettagli](regioni/Foresta-dei-4-re.md)
+- **Piana del Grano** - [Dettagli](regioni/piana-del-grano.md)
+- **West Loral** - [Dettagli](regioni/west-loral.md)
+- **East Loral** - [Dettagli](regioni/east-loral.md)
+- **Taur-Erthaid** - [Dettagli](regioni/taur-erthaid.md)
+- **La Frontiera** - [Dettagli](regioni/la-frontiera.md)
 
 ### Mari e Baie
 - **Mare dell'Ovest** 
