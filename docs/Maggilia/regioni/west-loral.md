@@ -76,6 +76,16 @@ Il **Picco del Custode Silente** è il centro mitico della regione. Secondo la l
 
 I marinai che partono da Bassopicco lasciano offerte votive al piccolo tempio del porto prima di salpare — qualche moneta, una rete in miniatura, una bottiglia di vino aperta al vento. I **Custodi della Vetta**, un piccolo ordine monastico che gestisce il tempio sulla cima e quello portuale, non rispondono alle domande sulla natura del Custode. Mantengono il silenzio del loro nome. Sulla vetta si trovano rovine con strutture in metallo che non arrugginisce e incisioni in una lingua sconosciuta. I locali chiamano queste strutture *"le ossa della montagna"* e non ci salgono.
 
+### Cultura Culinaria
+
+La cucina di West Loral è marina in modo quasi assoluto, con l'eccezione degli ingredienti di bosco che arrivano da Pontesto attraverso il fiume.
+
+**Dal mare e dalla baia:** orate, branzini, triglie, saraghi, sgombri, polpi, seppie, cozze e vongole, ostriche della Baia delle Sirene (particolarmente pregiate, con un sapore salino distinto), salmone e anguille del Figlio Occidentale, gamberetti di foce. I marinai di lungo corso che si spingono oltre lo Stretto parlano di **Pesci Lampada**, creature degli abissi che emergono nelle notti senza luna, dalla carne luminescente e dal sapore dolciastro insolito, quasi nessuno riesce a portarli interi a porto perché degradano rapidamente. La **Baia delle Sirene** deve il suo nome a qualcosa che i pescatori più anziani preferiscono non nominare direttamente, si dice che certi banchi di pesce si trovino solo dove le correnti delle Sirene li radunano, e che non sia saggio cercare di capire perché.
+
+**Dalla fauna terrestre (boschi di Pontesto):** cervi, cinghiali, lepri, fagiani, colombacci; uova di uccelli marini raccolte stagionalmente nelle scogliere del Picco del Custode Silente.
+
+**Dalla flora:** alghe della baia (usate come condimento e involucro), finocchio marino, capperi selvatici di scogliera, licheni di roccia costiera, castagne e funghi di bosco provenienti da Pontesto, erbe aromatiche marine, sale importato dalla Brughiera di Sottovento.
+
 ## Insediamenti
 
 ### Bassopicco
