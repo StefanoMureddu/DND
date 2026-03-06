@@ -71,6 +71,16 @@ Il mare è rispettato più che amato. Le famiglie di pescatori tengono riti di p
 
 Cirith Galen ha una reputazione ambivalente. La foresta di Taur-Erthaid è sconosciuta ai più e la reputazione che ha — antica, magica e non accogliente scoraggia le escursioni. I cacciatori e i raccoglitori che frequentano il passo la conoscono meglio degli altri e ne parlano con rispetto misurato. La regola non scritta è entra, fai quello che devi, esci. Non costruire, non accendere fuochi grandi, e non restare dopo il tramonto.
 
+### Cultura Culinaria
+
+La cucina di East Loral è semplice e stagionale, influenzata sia dal mare che dalla montagna, con l'abitudine del passaggio che porta occasionalmente ingredienti insoliti da altre regioni nei mercati di Portocolle.
+
+**Dalla fauna marina e fluviale:** orate, branzini, acciughe, salmoni nella foce del Loral (pesca stagionale intensa), anguille di foce, crostacei costieri, cozze delle scogliere. Sui valichi di Cirith Galen, i cacciatori di passo riferiscono di **Arpie** che nidificano nelle fessure rocciose più alte, le piume vengono raccolte (valore decorativo e magico), ma la carne è coriacea e di odore sgradevole e non viene considerata commestibile. Nelle zone selvagge verso est, la presenza della **Manticora** è nota ma considerata un pericolo, non una preda.
+
+**Dalla fauna terrestre:** cervi e caprioli dei boschi di transizione, cinghiali, stambecchi nelle zone più montane, lepri, uccelli migratori stagionali che transitano sul passo (catturati con reti e trappole), formaggio di pecora della produzione locale di Colle Fermo.
+
+**Dalla flora:** erbe di passo (aromatiche e resistenti, sapori più intensi di quelle di pianura), mirtilli selvatici del passo, bacche di ginepro di montagna, funghi di bosco di transizione, radici di pastinaca selvatica, timo alpino, origano di collina, noci dei boschi delle pianure costiere.
+
 ## Insediamenti
 
 ### Portocolle

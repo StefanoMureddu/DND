@@ -103,6 +103,26 @@ La Foresta dei 4 Re conserva la più alta concentrazione di magia antica del con
 
 ## Cultura
 
+### L'Eredità dei Quattro Re
+
+La Foresta dei 4 Re è l'unica regione di Maggilia che conserva memoria concreta dell'Impero: non nei racconti, non nelle rovine sparse, ma negli alberi millenari piantati dai re stessi, nelle strade lastricate con pietre unite senza malta, nella Biblioteca di Edhellond che è uno dei depositi di conoscenza più importanti del continente. Gli abitanti di Edhellond — specialmente la componente elfica — non si rapportano al passato imperiale come a qualcosa di lontano. È intorno a loro, nelle strutture che abitano, nelle tradizioni che praticano. Questo crea un paradosso rispetto alla Repubblica: l'orgoglio per la propria storia imperiale viene gestito con cura in un contesto dove l'Impero è visto come il nemico che la Repubblica ha sconfitto.
+
+### Tensioni e Coesistenza
+
+La popolazione della Foresta è la più etnicamente eterogenea di Maggilia dopo Gran-Karak: elfi concentrati a Edhellond e nelle comunità forestali profonde, umani ad Aran-Haven e nei borghi commerciali, una minoranza di mezzelfi che occupa spesso ruoli di mediazione culturale. Le tensioni esistono, soprattutto tra la concezione elfica della foresta come patrimonio ancestrale non cedibile e la spinta umana a espandere le coltivazioni ai margini. Ma la convivenza ha secoli di storia, e la Foresta ha imparato a gestire le proprie contraddizioni internamente, senza esportarle.
+
+### I Druidi della Foresta
+
+I cerchi druidici della Foresta sono più strutturati e politicamente attivi di quelli di qualsiasi altra regione. A differenza dei druidi itineranti della Valle del Drago o dei Picchi Dorati che offrono servizi stagionali in cambio di pagamento, i druidi della Foresta sono guardiani in senso letterale: presidiano i confini con la Piana dove la deforestazione avanza, negoziano le quote di legname con le gilde di Bosconero, e mantengono le connessioni magiche tra i cerchi degli alberi più antichi. Il loro ruolo non è cerimoniale. È geopolitico.
+
+### Cultura Culinaria
+
+La cucina della Foresta dei 4 Re è segnata dall'eredità imperiale, alcune preparazioni risalgono a ricette elfiche di mille anni fa conservate nella Biblioteca di Edhellond, e la cultura elfica del mangiare lentamente e con consapevolezza pervade anche le tavole umane dei borghi commerciali.
+
+**Dalla fauna forestale:** cinghiali del bosco imperiale, caprioli, lepri, fagiani e colombacci del sottobosco, castori del Lago Mir-Enedh, lucci, trote e persici del Mir-Enedh, anguille della Linfa del Grano, anatre selvatiche del lago. I **cervi bianchi** della Foresta sono sacri ai druidi e alla tradizione elfica, cacciarli è proibito, ma il bracconaggio esiste e la carne viene venduta sottobanco ad Aran-Haven a prezzi altissimi. Nelle zone più remote, gli esploratori parlano di **Orsigufi**, creature massive con arti da orso e testa da gufo, cacciate collettivamente come impresa comunitaria. Le **Driadi** custodiscono certi alberi antichi e non vengono toccate, ma si dice lascino talvolta doni di frutta mai vista altrove ai margini delle radure.
+
+**Dalla flora:** i **funghi del bosco imperiale** sono considerati ingredienti nobili, varietà con nomi in lingua elfica che crescono solo ai piedi degli alberi millenari di Edhellond, con sapori complessi e conservabilità straordinaria. More di rovo, nocciole selvatiche, ghiande di quercia imperiale (tostate e macinate per farina scura), mele selvatiche dei margini, castagne, erbe aromatiche del sottobosco (menta di bosco, maggiorana selvatica, origano ombroso), fiori di sambuco, foglie giovani di faggio in primavera, germogli di felce, resine aromatiche degli abeti.
+
 
 ## Insediamenti
 

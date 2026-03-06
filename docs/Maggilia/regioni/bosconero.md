@@ -226,6 +226,26 @@ Il mercato di Albanova è punto d'incontro dove si trovano prodotti tecnologici 
 
 ## Cultura
 
+### Il Confine Invisibile
+
+Bosconero è una regione spaccata lungo una linea che non appare su nessuna mappa. Da un lato Albanova, la città del futuro, con i suoi laboratori, le sue officine, le sue strade illuminate e il progetto di trasformare la magia in strumento industriale. Dall'altro Fendifoglia e le comunità forestali, che guardano quella stessa trasformazione come una violazione di qualcosa che non si può quantificare. In mezzo ci sono tutte le altre persone, minatori, pescatori, boscaioli, che usano i prodotti di Albanova senza aderire alla sua filosofia, e rispettano la foresta senza volerci vivere dentro. Questo centro silenzioso è la vera cultura di Bosconero, pratica, ambivalente, abituata a convivere con la contraddizione.
+
+### La Voce dei Minatori
+
+I villaggi minerari orientali, ai piedi delle Catene degli Antichi, hanno sviluppato una cultura del lavoro con una propria etica interna. Le gilde dei minatori non sono solo organismi economici, organizzano le veglie funebri, arbitrano le dispute tra famiglie, decidono chi può scavare dove. Il movimento sindacalista che è emerso negli ultimi decenni ha radici qui più che in qualsiasi altra parte della Repubblica, non è ideologia astratta, è risposta concreta a gallerie che crollano e a gilde che non pagano per i feriti. Il minatore che conosce *Mending* come cantrip è rispettato, ma quello che sa organizzare i colleghi è temuto.
+
+### La Foresta Ricorda
+
+Le comunità forestali di Bosconero, gli eremi druidici, gli accampamenti dei ranger, le famiglie che vivono nelle radure nascoste, non si oppongono ad Albanova per principio. Si oppongono per memoria. Ricordano foreste che non ci sono più, specie di alberi che non crescono più vicino alla costa, sorgenti che sono diventate secche quando le officine hanno cominciato a succhiare le falde acquifere. Questa memoria non è nostalgica, è pratica. *"Se la foresta piange, noi piangiamo dopo"* è un detto dei cerchi druidici che i cittadini di Albanova trovano melodrammatico. I druidi non hanno fretta di convincerli.
+
+### Cultura Culinaria
+
+La cucina di Bosconero è una delle più divise della Repubblica: le tavole di Albanova e le tavole di Fendifoglia non si assomigliano, anche se attingono in parte agli stessi boschi.
+
+**Dalla fauna forestale:** cinghiali neri della foresta (la carne più comune nelle comunità forestali), cervi, caprioli, volpi, tassi (la carne, scura e forte, è cibo da bosco), salmoni e trote del Brumetallo (risalita stagionale abbondante), anguille del basso Brumetallo, fagiani e beccacce del sottobosco, colombacci, castori dei ruscelli (la coda grassa è considerata una prelibatezza dai cacciatori più anziani). Nelle profondità della foresta, i ranger riferiscono di **Lupi Crudeli** — esemplari di dimensioni doppie rispetto ai normali lupi, con zanne che spezzano le armature di cuoio: alcune comunità li cacciano come impresa collettiva, e la pelliccia è più pregiata della carne. I druidi parlano di **Centauri** che abitano certe radure meridionali e commerciano a volte con i villaggi di confine; non sono una preda, ma alcuni artigiani acquistano latte di cavalla centaurica per uso nei preparati magici.
+
+**Dalla flora:** i **funghi neri del bosco** sono il prodotto più caratteristico — morchelle oscure, porcini di quercia nera, prataioli di foresta, gallinacci notturni. Alcuni crescono solo ai piedi degli alberi secolari delle zone più profonde e hanno proprietà che i droghieri di Albanova studiano con interesse. More nere di bosco, mirtilli, lamponi selvatici, nocciole, castagne, noci di quercia gigante (tostate e macinate per farina invernale), radici di bardana, germogli primaverili di felce, erbe del sottobosco (menta di bosco, origano ombroso), muschi commestibili coltivati negli eremi druidici, resine aromatiche degli abeti.
+
 
 ## Insediamenti
 

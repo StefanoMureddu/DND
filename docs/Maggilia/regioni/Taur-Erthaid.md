@@ -72,6 +72,14 @@ L'assedio di Spigamare ha portato la guerra a ridosso del margine settentrionale
 
 Gli elfi non sono disposti a combattere per la Repubblica né per la Signoria. Il Fiume degli Elfi è il confine e finché nessuno lo attraversa, la foresta non si muove. Se qualcuno dovesse farlo, con o senza intenzioni ostili, la risposta non verrebbe annunciata in anticipo.
 
+### Cultura Culinaria
+
+La cucina di Taur-Erthaid è quasi completamente sconosciuta ai forestieri, poiché le comunità interne non ricevono visitatori. Quel poco che si sa viene dai rari commercianti che hanno cenato a Galen-dûr su invito e dai cacciatori di East Loral che a volte ricevono provviste come compenso per un lavoro occasionale.
+
+**Dalla fauna forestale:** caprioli e lepri delle radure, scoiattoli e ghiri (pregiati nella tradizione elfica per la carne piccola e delicata), trote dei torrenti interni, anguille. Il **cervo bianco** non viene mai cacciato, è considerato spirito della foresta. I cacciatori elfici trattano **Sprite** e **Pixie** come presenze del bosco, non come prede. Nelle profondità mai raggiunte dai forestieri si dice viva qualcosa che gli elfi chiamano solo *il custode dell'ombra*, senza ulteriori dettagli.
+
+**Dalla flora:** erbe con nomi in lingua elfica senza equivalenti nel Comune, alcune aromatiche, alcune con proprietà insolite usate in preparazioni che si avvicinano più all'alchimia che alla cucina. I **funghi luminescenti** del bosco profondo (emettono luce blu-verde tenue, commestibili con preparazione specifica che richiede ore), frutti selvatici delle radure interne (bacche di sapori insoliti, alcune non identificate dai botanici di Albanova), miele prodotto da api che frequentano solo i fiori del bosco profondo, foglie di quercia elfica millenaria per infusi, foglie giovani di faggio e germogli di felce in primavera.
+
 ## Insediamenti
 
 ### Galen-dûr

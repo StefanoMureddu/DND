@@ -85,6 +85,26 @@ I villaggi lungo questa strada prosperano come punti di sosta e rifornimento. Lo
 
 ## Cultura
 
+### L'Oro Bianco e il Diritto all'Acqua
+
+In nessuna regione della Repubblica si capisce meglio cosa significhi "risorsa scarsa" come nella Brughiera. Il sale di Coglisale è ricchezza esportabile, apprezzata fino alle cucine di Gran-Karak. L'acqua del Fiume Memento è sopravvivenza non negoziabile. Questo crea due culture economiche parallele, la Gilda del Sale gestisce il Lago Salato con regole scritte, contratti, quote di estrazione, dispute formali. I pozzi comunitari lungo il Memento sono governati da accordi orali antichissimi, tramandati a memoria, che nessuno ha mai trascritto perché scriverli vorrebbe dire ammettere che potrebbero essere dimenticati. Quando arriva la siccità, è il secondo sistema a cedere per primo, e le tensioni intorno all'acqua non assomigliano alle dispute commerciali, assomigliano a tutto il resto.
+
+### La Gente del Movimento
+
+I pastori transumanti della Brughiera non si definiscono nomadi, definiscono nomadi chi non sa dove va. Loro sanno esattamente dove vanno, ai pascoli alti in estate, alle pianure riparate in inverno, alle rive del Memento quando c'è siccità, agli alpeggi dei Monti Koboldo quando l'erba bassa brucia. Questo movimento non è libertà romantica, è una tecnica di sopravvivenza perfezionata in secoli. Ma produce anche un carattere peculiare, diffidenza verso chi ha radici troppo profonde, rispetto per chi conosce la strada, disprezzo per chi non sa leggere il cielo. I pastori si fidano più dei druidi itineranti che dei chierici stanziali, per una ragione semplice, i druidi si muovono come loro. Data questa natura di movimento le unità di cavalleria della Brughiera sono tra le più abili e temute del continente, essendo sin da piccoli abituati a spostarsi a cavallo.
+
+### Il Valore della Sosta
+
+Guado Secco e Ravenrest esistono perché le strade si incrociano. La cultura di queste città di transito è quella dei crocevia: porte aperte, domande ridotte, prezzi chiari. Un forestiero con denaro è un cliente, un forestiero senza denaro è un problema da risolvere velocemente. L'ospitalità non è calore umano, è economia. Ma questa freddezza pratica ha il suo lato opposto, chi si ferma abbastanza a lungo diventa parte della comunità senza cerimonie. Non c'è un rito di accettazione, non c'è un giuramento. Dopo un certo numero di inverni passati insieme, semplicemente si appartiene al posto. Il confine con la Frontiera a sud porta anche un'altra sfumatura, molti di questi paesi hanno famiglie divise dal confine politico, e "di chi sei?" è davvero una domanda che preferiscono non fare.
+
+### Cultura Culinaria
+
+La cucina della Brughiera è la cucina della scarsità trasformata in arte, ogni ingrediente viene usato per intero, ogni sapore va guadagnato con la preparazione. Il sale del Lago Salato è l'ingrediente ubiquo, presente in quasi ogni preparazione, dote delle spose, moneta di scambio nei mercati.
+
+**Dalla fauna locale e selvatica:** pecore della brughiera (carne magra e saporita, latte per formaggi duri), capre (più resistenti nei periodi di siccità), conigli selvatici delle steppe, lepri di brughiera, pernici di brughiera, allodole (cacciate con reti tradizionali). Nelle pianure più remote, i pastori parlano di **Bulette**, creature corazzate che scavano sotto la brughiera e emergono senza preavviso: la caccia alla bulette è una prova di coraggio, e chi sopravvive porta a casa una carne densa simile al maiale selvatico oltre a placche cornee utili per armature. Nei tratti rocciosi più aridi verso le Catene degli Antichi, il **Basilisco** è conosciuto ma quasi mai cacciato, le poche famiglie che conoscono la tecnica per abbatterlo senza incrociarne lo sguardo custodiscono il segreto gelosamente, dato che la carne è considerata pregiatissima e le proprietà del sangue note agli alchimisti di Albanova.
+
+**Dalla flora:** salvia ventosa (aromatica, base di molti preparati), erica amara (fiori per infusi e coloranti), bacche di ginepro nano (aromatizzante onnipresente), timo selvatico, cicoria selvatica (radici tostate come surrogato del caffè, bevanda popolarissima), radici di carota selvatica, more di rovo spinoso (piccole e acide, usate in conserve), semi di papavero selvatico, funghi di brughiera (rarissimi, molto pregiati, crescono solo dopo le piogge autunnali abbondanti).
+
 
 ## Insediamenti
 

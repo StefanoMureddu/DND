@@ -66,6 +66,26 @@ Questi introiti rappresentano una fonte di reddito vitale per l'erario repubblic
 
 ## Cultura
 
+### L'Anno Diviso
+
+La vita sui Picchi Dorati è scandita da un ritmo implacabile: da maggio a settembre il Passo Stretto è aperto e la regione si trasforma in un cantiere frenetico, con mercanti, minatori stagionali e carovane che si accalcano. Da ottobre ad aprile la neve taglia le comunicazioni e le comunità si stringono su sé stesse. Questo isolamento invernale non è vissuto come privazione — è il tempo della fucina, del racconto, dell'apprendistato. I bambini nanichi imparano a incidere le prime rune quando la neve blocca le gallerie. I fabbri umani affinano tecniche che d'estate non avrebbero tempo di praticare. *"D'estate guadagni, d'inverno diventi bravo"* è un detto comune a Gran-Karak quanto a Goldvale.
+
+### Nani e Umani: Due Cuori, Una Montagna
+
+Il rapporto tra nani e umani ai Picchi Dorati precede la Repubblica di secoli. Goldvale è quasi interamente nanica, l'architettura, la lingua delle gilde, i ritmi sociali sono nanichi — mentre i villaggi minerari dell'est sono prevalentemente umani. Gran-Karak è l'unico posto dove le due culture si mescolano davvero, nei mercati, nei matrimoni, nelle gilde miste. Ma anche qui c'è una gerarchia non scritta: i nani controllano le gallerie più profonde e le tecniche di runecraft più sofisticate, gli umani gestiscono i commerci in superficie e l'amministrazione repubblicana. Non è antagonismo aperto, è rispetto misurato con la bilancia.
+
+### L'Arte del Segno
+
+Il runecraft nanico non è solo tecnica: è identità culturale. Un maestro runico non viene rispettato solo per ciò che produce, ma per gli anni di apprendistato che porta scritti nelle mani callose e negli occhi attenti. Le rune incise su una spada, su una porta, su una galleria — sono firme, non semplici funzioni. Le famiglie naniche più antiche custodiscono cataloghi di segni ereditati di generazione in generazione. Gli umani che imparano il runecraft vengono accettati nelle gilde, ma il processo richiede decenni e una dedizione che molti giudicano "troppo nanica" per un umano.
+
+### Cultura Culinaria
+
+La cucina dei Picchi Dorati riflette il doppio ritmo della regione, abbondante e speziata d'estate, densa e conservativa d'inverno. Gli ingredienti di base provengono da caccia, allevamento alpino e dalle coltivazioni di fondovalle.
+
+**Dalla fauna locale e selvatica:** capre di montagna, stambecchi delle creste, marmotte delle praterie alpine, trote di torrente e lavarelli dei laghi glaciali, pernici delle nevi, galli cedroni, cervi delle valli basse, pecore di razza alpina, api montane (il miele d'alta quota è particolarmente aromatico e scuro). Il **Peryton**, cervide alato dalle piume metalliche che nidifica sulle vette più alte, è cacciato raramente e solo da gruppi esperti: la sua carne, densa e dal sapore ferroso, viene considerata un trofeo più che un alimento ordinario, e le sue piume hanno valore decorativo nelle cerimonie delle gilde. Sulle creste orientali più remote si avvistano occasionalmente **Wyvern** giovani che scendono dalle quote più alte in cerca di prede, nessuno le caccia deliberatamente, ma un cacciatore che ne abbatta una porta a casa un trofeo che racconta per anni.
+
+**Dalla flora:** segale nera d'altitudine (base dei pani invernali), orzo alpino (per birre e zuppe), bacche di ginepro montano, radici di genziana (amare, usate in liquori e preparati medicinali), mele selvatiche delle valli basse, funghi coltivati nelle gallerie naniche (varietà adattate al buio su substrati di roccia e legno), miele di fiori alpini, timo serpillo, lamponi di montagna, licheni di roccia (utilizzati nei mesi più duri come addensante per stufati di sopravvivenza).
+
 
 ## Insediamenti
 

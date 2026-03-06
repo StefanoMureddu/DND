@@ -88,6 +88,28 @@ Il legname per le costruzioni navali proviene principalmente dalle foreste di Bo
 
 ## Cultura
 
+### Gente di Porto, Non di Corte
+
+Porto Grigio è la città più cosmopolita della Repubblica dopo Gran-Karak, mercanti stranieri, marinai di decine di nazioni, operai dei cantieri e ufficiali della flotta si mescolano in un unico spazio dove la lingua franca è quella del denaro. La cultura portuale è pragmatica e poco sentimentale verso le tradizioni aristocratiche, un capitano vale quanto il suo ultimo viaggio, una famiglia conta quanto i suoi contatti commerciali. Questo non significa mancanza di orgoglio, i cantieristi che costruiscono le navi della flotta repubblicana hanno una fierezza professionale che non si trova altrove. *"Porto Grigio costruisce il futuro e lo manda per mare"* è il motto non ufficiale inciso fuori da più di una locanda del quartiere portuale.
+
+### Il Culto del Ritorno e la Doppia Vita di Grast
+
+Il governo repubblicano chiama i fedeli del Culto del Ritorno terroristi. Grast, il villaggio sulla punta dello Stretto del Serpente, vive quasi interamente del flusso di pellegrini diretti all'isola di Utar. Nessuno a Grast difende il Culto apertamente, ma nessuno smette di traghettare i pellegrini. La flotta repubblicana pattuglia le acque dello stretto, ma le navi militari hanno notoriamente problemi a localizzare le piccole barche da traghetto nelle nebbie mattutine. Porto Grigio conosce questa ambiguità e sceglie di non guardarla troppo da vicino, il traffico porta denaro, e il denaro porta silenzio.
+
+### La Marina e il Suo Mito
+
+La flotta militare repubblicana è la spina dorsale dell'identità regionale. Le famiglie di Porto Grigio che hanno figli in marina li nominano con orgoglio, e i nomi degli ammiragli che hanno combattuto durante la Guerra del Grano vengono ripetuti come santi laici. Il **Gran Ammiraglio Thalassa Stormwright** è il nome più citato, venerata quasi come una figura mitica, le si attribuiscono vittorie navali che forse non ha mai combattuto. Le navi da guerra costruite nei cantieri locali vengono varate con cerimonie elaborate, presenziate dalle famiglie degli artigiani che le hanno costruite, come se partisse un membro della famiglia.
+
+### Cultura Culinaria
+
+La cucina della Costa Brumetallo è una cucina di mare, condizionata dalla disponibilità straordinaria di pesce e frutti di mare, e dall'influenza degli ingredienti esotici che transitano per il porto.
+
+**Dalla fauna marina:** sardine, acciughe, sgombri, orate, branzini, spigole, triglie, tonni (pescati in altura nel Mare dell'Ovest), pesci spada, polpi, seppie, calamari, granchi, aragoste, gamberi, cozze, vongole, ostriche della Baia dell'Oro, ricci di mare, corvine. I pescatori di Capo Vento e Baia Serena raccontano di **Cefali del Profondo** — pesci argentati di dimensioni insolite che risalgono dalle fosse marine nei mesi invernali, dalla carne particolarmente pregiata.
+
+**Dalla fauna terrestre:** cinghiali costieri, conigli delle macchie, uccelli migratori stagionali (catturati con reti sulle rotte primaverili e autunnali), uova di gabbiano (raccolte stagionalmente sulle scogliere).
+
+**Dalla flora:** olive (nei microclimi più riparati), rosmarino marino e mirto costiero, capperi di scogliera, finocchio marino, pinoli dei pini marittimi, alghe marine commestibili (usate come condimento e conservante naturale), fichi costieri, sale marino prodotto lungo la costa.
+
 
 ## Insediamenti
 

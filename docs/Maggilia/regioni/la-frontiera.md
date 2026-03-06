@@ -3,9 +3,9 @@ title: La Frontiera
 layout: default
 ---
 
-La Frontiera è una striscia di terre aride e collinose che si estende tra le Catene degli Antichi a ovest e la Foresta dei 4 Re a est, dalla Brughiera di Sottovento a nord fino alla Baia delle Sirene a sud. Il suo nome non è poetico — è una constatazione politica. Questa è la soglia tra due mondi: la Repubblica multiculturale a nord e a est, il regno isolazionista di Puritania a sud e a ovest, e come tutte le soglie, non appartiene davvero a nessuno dei due.
+La Frontiera è una striscia di terre aride e collinose che si estende tra le Catene degli Antichi a ovest e la Foresta dei 4 Re a est, dalla Brughiera di Sottovento a nord fino alla Baia delle Sirene a sud. Il suo nome non è poetico, è una constatazione politica. Questa è la soglia tra due mondi: la Repubblica multiculturale a nord e a est, il regno isolazionista di Puritania a sud. Sul piano formale, la Frontiera è territorio del **Regno di Puritania**, occupata militarmente durante la Grande Guerra di Liberazione. Sul piano pratico, il controllo puritano è lasco al nord, più presente al sud, e la Repubblica non ha mai smesso di rivendicarla. Come tutte le soglie, non appartiene davvero a nessuno in modo definitivo, ma appartiene formalmente al regno.
 
-La Frontiera fu parte integrante dell'Impero dei Quattro Re. Fu occupata da Puritania durante la **Grande Guerra di Liberazione**, la guerra civile che ribaltò il governo imperiale e portò alla fondazione della Repubblica — approfittando del caos in cui versava l'Impero mentre i suoi eserciti erano impegnati a combattere le forze ribelli nel nord. La guerra si concluse senza che la questione della Frontiera venisse mai risolta, la Repubblica fu fondata, ma Puritania tenne le posizioni conquistate. Da allora, la regione è terra contesa, sulla carta della Repubblica, nella pratica di Puritania.
+La Frontiera fu parte integrante dell'Impero dei Quattro Re. Fu occupata da Puritania durante la **Grande Guerra di Liberazione**, approfittando del caos in cui versava l'Impero mentre i suoi eserciti erano impegnati a combattere le forze ribelli nel nord. La guerra si concluse senza che la questione della Frontiera venisse mai risolta: la Repubblica fu fondata, ma Puritania tenne le posizioni conquistate. Da allora, la regione è terra contesa, sulla carta della Repubblica, nella pratica del regno.
 
 ## Storia
 
@@ -19,7 +19,7 @@ La guerra finì con la caduta della capitale imperiale e la fondazione della Rep
 
 ### I Monti di Protecta e le Strutture Sconosciute
 
-I **Monti di Protecta** — una catena minore che corre a ovest della pianura, parallela alle Catene degli Antichi — custodiscono un segreto che la quasi totalità degli abitanti non sa di non sapere. Nelle viscere di queste montagne si trovano alcune delle **grandi strutture sotterranee** costruite dagli Antichi prima dell'Apocalisse, usate per proteggere la popolazione durante il cataclisma che quasi spazzò via la civiltà del continente.
+I **Monti di Protecta**, una catena minore che corre a ovest della pianura, parallela alle Catene degli Antichi — custodiscono un segreto che la quasi totalità degli abitanti non sa di non sapere. Nelle viscere di queste montagne si trovano alcune delle **grandi strutture sotterranee** costruite dagli Antichi prima dell'Apocalisse, usate per proteggere la popolazione durante il cataclisma che quasi spazzò via la civiltà del continente.
 
 Le strutture sono oggi quasi completamente obliterate dalla memoria collettiva. Le comunità locali le conoscono come "le caverne dei vecchi" o "i cunicoli" — ingressi murati o crollati nelle pareti rocciose, corridori che scendono nel buio verso sale di proporzioni impossibili, metallo strano che non arrugginisce, rune in un linguaggio che nessuno sa leggere. Alcune leggende locali parlano di spiriti o di maledizioni. La verità è che nessuno sa cosa siano, e la maggior parte delle persone non ci pensa abbastanza da farsi domande.
 
@@ -40,9 +40,9 @@ La Frontiera non ha fiumi permanenti di rilievo. La Corrente Sottovento tocca so
 - **Nord**: Brughiera di Sottovento — oltre il fiume memento
 - **Est**: Foresta dei 4 Re — il limite della foresta è visibile e netto, una parete verde che sorge oltre un torrente
 - **Ovest**: Catene degli Antichi e Monti di Protecta
-- **Sud**: Baia delle Sirene e Puritania 
+- **Sud**: Baia delle Sirene e **regione di Puritania** — il cuore storico del regno, da cui proviene l'amministrazione formale della Frontiera
 
-Il confine con Puritania **non esiste come linea definita**.
+Il confine con la Repubblica **non esiste come linea definita**: a nord la Frontiera sfuma nella Brughiera, a est nella Foresta dei 4 Re, entrambe regioni repubblicane. Il confine effettivo è disputato e cambia a seconda di chi lo traccia.
 
 ### Clima
 
@@ -64,7 +64,7 @@ Sulle pendici dei Monti di Protecta si trovano miniere di **rame**, **piombo** e
 
 ### Commercio di Transito
 
-La strada nord-sud che attraversa la Frontiera, dalla Brughiera fino alla costa e poi verso Puritania, è uno dei principali canali commerciali del continente. Merci, persone e informazioni di ogni tipo fluiscono attraverso Bivi per poi andare verso nord. La Repubblica questa via è un canale di evasione fiscale sistematica, ma far rispettare i propri dazi in una zona di frontiera è molto complicato.
+La strada nord-sud che attraversa la Frontiera, dalla Brughiera fino alla costa e poi verso la regione di Puritania, è uno dei principali canali commerciali del continente. Merci, persone e informazioni di ogni tipo fluiscono attraverso Bivi. Il regno impone dazi formali ai valichi meridionali, ma il controllo si allenta progressivamente verso nord, dove la presenza puritana è ridotta a qualche guarnigione. Per la Repubblica, questo tratto di strada è un canale di evasione fiscale sistematica, le merci entrano nel proprio territorio senza passare per le dogane del Senato, ma far rispettare i propri confini in una zona che formalmente non riconosce come altrui è politicamente complicato.
 
 *Mending* (cantrip) è lo strumento degli artigiani di tutti i villaggi di transito. *Sending* (3° livello) è usato solo dai commercianti più facoltosi per coordinarsi con le controparti nelle città — costoso ovunque, ancor più qui dove i maghi capaci di lanciarlo sono rari.
 
@@ -90,13 +90,21 @@ La vicinanza con Puritania ha lasciato tracce culturali profonde, specialmente a
 
 Le comunità vicino ai Monti di Protecta portano una tradizione orale curiosa: non si entra nei cunicoli sotto le montagne, non si tocca il "metallo che non arrugginisce", non si portano bambini nelle "caverne dei vecchi". Non è una superstizione codificata con rituali, è semplicemente qualcosa che i genitori insegnano ai figli senza spiegarlo troppo. Che ci siano spiriti, o vecchia magia imperiale, o semplicemente pericoli geologici, nessuno lo sa precisamente. I pochi studiosi di Albanova che sono venuti a ispezionare i siti non hanno condiviso le proprie conclusioni con le comunità locali.
 
+### Cultura Culinaria
+
+La cucina della Frontiera è cucina di confine, frugale, adattabile, che mescola tradizioni repubblicane e puritane senza appartenere del tutto a nessuna delle due.
+
+**Dalla fauna locale e selvatica:** conigli di pianura (carne popolarissima, allevati anche nelle corti), cervi e caprioli delle zone più boscose, lepri delle steppe, pernici e quaglie delle pianure aperte, pecore e capre (allevamento estensivo), pesci dei fiumi costieri meridionali (trote, barbi, anguille). I pastori più anziani di Ravenrest menzionano **Troll di pianura** che scorrazzano nelle zone disabitate di notte, nessuno li caccia, "la carne puzza e fa male", dice chi afferma di saperlo. Nelle zone più remote vicino ai Monti di Protecta, i cacciatori locali evitano i cunicoli nelle viscere dei monti, quello che ci vive dentro, se ci vive qualcosa, rimane sotto.
+
+**Dalla flora:** timo e origano selvatici (abbondanti, base della cucina locale), bacche di sambuco, more selvatiche, noci e nocciole, finocchio selvatico, radici di cicoria, semi di fieno greco (ingrediente delle tradizioni culinarie puritane, comune nei villaggi costieri del sud), erbe aromatiche di confine che mescolano varietà del nord e del sud repubblicano. Il commercio con la regione di Puritania porta ingredienti non altrimenti reperibili nei mercati del nord — spezie, conserve particolari, preparazioni che i mercanti di Bivi vendono senza fare troppe domande sull'origine.
+
 ## Insediamenti
 
 ### Bivi
-Il principale insediamento della regione (1.500-2.500 abitanti) sorge nel punto in cui convergono le strade da nord (Brughiera di Sottovento), da est (Foresta dei 4 Re) e dai valichi occidentali verso la Puritania. Il nome è diretto: Bivi è il bivio. Non è una città bella — è una città funzionale. Locande, stalle, magazzini, botteghe, cambiavalute e qualche sala da gioco si accalcano lungo la strada principale. Non ha un'amministrazione stabile: un Consiglio di Anziani gestisce le questioni comuni per acclamazione. I cambiavalute custodiscono le proprie cassaforti con *Arcane Lock* e *Alarm* — unica magia di sicurezza sistematica nel borgo.
+Il principale insediamento della regione (1.500-2.500 abitanti) sorge nel punto in cui convergono le strade da nord (Brughiera di Sottovento), da est (Foresta dei 4 Re) e dai valichi occidentali verso la regione di Puritania. Il nome è diretto: Bivi è il bivio. Non è una città bella — è una città funzionale. Locande, stalle, magazzini, botteghe, cambiavalute e qualche sala da gioco si accalcano lungo la strada principale. Il **Prefetto** nominato dal regno risiede qui formalmente, ma la gestione quotidiana è affidata a un **Consiglio di Anziani** che opera per acclamazione — tollerato dal Prefetto perché funziona, e perché nessuno a Roccapura ha voglia di mandare abbastanza funzionari fin qui da rendere il governo diretto praticabile. I cambiavalute custodiscono le proprie cassaforti con *Arcane Lock* e *Alarm* — unica magia di sicurezza sistematica nel borgo.
 
 ### Drytower
-Una fortezza-torre di 300-400 abitanti sulle pendici dei Monti di Protecta, che controlla il principale valico verso ovest. Il nome locale significa "torre secca" — costruita in un punto senza acqua nelle vicinanze, rifornita con carri cisterna. È l'unico presidio quasi-militare permanente della Repubblica nella regione: una guarnigione ridotta (50-80 soldati) che riscuote dazi informali sui carichi che passano il valico. *Continual Flame* illumina le merlature per la sorveglianza notturna. Le gallerie minerarie nei paraggi hanno intercettato più volte corridoi di costruzione sconosciuta nelle viscere dei monti — i soldati murano i passaggi per ordine degli ufficiali e non fanno domande.
+Una fortezza-torre di 300-400 abitanti sulle pendici dei Monti di Protecta, che controlla il principale valico verso ovest. Il nome locale significa "torre secca" — costruita in un punto senza acqua nelle vicinanze, rifornita con carri cisterna. È il principale presidio militare permanente del **Regno di Puritania** nella regione settentrionale: una guarnigione ridotta (50-80 soldati) che riscuote dazi sui carichi che passano il valico per conto della Corona. *Continual Flame* illumina le merlature per la sorveglianza notturna. Le gallerie minerarie nei paraggi hanno intercettato più volte corridoi di costruzione sconosciuta nelle viscere dei monti — i soldati murano i passaggi per ordine degli ufficiali e non fanno domande.
 
 ### Villaggi Costieri
 Lungo la costa meridionale si trovano diversi piccoli insediamenti di pescatori (100-400 abitanti ciascuno), più vicini culturalmente a Puritania.

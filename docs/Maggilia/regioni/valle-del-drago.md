@@ -73,6 +73,26 @@ Le strade che attraversano la valle collegano Gran-Karak con le regioni meridion
 
 ## Cultura
 
+### Il Dono del Drago
+
+La leggenda dice che un drago antico, abitasse la valle prima che arrivassero i primi coloni. Invece di distruggerli, scelse di restare. Quando morì il suo corpo si dissolse nella terra, e da quella terra nacque la fertilità straordinaria che ancora oggi produce il grano migliore della Repubblica. È una leggenda di eredità, non di conquista: la valle non fu presa, fu *ricevuta*. Questo spiega qualcosa del carattere della gente del posto, generosi con chi rispetta la terra, ostili verso chi la sfrutta senza renderle qualcosa indietro.
+
+### Mugnai, Druidi e Stagioni
+
+I mulini a vento sulle colline sono il simbolo visibile di una cultura che ha fatto della ciclicità il proprio valore fondante. La Gilda dei Mugnai non è solo un ente economico: organizza feste stagionali, arbitrava dispute tra villaggi prima che la Repubblica portasse tribunali, e conserva negli archivi di Primoborgo storie locali che risalgono all'Era dei Quattro Re. I druidi itineranti sono ospiti attesi e benvenuti, non perché si temono, ma perché si capisce la natura reciproca del rapporto. *"Chi benedice il campo deve mangiare a quella tavola"* è il principio non scritto che governa il rapporto tra contadini e druidi da generazioni.
+
+### La Memoria della Guerra
+
+La Valle del Drago ha sofferto la Guerra del Grano diversamente dalla Piana. Non è stata il fronte principale, ma è stata il magazzino: ogni carro che partiva per il sud portava via grano, animali, uomini. Primoborgo ha tenuto il punto come avamposto repubblicano, e questa fedeltà viene ricordata con orgoglio. Ma le famiglie dei villaggi più meridionali ricordano anche altro, i raccolti requisiti, i druidi costretti a *Plant Growth* intensivo fino allo sfinimento. Non è risentimento aperto, è una cautela silenziosa verso chi chiede troppo.
+
+### Cultura Culinaria
+
+La cucina della Valle del Drago è la più ricca e varia di Maggilia, riflesso diretto di una terra che produce tutto in abbondanza. La varietà degli ingredienti ha prodotto una tradizione culinaria che le altre regioni guardano con invidia mal celata.
+
+**Dalla fauna locale e selvatica:** maiali (allevati quasi ovunque), bovini da latte e da carne, pecore di collina, polli e oche (in ogni fattoria), conigli selvatici delle colline, cervi e caprioli dei boschi periferici, trote e lucci del Fiume Linfa del Grano, tinche e carpe del Lago dell'Alba, anguille di foce, anatre selvatiche del lago, api mellifere (il miele della Valle è tra i più pregiati della Repubblica, con varietà floreali distinte per zona).
+
+**Dalla flora:** frumento in diverse varietà, tra cui la rara **Spiga dell'Alba**, chicco dorato che cresce solo sulle rive orientali del lago, macinata separatamente dai mugnai di Granmulino e venduta a prezzo doppio, orzo, segale, mele, pere, ciliegie, susine, uva da vino (con le cultivar dei vigneti del *Rosso del Drago* e del *Bianco dell'Alba*), luppolo, cavoli, carote, cipolle, rape, zucche, lenticchie, fave, piselli, erbe aromatiche (rosmarino, timo, salvia, origano), semi di girasole, fiori di sambuco.
+
 
 ## Insediamenti
 

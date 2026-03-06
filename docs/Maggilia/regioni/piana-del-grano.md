@@ -103,6 +103,14 @@ Gli abitanti della Piana hanno un rapporto quasi sacrale con la terra e il racco
 
 La guerra ha trasformato questa identità: vedere i propri campi bruciati, i granai svuotati per sfamare eserciti, i mezzadri arruolati con la forza ha lasciato ferite che la pace di per sé non chiuderà.
 
+### Cultura Culinaria
+
+La cucina della Piana del Grano è la più abbondante della Repubblica — o lo era, prima della guerra. Sei anni di conflitto hanno assottigliato le dispense delle fattorie e obbligato le comunità a riscoprire ingredienti dimenticati. La tradizione culinaria è profondamente legata al ciclo del grano, e le famiglie più antiche classificano le stagioni per quello che si mangia, non per il clima.
+
+**Dalla fauna locale e selvatica:** maiali (l'allevamento più diffuso della Piana), bovini da carne e da latte, polli, oche e anatre (quasi ogni fattoria ne ha), conigli di campo, quaglie e pernici dei campi di grano, lepri delle steppe, pesci del Fiume Linfa del Grano (trote, carpe, lucci, anguille), pesci del Lago dell'Alba. Le famiglie di Granmercato raccontano di **Folletti del Grano** — creature piccole e quasi trasparenti che apparirebbero nei campi nelle notti di plenilunio, si dice che il grano vicino alle loro radure abbia un sapore insolito e più dolce del normale. Durante la guerra in mancanza di guardie(arrualate per combattere), i campi della Piana hanno visto incursioni di **Goblin** che razziavano i granai, cacciarli è diventata una necessità non una tradizione, e i cacciatori che se ne occupavano venivano pagati dai proprietari terrieri.
+
+**Dalla flora:** grano in molte varietà (inclusa la rara **Spiga d'Argento**, coltivata solo in pochi appezzamenti sui confini orientali della Signoria, con proprietà di conservazione insolite), orzo, segale, avena, girasoli (semi e olio), papaveri dei campi (semi per condimento), rape, barbabietole, piselli, fave, lenticchie, lino, erbe aromatiche delle siepi, mele cotogne dei poderi antichi, frutti dei frutteti signorili (pere, mele, ciliegie, albicocche), miele delle api dei campi di fiori selvatici.
+
 ## Insediamenti
 
 ### Granmercato
