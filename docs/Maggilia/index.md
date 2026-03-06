@@ -44,9 +44,9 @@ Storia completa generale del continente
 **Economia:** 
 
 **Città principali:**
-- [Gran-Karak](insediamenti/Gran-Karak.md) - Capitale
-- [Porto Grigio](insediamenti/Porto-Grigio.md) - Porto industriale
-- [Edhellond](insediamenti/Edhellond.md) - Vecchia capitale
+- [Gran-Karak](insediamenti/Gran-Karak) - Capitale
+- [Porto Grigio](insediamenti/Porto-Grigio) - Porto industriale
+- [Edhellond](insediamenti/Edhellond) - Vecchia capitale
 
 ---
 
