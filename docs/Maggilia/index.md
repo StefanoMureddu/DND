@@ -44,9 +44,9 @@ Storia completa generale del continente
 **Economia:** 
 
 **Città principali:**
-- [Gran-Karak](citta/Gran-Karak.md) - Capitale
-- [Porto Grigio](citta/porto-grigio.md) - Porto industriale
-- [Edhellond](citta/edhellond.md) - Vecchia capitale
+- [Gran-Karak](insediamenti/Gran-Karak.md) - Capitale
+- [Porto Grigio](insediamenti/Porto-Grigio.md) - Porto industriale
+- [Edhellond](insediamenti/Edhellond.md) - Vecchia capitale
 
 ---
 
@@ -64,6 +64,7 @@ Storia completa generale del continente
 - **East Loral** - [Dettagli](regioni/east-loral.md)
 - **Taur-Erthaid** - [Dettagli](regioni/taur-erthaid.md)
 - **La Frontiera** - [Dettagli](regioni/la-frontiera.md)
+- **Puritania** - [Dettagli](regioni/puritania.md)
 
 ### Mari e Baie
 - **Mare dell'Ovest** 
