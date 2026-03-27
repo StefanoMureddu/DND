@@ -104,7 +104,6 @@ Sei anni dopo, la guerra volge al termine. La Repubblica assedia Spigamare, l'ul
 ### Il Continente Oggi
 
 Il continente è cambiato ancora una volta. Gli imperi sono caduti. Decine di stati competono per il potere. La tecnologia degli Antichi è tornata a funzionare in alcuni luoghi, mentre altri la rifiutano. La magia, un tempo privilegio elfico, è ora strumento di artigiani e operai. Le antiche certezze sono crollate.
-
 E nessuno sa esattamente quale forma prenderà il futuro. Questa è l'Era dei Cambiamenti, e i cambiamenti non sono ancora finiti.
 
 [← Torna a Maggilia](../index.md)
