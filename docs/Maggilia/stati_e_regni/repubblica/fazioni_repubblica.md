@@ -17,7 +17,7 @@ Il Senato e il Consiglio dei Governatori sono i campi di battaglia dove queste f
 
 ### **[Gli Industriali](fazioni_repubblica/industriali/fazione_industriali)**
 **Base di potere:** Grandi industriali, proprietari di fabbriche, banchieri, commercianti ricchi  
-**Leader:** Gran Cancelliere Edrik Ironledger (Nano, magnate industriale)  
+**Leader:** Gran Cancelliere [Edrik Ironledger](../../personaggi/Edrik_Ironledger.md) (Nano, magnate industriale)  
 **Obiettivi:** Modernizzazione accelerata, profitti, espansione industriale, deregolamentazione  
 **Ideologia:** Progresso tecnologico, guadagno, liberismo economico  
 **Status Guerra:** Arricchiti enormemente (industria militare, debito guerra).
@@ -28,12 +28,12 @@ Gli Industriali controllano le fabbriche, le miniere, le banche e gran parte del
 
 ### **[Le Forze Armate](fazioni_repubblica/esercito/fazione_esercito.md)**
 **Base di potere:** Esercito repubblicano (mobilitato), servizi segreti militari, guardie e guarnigioni, veterani
-**Leader:** Generale Cassian Valenor (Umano, Comandante Supremo Falchi Grigi)  
+**Leader:** Generale [Cassian Valenor](../../personaggi/Cassian_Valenor.md) (Umano, Comandante Supremo Falchi Grigi)  
 **Obiettivi:** Maggiore autonomia dell'esercito, maggior potere politico, sicurezza nazionale, espansione militare
 **Ideologia:** Nazionalismo militarista, sicurezza sopra libertà, ordine e disciplina.
-**Status Guerra:** Vittoriosi ma esausti. Valenor è eroe nazionale. Molti veterani dovranno essere smobilitati.
+**Status Guerra:** Vittoriosi ma esausti. [Valenor](../../personaggi/Cassian_Valenor.md) è eroe nazionale. Molti veterani dovranno essere smobilitati.
 
-L'Esercito vinse la Guerra di Liberazione 150 anni fa e ora ha vinto la Guerra del Grano. Il **Generale Cassian Valenor**, Comandante Supremo dei servizi segreti militari ha condotto parte dell'esercito come generale vincendo importanti battaglie e diventando un vero e proprio eroe nazionale consolidando il suo potere all'interno della fazione. Come leader guida una grande fazione divisa internamente tra nazionalisti, lealisti costituzionalisti, tecnocrati e tradizionalisti.
+L'Esercito vinse la Guerra di Liberazione 150 anni fa e ora ha vinto la Guerra del Grano. Il **Generale [Cassian Valenor](../../personaggi/Cassian_Valenor.md)**, Comandante Supremo dei Falchi Grigi e Generale dell'Esercito, ha guidato alcune delle battaglie più decisive del conflitto, diventando un vero e proprio eroe nazionale e consolidando il suo potere all'interno della fazione. Come leader guida una grande fazione divisa internamente tra nazionalisti, lealisti costituzionalisti, tecnocrati e tradizionalisti.
 
 ---
 
@@ -117,7 +117,7 @@ Scienziati, ingegneri, accademici che credono nella scienza antica e respingono 
 - **Sindacalisti vs Industriali:** Lavoro vs Capitale. Repressi durante guerra, organizzeranno azioni collettive post-guerra. Situazione tesa.
 - **Veterani vs Sistema:** Molti soldati scontenti. Promesse non mantenute. Forza sociale importante.
 - **Conservatori vs Progressisti:** Tradizione vs Cambiamento. Attraversa tutte fazioni.
-- **Marina vs Esercito:** Stormwright vs Valenor. Rivalità strategica. Si contendono influenza politica e risorse.
+- **Marina vs Esercito:** Stormwright vs [Valenor](../../personaggi/Cassian_Valenor.md). Rivalità strategica. Si contendono influenza politica e risorse.
 
 ### **La Situazione Attuale:**
 

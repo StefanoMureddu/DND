@@ -25,7 +25,7 @@ Si suddivide in due componenti:
 ### **I Falchi Grigi**
 Corpo d'élite specializzato in operazioni speciali, intelligence, controspionaggio e sabotaggio. Operano nell'ombra, spesso al di fuori della giurisdizione civile.
 
-Durante la Guerra del Grano, i Falchi Grigi sono stati notevolmente espansi sotto il comando del Generale Valenor. Il corpo si è trasformato da piccola unità d'élite in organizzazione di intelligence su larga scala, responsabile di:
+Durante la Guerra del Grano, i Falchi Grigi sono stati notevolmente espansi sotto il comando del Generale [Valenor](../../../../personaggi/Cassian_Valenor.md). Il corpo si è trasformato da piccola unità d'élite in organizzazione di intelligence su larga scala, responsabile di:
 - Controspionaggio
 - Intelligence e sicurezza interna
 - Operazioni speciali dietro le linee nemiche
@@ -157,6 +157,6 @@ All'interno delle Forze Armate esistono diverse correnti ideologiche e gruppi di
 
 ## Figure di spicco
 
-### **Generale Cassian Valeron** (Umano, 48 anni)
+### **Generale [Cassian Valenor](../../../../personaggi/Cassian_Valenor.md)** (Umano, 48 anni)
 
 [← Torna alle fazioni](../fazioni_repubblica.md)

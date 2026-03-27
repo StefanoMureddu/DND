@@ -7,7 +7,7 @@ Gli Industriali sono una fazione politica ed economica che rappresenta i proprie
 
 **STATUS POST-GUERRA DEL GRANO (3817-3823):**
 
-Sei anni di guerra totale contro il Patto Continentale hanno trasformato gli Industriali nella fazione più ricca e potente della Repubblica. La mobilitazione di 180.000 soldati richiese produzione militare su scala mai vista: armi, armature, uniformi, navi da guerra, munizioni, equipaggiamento. **Il 60% della produzione industriale fu dedicata alla guerra**, generando profitti astronomici per i Baroni del Ferro e Mercanti Navali.
+Sei anni di guerra totale contro il Patto Continentale hanno trasformato gli Industriali nella fazione più ricca e potente della Repubblica. La mobilitazione di centinaia di migliaia di soldati richiese produzione militare su scala mai vista: armi, armature, uniformi, navi da guerra, munizioni, equipaggiamento. **Il 60% della produzione industriale fu dedicata alla guerra**, generando profitti astronomici per i Baroni del Ferro e Mercanti Navali.
 
 **CONSEGUENZE:**
 - Arricchimento massiccio
@@ -27,7 +27,7 @@ Gli Industriali non hanno una struttura gerarchica formale, ma operano attravers
 - **L'Unione dei Proprietari Minerari**: gestisce miniere di carbone, ferro e metalli preziosi
 - **La Camera di Commercio di Albanova**: coordina gli interessi industriali e fa lobbying al Senato
 
-Al vertice della fazione, il **Gran Cancelliere** Ironledger (eletto dal Senato) è tradizionalmente vicino agli interessi industriali essendo un industriale di successo, rappresentando il "volto" politico della modernizzazione.
+Al vertice della fazione, il **Gran Cancelliere [Ironledger](../../../../personaggi/Edrik_Ironledger.md)** (eletto dal Senato) è tradizionalmente vicino agli interessi industriali essendo un industriale di successo, rappresentando il "volto" politico della modernizzazione.
 
 ## Ambizioni e obiettivi
 
@@ -106,7 +106,7 @@ Al vertice della fazione, il **Gran Cancelliere** Ironledger (eletto dal Senato)
 
 ## Figure di spicco
 
-### **Gran Cancelliere Edrik Ironledger** (Nano, 180 anni)
+### **Gran Cancelliere [Edrik Ironledger](../../../../personaggi/Edrik_Ironledger.md)** (Nano, 180 anni)
 
 ### **Baronessa Kaela Forgewick** (Nana, 220 anni)
 

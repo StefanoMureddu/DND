@@ -29,7 +29,7 @@ La Signoria del Grano Dorato rifiutò categoricamente di cedere il controllo e i
 ### **Repubblica degli Stati Liberi**
 - **Esercito Repubblicano:** 120.000 soldati mobilitati (60% truppe regolari, 40% coscritti)
 - **Marina Repubblicana:** Dominio navale quasi totale, blocco marittimo efficace
-- **Comandante Assedio Spigamare:** Generale Cassian Valenor (Comandante Supremo dei Falchi Grigi, promosso a Generale per la guerra, stratega brillante e spietato)
+- **Comandante Assedio Spigamare:** Generale [Cassian Valenor](../personaggi/Cassian_Valenor.md) (Generale e Comandante Supremo dei Falchi Grigi, stratega brillante e spietato)
 - **Obiettivo:** Conquista totale della Piana, espansione territoriale, liberazione degli schiavi non elfi
 
 ### **Patto Continentale**
@@ -62,7 +62,7 @@ La guarnigione del Passo Stretto, comandata dal Colonnello Darius Stoneheart, re
 **Forze:** 50.000 repubblicani vs 90.000 del Patto Continentale + 10.000 della guarnigione rinforzata  
 **Esito:** Vittoria repubblicana decisiva
 
-Primo grande scontro tra le forze repubblicane e gli eserciti uniti del Patto Continentale. La prima armata delle forze repubblicane sotto il generale Valenor assediò Granmercato per circa un anno prima che l'esercito congiunto del patto provò a romperlo. Le forze del Patto seppure in netta superiorità numerica vennero decimate dalla superiore tecnologia e integrazione magica della repubblica oltre che dai loro attacchi mal cordinati. La repubblica vinse nettamente infliggendo 38.000 perdite del Patto contro le sole 7.500 perdite repubblicane. La guarnigione inoltre, uscita dalle mura per supportare i rinforzi, subì pesanti perdite e durante il rientro permise l'infiltrazione di unità dei Falchi Grigi che poco tempo dopo avrebbero aperto la strada al resto dell'esercito repubblicano che prese la città.Questa battaglia, considerata la più importante della guerra, spezzò la spina dorsale militare del Patto, rivelando il mal coordinamento tra i comandanti delle varie nazioni.
+Primo grande scontro tra le forze repubblicane e gli eserciti uniti del Patto Continentale. La prima armata delle forze repubblicane sotto il generale [Valenor](../personaggi/Cassian_Valenor.md) assediò Granmercato per circa un anno prima che l'esercito congiunto del patto provò a romperlo. Le forze del Patto seppure in netta superiorità numerica vennero decimate dalla superiore tecnologia e integrazione magica della repubblica oltre che dai loro attacchi mal cordinati. La repubblica vinse nettamente infliggendo 38.000 perdite del Patto contro le sole 7.500 perdite repubblicane. La guarnigione inoltre, uscita dalle mura per supportare i rinforzi, subì pesanti perdite e durante il rientro permise l'infiltrazione di unità dei Falchi Grigi che poco tempo dopo avrebbero aperto la strada al resto dell'esercito repubblicano che prese la città.Questa battaglia, considerata la più importante della guerra, spezzò la spina dorsale militare del Patto, rivelando il mal coordinamento tra i comandanti delle varie nazioni.
 
 ### **Assedio di forte alto** (3818-3819, anno 2-3)
 **Luogo:** Fortezza repubblicana sui monti coboldo 
@@ -99,7 +99,7 @@ Si calcolano circa 15.000 perdite per le forze repubblicane e 25.000 per quelle 
 Gran Ammiraglio Thalassa Stormwright distrusse la flotta combinata del Patto in 6 ore di combattimento. Solo 6 navi nemiche scamparono. Consolidò dominio navale repubblicano, permise blocco totale del porto di Spigamare.
 
 
-### **Battaglia della Foresta di Taur-Erthaid** (3821, anno 5)
+### **Battaglia della Foresta dei 4 Re** (3821, anno 5)
 **Luogo:** Foresta dei 4 re, confine nord-est
 **Forze:** 30.000 repubblicani vs 20.000 ciò che rimane dell'esercito del Patto
 **Esito:** Vittoria del Patto Continentale
@@ -110,10 +110,10 @@ Si stimano che le perdite repubblicane siano state di circa 12.000 uomini mentre
 ### **Assedio di Spigamare** (3822-presente, anno 6)
 **Luogo:** Capitale della Piana del Grano, città portuale, ultima roccaforte della Signoria  
 **Durata:** 6 mesi (in corso)  
-**Forze:** 45.000 assedianti repubblicani comandati da Generale Cassian Valeron vs 15.000 difensori (milizie elfiche della Signoria + mercenari + civili)  
+**Forze:** 45.000 assedianti repubblicani comandati da Generale Cassian Valenor vs 15.000 difensori (milizie elfiche della Signoria + mercenari + civili)  
 **Status:** Assalto finale imminente (giorni/settimane)
 
-Ultima città della Piana ancora in mano al Patto Continentale. Blocco navale (Marina) e terrestre (Esercito) completo. Popolazione civile (circa 80.000, maggioranza elfici e molti schiavi) in condizioni disperate (fame, malattie). **Generale Valeron** comanda personalmente l'assedio e l'assalto finale alla cittadella interna. La caduta sembra imminente.
+Ultima città della Piana ancora in mano al Patto Continentale. Blocco navale (Marina) e terrestre (Esercito) completo. Popolazione civile (circa 80.000, maggioranza elfici e molti schiavi) in condizioni disperate (fame, malattie). **Generale Valenor** comanda personalmente l'assedio e l'assalto finale alla cittadella interna. La caduta sembra imminente.
 
 ---
 

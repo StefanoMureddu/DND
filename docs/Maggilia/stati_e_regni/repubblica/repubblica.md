@@ -13,7 +13,7 @@ La **Repubblica degli Stati Liberi** (comunemente chiamata "la Repubblica") è u
 
 **Capitale:** Gran-Karak  
 **Forma di governo:** Repubblica democratica rappresentativa (de facto oligarchia militarizzata)  
-**Capo di Stato:** Gran Cancelliere Edrik Ironledger
+**Capo di Stato:** Gran Cancelliere [Edrik Ironledger](../../personaggi/Edrik_Ironledger.md)
 **Popolazione:** ~8-10 milioni di abitanti  
 **Economia:** Economia di guerra. Agricoltura, industria militare, commercio marittimo, estrazione mineraria intensiva  
 **Situazione Militare:** **GUERRA IN CORSO** - Guerra del Grano (anno 6), vittoria imminente  
@@ -60,7 +60,7 @@ La Repubblica è governata da un sistema democratico rappresentativo su tre live
 - **Gran Cancelliere:** Eletto dal Senato tra i suoi membri
   - Presiede il Senato, firma documenti ufficiali, rappresenta la Repubblica
   - Gestisce le riunioni e si assume responsabilità politiche
-  - Attualmente: **Edrik Ironledger**
+  - Attualmente: **[Edrik Ironledger](../../personaggi/Edrik_Ironledger.md)**
 
 ### **Militarizzazione della Repubblica (Guerra del Grano, 3817-presente)**
 - **Aumento del potere militare**: 6 anni di guerra hanno trasformato la Repubblica in stato sempre più militarista e l'esercito ha acquisito grande influenza.
@@ -131,7 +131,7 @@ La Repubblica è nel momento più critico della sua storia. La vittoria militare
 ### **Crisi Interna: Situazione Complessa**
 
 1. **Tensioni Politiche Post-Guerra:**  
-   Il Gran Cancelliere Ironledger dovrà affrontare sfide complesse nella gestione della crisi post-guerra (tensioni sociali, questioni economiche, veterani). La situazione politica futura è incerta.
+   Il Gran Cancelliere [Ironledger](../../personaggi/Edrik_Ironledger.md) dovrà affrontare sfide complesse nella gestione della crisi post-guerra (tensioni sociali, questioni economiche, veterani). La situazione politica futura è incerta.
 
 2. **Conflitto Industriali vs Druidi (esacerbato da guerra):**  
    Deforestazione di guerra ha devastato ecosistemi. Druidi vedono guerra come prova finale che questa civiltà va fermata. Pianificano attacchi contro infrastrutture industriali. Le tensioni sono elevate.
