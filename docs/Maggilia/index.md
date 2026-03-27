@@ -14,7 +14,6 @@ layout: default
 ## 🗺️ Panoramica
 
 **Nome ufficiale:** [Maggilia]  
-**Soprannome:**  
 **Popolazione:** 
 **Superficie:**  
 **Anno attuale:** 
@@ -75,7 +74,7 @@ Storia completa generale del continente
 
 ## ⚔️ Situazione Attuale
 
-### Guerra del Grano (3817-3823 DE)
+### Guerra del Grano (3817-presente)
 **Belligeranti:**
 - Repubblica degli Stati Liberi
 - Regno del Grano + alleati
