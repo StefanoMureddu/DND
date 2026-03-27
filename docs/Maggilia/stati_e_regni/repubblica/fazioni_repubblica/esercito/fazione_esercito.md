@@ -92,7 +92,6 @@ All'interno delle Forze Armate esistono diverse correnti ideologiche e gruppi di
 - Difesa del territorio
 - Proteggere i cittadini, non reprimerli
 
-**Quote:** *"Abbiamo combattuto per la libertà, non per sostituire un tiranno con un altro"*
 
 ### 2. **I Nazionalisti Militaristi**
 **Ideologia:** Ordine, disciplina, autocrazia 
@@ -103,8 +102,6 @@ All'interno delle Forze Armate esistono diverse correnti ideologiche e gruppi di
 - Riforme per rafforzare l'autorità esecutiva e militare
 - Rivendicazione dei territori
 - Neutralizzazione delle minacce interne
-
-**Quote:** *"Abbiamo vinto la guerra. Ora dobbiamo vincere la pace. Solo un governo forte può salvare la Repubblica dal caos."*
 
 
 ### 3. **I Falchi Grigi Pragmatici** 
@@ -117,8 +114,6 @@ All'interno delle Forze Armate esistono diverse correnti ideologiche e gruppi di
 - Controllare informazioni sensibili
 - Sorveglianza di massa su cittadini sospetti
 
-**Quote:** *"Non chiedete come proteggiamo la Repubblica. Siate grati che lo facciamo"*
-
 ### 4. **I Difensori del Popolo** (Reclute giovani, sottufficiali progressisti)
 **Ideologia:** Protezione dei cittadini, riforme sociali, anti-corruzione 
 **Base:** Giovani ufficiali, soldati semplici, cappellani militari, medici da campo
@@ -127,8 +122,6 @@ All'interno delle Forze Armate esistono diverse correnti ideologiche e gruppi di
 - Smobilitazione rapida e dignitosa
 - Proteggere veterani da sfruttamento politico
 - Riforme per migliorare condizioni di servizio e assistenza sanitaria
-
-**Quote:** *"Ho visto abbastanza sangue per dieci vite. Non sparerò su cittadini repubblicani. Mai più."*
 
 
 ### 5. **I Veterani Disillusi** (Ex combattenti della liberazione, pensionati) 
@@ -140,8 +133,6 @@ All'interno delle Forze Armate esistono diverse correnti ideologiche e gruppi di
 - Denunciare guerra come massacro inutile orchestrato da industriali per profitto
 - Protestare contro politiche che sacrificano soldati per interessi economici
 
-**Quote:** *"Combattemmo per libertà 150 anni fa. Combatteremmo di nuovo oggi."*
-
 ### 6. **Gli Industrialisti Militari** (Logistica, ingegneria, artiglieria)
 **Ideologia:** Modernizzazione forzata, espansione industriale, controllo politico
 **Base:** Ufficiali della logistica, ingegneri militari, artiglieri, corpo del genio
@@ -151,8 +142,6 @@ All'interno delle Forze Armate esistono diverse correnti ideologiche e gruppi di
 - Sviluppare nuove armi
 - Sfruttare risorse naturali per esercito
 - Modernizzazione forzata dell'esercito
-
-**Quote:** *"Le guerre si vincono nelle officine, non nelle foreste"*
 
 **Tensione:** Alleati naturali dei Nazionalisti e degli Industriali.
 
@@ -165,8 +154,6 @@ All'interno delle Forze Armate esistono diverse correnti ideologiche e gruppi di
 - Opporsi a corruzione e clientelismo
 - Mantenere tradizioni militari 
 - Lealtà personale al Generale
-
-**Quote:** *"Mio padre servì, mio nonno servì, io servo. Questa è la via"*
 
 ## Figure di spicco
 

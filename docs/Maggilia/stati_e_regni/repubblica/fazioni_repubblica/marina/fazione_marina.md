@@ -106,7 +106,6 @@ La Marina è strutturata gerarchicamente con comando centralizzato ma ampia auto
 - Trattati commerciali esclusivi con popoli lontani
 - Gloria e ricchezza per la Repubblica
 
-**Quote:** *"Ogni vela oltre l'orizzonte porta la Repubblica più vicina alla grandezza"*
 
 ### 2. **I Mercantilisti Pragmatici** (Ufficiali della Flotta Mercantile, armatori)**
 **Ideologia:** "Generare profitti. Commercio in grande  
@@ -117,7 +116,6 @@ La Marina è strutturata gerarchicamente con comando centralizzato ma ampia auto
 - Ridurre regolamentazioni 
 - Privatizzare servizi navali
 
-**Quote:** *"Una nave che trasporta merci paga dieci navi da guerra"*
 
 ### 3. **I Militaristi Navali** (Ufficiali della Flotta da Guerra)
 **Ideologia:** Nazionalismo marittimo, potenza navale, dominio militare
@@ -129,7 +127,6 @@ La Marina è strutturata gerarchicamente con comando centralizzato ma ampia auto
 - Dimostrazioni di forza
 - Preparazione a guerra navale contro potenze straniere
 
-**Quote:** *"La pace si ottiene con cannoni, non con trattati. Il mare rispetta solo la forza"*
 
 ### 4. **I Guardiacoste Popolari** (Ufficiali della Guardia Costiera, pescatori)
 **Ideologia:** Protezione delle comunità costiere, pesca sostenibile, anti-pirateria locale
@@ -141,8 +138,6 @@ La Marina è strutturata gerarchicamente con comando centralizzato ma ampia auto
 - Più fondi per piccole imbarcazioni rispetto a grandi navi da guerra
 - Rappresentare interessi di comunità costiere povere
 
-**Quote:** *"A cosa serve conquistare oceani se i nostri pescatori muoiono di fame?"*
-
 ### 5. **I Tradizionalisti Velici** (Vecchia guardia, veterani)
 **Ideologia:** Preservare tradizioni marinare, vela, cultura navale 
 **Base:** Ufficiali senior addestrati su velieri, artigiani navali tradizionali, marinai romantici
@@ -152,8 +147,6 @@ La Marina è strutturata gerarchicamente con comando centralizzato ma ampia auto
 - Mantenere addestramento tradizionale 
 - Opporsi a industrializzazione eccessiva della Marina
 - Proteggere cultura marinara
-
-**Quote:** *"Il vapore ti porta dove vuoi. La vela ti insegna a rispettare il mare"*
 
 ### 6. **Gli Innovatori Tecnologici** (Ingegneri navali, giovani ufficiali)
 **Ideologia:** Modernizzazione, tecnologia avanzata, primato tecnologico
@@ -165,9 +158,6 @@ La Marina è strutturata gerarchicamente con comando centralizzato ma ampia auto
 - Sperimentare tecnologie avanzate 
 - Superare tecnologicamente ogni flotta rivale
 
-**Quote:** *"Una nave a vapore corazzata vale dieci galeoni. Il futuro non aspetta"*
-
-
 ### 7. **I Corsari Repubblicani** (Privatari, avventurieri semi-legali)
 **Ideologia:** Pirateria legalizzata, autonomia, servizio patriottico ambiguo
 **Base:** Capitani indipendenti con "lettere di corsa", equipaggi di rinnegati, avventurieri
@@ -176,8 +166,6 @@ La Marina è strutturata gerarchicamente con comando centralizzato ma ampia auto
 - Ottenere lettere di corsa ufficiali
 - Attaccare navi mercantili straniere, dividere bottino con Repubblica
 - Autonomia totale
-
-**Quote:** *"Pirata o corsaro? Dipende dalla bandiera che sventolo"*
 
 
 
