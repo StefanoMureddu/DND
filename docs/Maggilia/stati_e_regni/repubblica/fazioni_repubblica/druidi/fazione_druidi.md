@@ -128,7 +128,5 @@ I Druidi non hanno una struttura gerarchica formale tradizionale, ma operano att
 - **Ruolo:** Leader carismatico dei Custodi del Bosco Nero, veterano della liberazione
 ---
 
-**In sintesi:**  
-**I Druidi vogliono fermare la distruzione ambientale causata dall'industrializzazione, con metodi che vanno dalla negoziazione pacifica al sabotaggio e guerriglia. Divisi tra moderati che cercano riforme e radicali che usano violenza, rappresentano la coscienza ecologica della Repubblica e la voce di chi è stato sacrificato sull'altare del "progresso". Alleati naturali di Sindacalisti e contadini, nemici mortali di Industriali e Forze Armate. Il loro conflitto è il cuore morale della crisi della Repubblica.**
 
 [← Torna alle fazioni](../fazioni_repubblica.md)
