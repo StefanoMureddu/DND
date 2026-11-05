@@ -12,7 +12,7 @@ La **Repubblica degli Stati Liberi** (comunemente chiamata "la Repubblica") è u
 ## Panoramica
 
 **Capitale:** Gran-Karak  
-**Forma di governo:** Repubblica democratica rappresentativa (de facto oligarchia militarizzata)  
+**Forma di governo:** Repubblica democratica rappresentativa  
 **Capo di Stato:** Gran Cancelliere [Edrik Ironledger](../../personaggi/Edrik_Ironledger.md)
 **Popolazione:** ~8-10 milioni di abitanti  
 **Economia:** Economia di guerra. Agricoltura, industria militare, commercio marittimo, estrazione mineraria intensiva  
@@ -24,8 +24,6 @@ La **Repubblica degli Stati Liberi** (comunemente chiamata "la Repubblica") è u
 ## Storia
 
 La Repubblica nacque 150 anni fa da una lunga e sanguinosa **Guerra di Liberazione** contro l'**Impero dei Quattro Re**, un impero elfico oppressivo che dominava la regione. Le razze soggiogate (umani, nani, halfling, e altri) si unirono in rivolta guidati da leader carismatici e sostenuti dall'Esercito Popolare. Dopo anni di conflitto, l'Impero crollò e nacque la Repubblica degli Stati Liberi, promettendo libertà, uguaglianza e rappresentanza per tutti i cittadini.
-
-Tuttavia, 150 anni dopo, la schiavitù persiste (elfi ex-imperiali, prigionieri di guerra, orchi del nord) e nelle campagne la servitù per debito passa di padre in figlio, la disuguaglianza economica è estrema, e il potere è concentrato nelle mani di industriali, latifondisti e militari. L'industrializzazione rapida della costa occidentale ha portato prosperità per pochi e sfruttamento per molti, mentre la distruzione ambientale ha scatenato resistenza druidica violenta.
 
 ### **La Guerra del Grano (3817-presente)**
 
@@ -99,12 +97,6 @@ Il sistema genera conflitti continui. Latifondisti e industriali litigano su com
 - **Aumento del potere militare**: 6 anni di guerra hanno trasformato la Repubblica in stato sempre più militarista e l'esercito ha acquisito grande influenza.
 - **Sospensione libertà civili**: Tramite lo Stato di Pericolo e le "misure di sicurezza belliche" che ne derivano: censura, arresti senza processo, repressione del dissenso.
 
-### ** Dubbi nel sistema:**
-- **Potere concentrato**: Il potere è concentrato nelle mani di ricchi mercanti, industriali, latifondisti e generali
-- **Corruzione diffusa**: Voti comprati, seggi controllati da fazioni
-- **Schiavitù legalizzata**: Gli schiavi non possono votare, creando una sottoclasse priva di diritti
-- **Militarizzazione**: Grazie alla quale l'Esercito è diventato forza politica indipendente
-
 ---
 
 ## Struttura Sociale
@@ -150,13 +142,7 @@ Si esce pagando il debito, spesso con l'aiuto della famiglia o della gilda, con 
 
 La legge repubblicana non distingue tra uomini e donne, e la magia ha ridotto molte delle differenze che un tempo giustificavano i ruoli: una maga vale quanto un mago, una chierica guarisce quanto un chierico, e i parti assistiti dall'Ordine di Mater hanno reso la maternità molto meno pericolosa. Le abitudini, però, cambiano più lentamente delle leggi. Ci si aspetta ancora che siano le donne a occuparsi della casa e dei figli, e questo pesa sulle loro carriere, soprattutto negli ambienti che un tempo erano solo maschili: l'esercito, la marina, le gilde più antiche, il Senato. Nelle botteghe, nei mercati e nelle professioni magiche le donne sono numerose; nei gradi più alti sono ancora rare. La nomina di Thalassa Stormwright a Gran Ammiraglia è stata, per molti, la prova che qualcosa sta cambiando, e per altri la prova che qualcosa si sta rompendo.
 
-### **Geografia Sociale:**
 
-- **Costa Occidentale (industrializzata):**
-  - Fabbriche, miniere, porti
-  - Popolazione urbana operaia
-  - **Movimenti sociali:** Sindacati operai, abolizionismo, idee progressiste
-  - Centro dell'industrializzazione e della resistenza sociale
 ### **Economia di Guerra (3817-presente)**
 Sei anni di conflitto hanno trasformato radicalmente l'economia repubblicana:
 
@@ -217,25 +203,9 @@ La Repubblica è nel momento più critico della sua storia. La vittoria militare
 - **Commercio:** Rotte marittime controllate dalla Marina repubblicana. Esportazione grano e manufatti, importazione beni di lusso.
 - **Risorse Naturali:** Legname (deforestazione massiccia), minerali (Picchi Dorati), carbone, ferro.
 
-**Dilemma sociale:** Crescita economica rapida ma sfruttamento estremo di lavoratori e ambiente. Profitti concentrati nelle mani di pochi industriali.
 
 ---
 
-## Situazione Attuale: Crisi Imminente
-
-La Repubblica prevede anni difficili. Diverse crisi convergono simultaneamente:
-
-1. **Conflitto Industriali vs Druidi:** Deforestazione e inquinamento hanno scatenato un grande dissenso druidico.
-
-2. **Repressione di scioperi operai:** Sindacalisti organizzano scioperi su larga scala. L'Esercito li reprime brutalmente su ordine degli Industriali.
-
-3. **Tensioni politiche crescenti:** La fazione dell'esercito sta acquisendo sempre più influenza. La situazione politica è instabile.
-
-4. **Divisioni nel Clero:** L'autorità spirituale è paralizzata da conflitti interni tra conservatori (pro-industria) e progressisti (pro-lavoratori).
-
-5. **Crisi economica:** Disuguaglianza estrema, povertà diffusa, inflazione.
-
----
 
 ## Fazioni Politiche
 
