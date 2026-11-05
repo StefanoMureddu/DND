@@ -118,7 +118,7 @@ Ultima città della Piana ancora in mano al Patto Continentale. Blocco navale (M
 ### **Conseguenze Economiche**
 - **Debito di guerra enorme:** Finanziato da banche controllate dagli Industriali
 - Industrializzazione accelerata (fabbriche di armi, acciaierie per armamenti)
-- Aumento tasse (decime raddoppiate in zone ricche, coscrizione forzata in zone povere)
+- Aumento delle tasse (tasse di guerra raddoppiate nelle zone ricche, coscrizione forzata in quelle povere)
 - **Profitti enormi** per Industriali (Kaela Forgewick produsse armi, Marcus Voss comprò a metà prezzo i Buoni della Vittoria con cui dal 3818 lo Stato pagava soldati e fornitori)
 - Operai sfruttati (turni 14-16 ore per "sforzo bellico"), scioperi repressi come tradimento
 

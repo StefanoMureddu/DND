@@ -285,7 +285,7 @@ Stella che guidò la civiltà fuori dal buio.
 - Civiltà stessa = peccato originale
 - Ritorno a vita tribale
 - Industrializzazione = nuova apocalisse in arrivo
-- Violenza ecologista è difesa legittima
+- La violenza in difesa della foresta è legittima
 
 **Azioni:**
 - Sabotaggio fabbriche

@@ -5,7 +5,7 @@ layout: default
 
 # Regno di Puritania
 
-Il **Regno di Puritania** è una monarchia ereditaria situata nella parte sud-occidentale di Maggilia, separata dal Fiume della Frontiera, a est, dalla regione della Frontiera, occupata dal regno e contesa con la Repubblica degli Stati Liberi. Unica nel continente per la sua composizione quasi esclusivamente umana, la Puritania è retta da una monarchia teocratica in cui il potere del re è inseparabile dall'autorità del **Clero della Luce**, la chiesa monoteista che sostiene la dottrina della purezza razziale. Il regno si considera l'unico erede legittimo dell'antica civiltà umana, fondata su reperti che mostrano solo uomini incoronati da figure divine.
+Il **Regno di Puritania** è una monarchia ereditaria situata nella parte sud-occidentale di Magilia, separata dal Fiume della Frontiera, a est, dalla regione della Frontiera, occupata dal regno e contesa con la Repubblica degli Stati Liberi. Unica nel continente per la sua composizione quasi esclusivamente umana, la Puritania è retta da una monarchia teocratica in cui il potere del re è inseparabile dall'autorità del **Clero della Luce**, la chiesa monoteista che sostiene la dottrina della purezza razziale. Il regno si considera l'unico erede legittimo dell'antica civiltà umana, fondata su reperti che mostrano solo uomini incoronati da figure divine.
 
 ---
 

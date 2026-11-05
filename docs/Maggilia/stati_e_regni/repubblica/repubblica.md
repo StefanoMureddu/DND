@@ -63,7 +63,7 @@ La Repubblica è governata da un sistema democratico rappresentativo su tre live
 
 - **Consiglio dei Governatori:** Riunisce i Governatori di tutte le regioni. Coordina le politiche regionali e può porre il **veto** sulle leggi del Senato che toccano tasse, milizie, terre e tribunali delle regioni. Un veto può essere superato solo da una nuova votazione del Senato a maggioranza di due terzi.
 
-- **Consiglio della Repubblica:** Organo consultivo, senza diritto di voto sulle leggi. Ne fanno parte il Gran Cancelliere, che lo presiede, il Generale Supremo, il Gran Ammiraglio e il Patriarca dei Nove. Si riunisce nel Palazzo del Consiglio per le questioni di guerra, sicurezza e politica estera. Il Generale Supremo e il Gran Ammiraglio sono nominati dal Cancelliere con la conferma del Senato, senza scadenza, e il Cancelliere può revocarli.
+- **Consiglio della Repubblica:** Organo consultivo, senza diritto di voto sulle leggi. Ne fanno parte il Gran Cancelliere, che lo presiede, il Generale Supremo, il Gran Ammiraglio e il Patriarca dei Nove. Il Patriarca, capo di tutta la Chiesa dei Nove, siede solo dopo essere stato riconosciuto dal Senato e aver giurato fedeltà alla Prima Costituzione; se non è cittadino della Repubblica siede in sua vece un Legato confermato dal Senato. Si riunisce nel Palazzo del Consiglio per le questioni di guerra, sicurezza e politica estera. Il Generale Supremo e il Gran Ammiraglio sono nominati dal Cancelliere con la conferma del Senato, senza scadenza, e il Cancelliere può revocarli.
 
 ### **Lo Stato di Pericolo**
 
@@ -180,9 +180,10 @@ La Repubblica è nel momento più critico della sua storia. La vittoria militare
    - Operai lavorano 14-16 ore, sperano che la fine guerra porti miglioramenti
 
 5. **Divisioni Clero (paralisi totale):**
-   - Conservatori benedicono guerra come "volontà divina", supportano stabilità
-   - Progressisti condannano massacri, supportano disertori
-   - Patriarca Aldwin indeciso, paralizzato
+   - La Chiesa dei Nove è una sola per tutto il continente: il Patriarca guida anche i preti degli Stati del Patto
+   - I templi di Utar benedicono le armi, quelli di Oileana predicano la pace e nascondono disertori
+   - C'è chi chiede una Chiesa della Repubblica separata
+   - Patriarca Galen Thornwick accusato di paralisi: il suo silenzio tiene unita la Chiesa ma scontenta tutti
    - **Post-guerra:** Il Clero dovrà prendere posizione su questioni morali importanti
 
 6. **Crisi economica post-guerra:**  

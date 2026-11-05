@@ -19,6 +19,9 @@ layout: default
 ### Proprietari Terrieri
 - [Aldric Harvestmoor](Aldric_Harvestmoor.md) — Umano, Governatore della Valle del Drago, capo del Consiglio delle Masserie
 
+### Clero
+- [Patriarca Galen Thornwick, il Luminare](Galen_Thornwick.md) — Umano, Patriarca dei Nove
+
 ### Accademia del Sapere Ritrovato
 - [Maestro Archaeos](Maestro_Archaeos.md) — Gnomo, direttore dell'Accademia
 
