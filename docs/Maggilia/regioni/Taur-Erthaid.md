@@ -3,9 +3,17 @@ title: Taur-Erthaid
 layout: default
 ---
 
-Taur-Erthaid è una foresta elfica sulla costa orientale di Maggilia, stretta tra i Monti Ered-Morn a ovest e il mare a est. È la regione più chiusa del continente, le comunità elfiche che la abitano non cercano contatti con l'esterno, non commerciano regolarmente con nessuno e non permettono a forestieri di penetrare nell'interno boschivo. L'unico volto pubblico di Taur-Erthaid sono le due fortezze costiere. **Galen-dûr** a nord e **Galen-ost** a sud — che controllano gli unici approdi accessibili della costa e rispondono con cortesia fredda a chiunque si avvicini via mare.
+Taur-Erthaid è un regno elfico indipendente, interamente coperto dalla foresta, sulla costa orientale di Maggilia, stretta tra i Monti Ered-Morn a ovest e il mare a est. È la regione più chiusa del continente, le comunità elfiche che la abitano non cercano contatti con l'esterno, non commerciano regolarmente con nessuno e non permettono a forestieri di penetrare nell'interno boschivo. L'unico volto pubblico di Taur-Erthaid sono le due fortezze costiere. **Galen-dûr** a nord e **Galen-ost** a sud — che controllano gli unici approdi accessibili della costa e rispondono con cortesia fredda a chiunque si avvicini via mare.
 
 A nord, la guerra si avvicina: Spigamare è assediata da mesi, e il fronte della Guerra del Grano ha raggiunto il margine settentrionale della foresta. Gli elfi di Taur-Erthaid osservano. Non intervengono.
+
+## Storia
+
+### Il Regno di Taur-Erthaid
+
+Le cronache elfiche raccontano che all'unione dei Quattro Re fu invitato un quinto sovrano, il signore della foresta orientale, e che questi rifiutò. Se la leggenda sia vera nessuno può dirlo, ma il fatto storico è certo: Taur-Erthaid è l'unica terra del continente che nessun impero sia mai riuscito a conquistare. L'Impero dei Quattro Re la attaccò due volte, nel 2240 e nel 2615 DE. Entrambe le spedizioni si persero nella foresta, e le fonti imperiali ne parlano con un imbarazzo insolito. Dopo il 2615 l'Impero si limitò a chiamarla "regno amico" nei propri documenti, una formula che salvava la faccia a entrambi.
+
+I forestieri chiamano Taur-Erthaid un regno, e i diplomatici delle fortezze costiere parlano a nome di un sovrano. Nessuno straniero ne conosce però il nome, né ha mai visto la sua corte.
 
 ## Geografia
 
@@ -58,7 +66,7 @@ La magia di alto livello — *Commune with Nature* (5°), *Wall of Thorns* (6°)
 
 Gli elfi di Taur-Erthaid non gradiscono esterni nelle loro terre, tuttavia non sono ostili, non aggrediscono, non cacciano via, non minacciano. Semplicemente non parlano. I mercanti che approdano a Galen-dûr o Galen-ost trovano interlocutori precisi, corretti, capaci di trattare in cinque lingue diverse. Ottengono quello che chiedono se lo chiedono nel modo giusto. Non ottengono nient'altro, nessuna informazione sull'interno, nessuna risposta su quanti siano, dove abitino, come si governino.
 
-Questa riservatezza ha origini nella storia dell'Impero, le comunità di Taur-Erthaid erano elfiche ma periferiche, non coinvolte nel governo imperiale e sufficientemente isolate da non essere travolte dalla Grande Guerra di Liberazione. Hanno osservato la caduta dell'Impero, la fondazione della Repubblica, i decenni di cambiamento senza mai essere costrette a scegliere un lato. Intendono continuare così.
+Questa riservatezza ha origini antiche: Taur-Erthaid non fu mai parte dell'Impero, e le sue comunità erano abbastanza isolate da non essere travolte dalla Grande Guerra di Liberazione. Hanno osservato la caduta dell'Impero, la fondazione della Repubblica, i decenni di cambiamento senza mai essere costrette a scegliere un lato. Intendono continuare così.
 
 ### La Foresta come Entità
 

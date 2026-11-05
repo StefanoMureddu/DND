@@ -15,14 +15,14 @@ Il Senato e il Consiglio dei Governatori sono i campi di battaglia dove queste f
 
 ## Le Fazioni Principali
 
-### **[Gli Industriali](fazioni_repubblica/industriali/fazione_industriali)**
+### **[Gli Industriali](fazioni_repubblica/industriali/fazione_industriali.md)**
 **Base di potere:** Grandi industriali, proprietari di fabbriche, banchieri, commercianti ricchi  
 **Leader:** Gran Cancelliere [Edrik Ironledger](../../personaggi/Edrik_Ironledger.md) (Nano, magnate industriale)  
 **Obiettivi:** Modernizzazione accelerata, profitti, espansione industriale, deregolamentazione  
 **Ideologia:** Progresso tecnologico, guadagno, liberismo economico  
 **Status Guerra:** Arricchiti enormemente (industria militare, debito guerra).
 
-Gli Industriali controllano le fabbriche, le miniere, le banche e gran parte della ricchezza della Repubblica. Sei anni di guerra li hanno arricchiti enormemente: fabbriche di armi (Baronessa Kaela Forgewick), speculazione sui buoni di guerra (Marcus Voss), debito pubblico che rende la Repubblica dipendente dalle loro banche. Temono che la fine della guerra porti smobilitazione e crisi economica. Internamente divisi tra baroni dell'acciaio spietati, tecnocrati riformisti, e finanzieri speculatori.
+Gli Industriali controllano le fabbriche, le miniere, le banche e gran parte della ricchezza della Repubblica. Sei anni di guerra li hanno arricchiti enormemente: fabbriche di armi (Baronessa Kaela Forgewick), speculazione sui buoni di guerra (Marcus Voss), debito pubblico che rende la Repubblica dipendente dalle loro banche. Temono che la fine della guerra porti smobilitazione e crisi economica. Internamente divisi tra le antiche Casate di Gran-Karak e i Baroni del Ferro di Albanova, tra banchieri, mercanti, tecnocrati e padroni delle miniere.
 
 ---
 
@@ -33,25 +33,25 @@ Gli Industriali controllano le fabbriche, le miniere, le banche e gran parte del
 **Ideologia:** Nazionalismo militarista, sicurezza sopra libertà, ordine e disciplina.
 **Status Guerra:** Vittoriosi ma esausti. [Valenor](../../personaggi/Cassian_Valenor.md) è eroe nazionale. Molti veterani dovranno essere smobilitati.
 
-L'Esercito vinse la Guerra di Liberazione 150 anni fa e ora ha vinto la Guerra del Grano. Il **Generale [Cassian Valenor](../../personaggi/Cassian_Valenor.md)**, Comandante Supremo dei Falchi Grigi e Generale dell'Esercito, ha guidato alcune delle battaglie più decisive del conflitto, diventando un vero e proprio eroe nazionale e consolidando il suo potere all'interno della fazione. Come leader guida una grande fazione divisa internamente tra nazionalisti, lealisti costituzionalisti, tecnocrati e tradizionalisti.
+L'Esercito vinse la Guerra di Liberazione 150 anni fa e ora ha vinto la Guerra del Grano. Il **Generale [Cassian Valenor](../../personaggi/Cassian_Valenor.md)**, Comandante Supremo dei Falchi Grigi e Generale della Prima Armata, ha guidato alcune delle battaglie più decisive del conflitto, diventando un vero e proprio eroe nazionale e consolidando il suo potere all'interno della fazione. Come leader guida una grande fazione divisa internamente tra Vittoriosi, Lealisti Costituzionali, Genio, Montani e la Truppa dei coscritti.
 
 ---
 
-### **[I Proprietari Terrieri](fazioni_repubblica/proprietari_terrieri/fazione_proprietari_terrieri)**
-**Base di potere:** Latifondisti, nobiltà agraria, grandi proprietari terrieri  
-**Leader:** Conte Aldric Harvestmoor (Umano, latifondista)  
-**Obiettivi:** Preservare sistema agrario tradizionale, proprietà terriere, schiavitù, influenza politica  
-**Ideologia:** Conservatorismo agrario, difesa della tradizione e gerarchia sociale
+### **[I Proprietari Terrieri](fazioni_repubblica/proprietari_terrieri/fazione_proprietari_terrieri.md)**
+**Base di potere:** Le famiglie delle masserie della Valle del Drago, i Monti del Grano, allevatori e proprietari di boschi  
+**Leader:** [Aldric Harvestmoor](../../personaggi/Aldric_Harvestmoor.md) (Umano, Governatore della Valle del Drago)  
+**Obiettivi:** Dazi sul grano della Piana, nessuna Remissione dei debiti, terre della Piana, ordine nelle campagne  
+**Ideologia:** Conservatorismo agrario, difesa della proprietà e della tradizione
 
-I Proprietari Terrieri rappresentano la vecchia aristocrazia terriera, ricchissimi ma minacciati dall'industrializzazione e dalle riforme sociali. Controllano gran parte delle terre agricole e molti seggi senatoriali. Internamente divisi tra latifondisti schlavisti e proprietari illuminati.
+I Proprietari Terrieri discendono in gran parte dai capitani e dai finanziatori della Liberazione, che comprarono all'asta le masserie dell'Impero. Detengono la maggior parte dei debiti delle campagne e molti seggi della Valle. Il grano a basso prezzo della Piana conquistata li minaccia più di qualsiasi riforma. Internamente divisi tra le antiche famiglie, i nostalgici della Repubblica delle origini, gli Uomini dell'Ordine pronti a seguire un generale, riformatori, piccoli coltivatori, mugnai, signori del legname e allevatori.
 
 ---
 
 ### **[I Sindacalisti](fazioni_repubblica/sindacalisti/fazione_sindacalisti.md)**
 **Base di potere:** Operai di fabbrica, minatori, portuali, artigiani urbani  
-**Leader:** Tomasz "Martello" Ironwright (Nano, senatore moderato) / Aria "Fiamma Rossa" Emberhart (Umana, rivoluzionaria)  
-**Obiettivi:** Diritti lavoratori, abolizione schiavitù, ridistribuzione ricchezza, suffragio universale reale
-**Ideologia:** Socialismo operaio, solidarietà di classe  
+**Leader:** Tomasz "Martello" Ironwright (Umano, senatore moderato) / Aria "Fiamma Rossa" Emberhart (Umana, rivoluzionaria)  
+**Obiettivi:** Diritti dei lavoratori, abolizione della schiavitù e Remissione dei debiti, voto per tutti i cittadini liberi
+**Ideologia:** Solidarietà tra chi lavora, le officine a chi ci lavora (per i più radicali)  
 **Status Guerra:** Brutalmente repressi (scioperi = tradimento). Leader arrestati/uccisi. Sperano fine guerra porti miglioramenti.
 
 I Sindacalisti sono la forza emergente della costa occidentale industrializzata. Durante guerra, sfruttati al limite (turni 14-16 ore), scioperi repressi come "sabotaggio sforzo bellico", leader arrestati. Molti operai lavorano sperando che fine guerra porti miglioramenti. Organizzano scioperi, resistono alla repressione, e spingono per riforme radicali. Divisi tra riformisti che lavorano nel sistema e rivoluzionari che vogliono abbatterlo.
@@ -60,9 +60,9 @@ I Sindacalisti sono la forza emergente della costa occidentale industrializzata.
 
 ### **[I Druidi](fazioni_repubblica/druidi/fazione_druidi.md)**
 **Base di potere:** Foreste, comunità rurali, tribù native, circoli druidici  
-**Leader:** Haldrin Mossward (Firbolg, Custode del Bosco Nero)  
-**Obiettivi:** Fermare deforestazione, inquinamento, distruzione ecosistemi; preservare natura  
-**Ideologia:** Ecologismo radicale, rispetto natura sacra, resistenza alla civiltà industriale  
+**Leader:** [Haldrin Mossward](../../personaggi/Haldrin_Mossward.md) (Firbolg, Custode del Bosco Nero)  
+**Obiettivi:** Fermare la Spoliazione delle foreste e l'Avvelenamento di acque e terre; preservare il Tessuto Verde  
+**Ideologia:** Difesa radicale della terra sacra, Legge del Ritorno, resistenza alla civiltà delle officine  
 **Status Guerra:** Devastazione ambientale guerra (deforestazione massiccia per navi/assedi) li ha radicalizzati.
 
 I Druidi sono custodi delle foreste e oppositori primari dell'industrializzazione selvaggia. Sei anni di guerra hanno devastato ecosistemi tramite deforestazione accelerata per legname (navi da guerra, assedi, fabbriche), miniere sfruttate al limite e inquinamento massiccio. Druidi vedono la guerra come prova definitiva che civiltà industriale va fermata con qualsiasi mezzo. Divisi tra moderati che cercano compromessi e radicali che spingono per azioni dirette.
@@ -71,7 +71,7 @@ I Druidi sono custodi delle foreste e oppositori primari dell'industrializzazion
 
 ### **[La Marina](fazioni_repubblica/marina/fazione_marina.md)**
 **Base di potere:** Flotta repubblicana, marinai, porti, esploratori navali  
-**Leader:** Gran Ammiraglio Thalassa Stormwright (Umana, comandante supremo)  
+**Leader:** Gran Ammiraglia [Thalassa Stormwright](../../personaggi/Thalassa_Stormwright.md) (Umana, comandante supremo)  
 **Obiettivi:** Dominio marittimo, espansione commerciale, esplorazioni, autonomia dalla politica interna  
 **Ideologia:** Meritocratica, espansionista navale, pragmatica  
 **Status Guerra:** Vittoriosi. Meno coinvolti dell'Esercito. Contrappeso rispetto all'esercito.
@@ -94,12 +94,14 @@ Il Clero dei Nove Custodi è l'autorità spirituale dominante, ma paralizzato da
 ## Altre Forze Politiche
 
 ### **I Veterani della Guerra del Grano** (Forza Emergente)
-**Migliaia di soldati** da smobilitare. Promesse di terre e pensioni. Molti mutilati, traumatizzati, delusi. Alcuni vedono ingiustizia, loro soffrirono, altri si arricchirono. **Situazione complessa:** Veterani rappresentano una forza sociale importante ma imprevedibile.
+**Decine di migliaia di soldati** da smobilitare. Promesse di terre e pensioni. Molti mutilati, traumatizzati, delusi. Alcuni vedono ingiustizia, loro soffrirono, altri si arricchirono. **Situazione complessa:** Veterani rappresentano una forza sociale importante ma imprevedibile.
 
 Identità frammentata, nessuna leadership unificata. Potenziale forza imprevedibile e pericolosa nella Repubblica.
 
-### **I Veterani Vecchi** (Guerra Liberazione, 150 anni fa)
-Ex-soldati di guerre passate, ora abbandonati dallo Stato. Senzatetto, disabili, alcolisti. Amareggiati verso governo e Esercito. Simbolo promesse tradite. Minoranza marginale ma visibile.
+Ai coscritti si uniscono i soldati già congedati e gli invalidi dimenticati, che denunciano la guerra come un massacro inutile orchestrato dagli industriali per profitto e chiedono pensioni, cure per l'Ombra della battaglia e la terra promessa.
+
+### **I Nonni della Repubblica** (Veterani della Guerra di Liberazione)
+Gli ultimi combattenti della Grande Guerra di Liberazione sono ancora vivi: nani, gnomi, firbolg, mezzelfi longevi e i pochi elfi che si schierarono con i ribelli. Li chiamano "i Nonni della Repubblica". Celebrati ogni anno alla Festa della Liberazione, nel resto dell'anno sono in gran parte dimenticati: molti vivono di pensioni mai adeguate, alcuni nei quartieri bassi di Gran-Karak. Hanno visto nascere la Repubblica e ne ricordano le promesse, e questo li rende scomodi. Quando un Nonno parla contro il Senato, la gente ascolta.
 
 ### **Il Movimento Abolizionista**
 Coalizione trasversale (Sindacalisti, progressisti, alcuni Industriali illuminati, Clero riformatore) che spinge per abolizione schiavitù. Forte sulla costa ovest, debole nelle regioni agrarie.

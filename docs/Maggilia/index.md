@@ -29,8 +29,8 @@ Storia completa generale del continente
 - **0 DE** - Era della rinascita
 - **800-2063 DE** - Era delle città
 - **2063-3243 DE** - Era dei grandi imperi
-- **3243-3632 DE** - Era della frammentazione
-- **3632-presente DE** - Era dei cambiamenti
+- **3243-3673 DE** - Era della frammentazione
+- **3673-presente DE** - Era dei cambiamenti
 
 ---
 
@@ -43,9 +43,9 @@ Storia completa generale del continente
 **Economia:** 
 
 **Città principali:**
-- [Gran-Karak](insediamenti/Gran-Karak) - Capitale
-- [Porto Grigio](insediamenti/Porto-Grigio) - Porto industriale
-- [Edhellond](insediamenti/Edhellond) - Vecchia capitale
+- [Gran-Karak](insediamenti/Gran-Karak.md) - Capitale
+- Porto Grigio - Porto industriale
+- [Edhellond](insediamenti/Edhellond.md) - Vecchia capitale
 
 ---
 
@@ -61,9 +61,12 @@ Storia completa generale del continente
 - **Piana del Grano** - [Dettagli](regioni/piana-del-grano.md)
 - **West Loral** - [Dettagli](regioni/west-loral.md)
 - **East Loral** - [Dettagli](regioni/east-loral.md)
-- **Taur-Erthaid** - [Dettagli](regioni/taur-erthaid.md)
+- **Taur-Erthaid** - [Dettagli](regioni/Taur-Erthaid.md)
 - **La Frontiera** - [Dettagli](regioni/la-frontiera.md)
 - **Puritania** - [Dettagli](regioni/puritania.md)
+- **Regione di Elanor** - [Dettagli](regioni/regione-di-elanor.md)
+- **Pinoscuro** - [Dettagli](regioni/pinoscuro.md)
+- **Piana degli Orchi** - [Dettagli](regioni/piana-degli-orchi.md)
 
 ### Mari e Baie
 - **Mare dell'Ovest** 
@@ -77,7 +80,7 @@ Storia completa generale del continente
 ### Guerra del Grano (3817-presente)
 **Belligeranti:**
 - Repubblica degli Stati Liberi
-- Regno del Grano + alleati
+- Signoria del Grano Dorato + Patto Continentale
 
 **Situazione attuale:**
 - Spigamare assediata da 6 mesi
@@ -100,12 +103,18 @@ Storia completa generale del continente
 
 ---
 
+## 👤 Personaggi
+
+- [Indice dei Personaggi](personaggi/index.md)
+
+---
+
 ## 📚 Risorse
 
 ### Mappe
 - [Mappa Politica](mappe/Maggilia_politica_web.jpg)
 - [Mappa Geografica](mappe/Maggilia_geografica_web.jpg)
-- [Mappa Vie Commerciali](mappe/commerci.jpg)
+- Mappa Vie Commerciali
 
 ---
 

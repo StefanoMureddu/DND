@@ -5,7 +5,7 @@ layout: default
 
 # Regno di Puritania
 
-Il **Regno di Puritania** è una monarchia ereditaria situata nella parte sud-occidentale di Maggilia, separata dalla Repubblica degli Stati Liberi dal Fiume della Frontiera a est. Unica nel continente per la sua composizione quasi esclusivamente umana, la Puritania è retta da una monarchia teocratica in cui il potere del re è inseparabile dall'autorità del **Clero della Luce**, la chiesa monoteista che sostiene la dottrina della purezza razziale. Il regno si considera l'unico erede legittimo dell'antica civiltà umana, fondata su reperti che mostrano solo uomini incoronati da figure divine.
+Il **Regno di Puritania** è una monarchia ereditaria situata nella parte sud-occidentale di Maggilia, separata dal Fiume della Frontiera, a est, dalla regione della Frontiera, occupata dal regno e contesa con la Repubblica degli Stati Liberi. Unica nel continente per la sua composizione quasi esclusivamente umana, la Puritania è retta da una monarchia teocratica in cui il potere del re è inseparabile dall'autorità del **Clero della Luce**, la chiesa monoteista che sostiene la dottrina della purezza razziale. Il regno si considera l'unico erede legittimo dell'antica civiltà umana, fondata su reperti che mostrano solo uomini incoronati da figure divine.
 
 ---
 
@@ -15,7 +15,7 @@ Il **Regno di Puritania** è una monarchia ereditaria situata nella parte sud-oc
 **Forma di governo:** Monarchia ereditaria teocratica
 **Capo di Stato:** Re [trovare nome]
 **Capo del Clero:** Grande Sacerdote [trovare nome]
-**Popolazione:** ~2 milioni di abitanti
+**Popolazione:** ~3 milioni di abitanti
 **Economia:** Economia autosufficiente. Agricoltura, pesca, estrazione mineraria, artigianato locale. Commercio estero limitato e ideologicamente sconsigliato
 **Clima Politico:** Monarchia stabile e conservatrice. Forte intreccio tra potere religioso e politico. Isolazionismo ideologico. **Conflitto aperto con la Repubblica**: Puritania ha combattuto nella Guerra del Grano dalla parte del Patto Continentale, controlla la regione della Frontiera e parte della Foresta dei 4 Re, e si trova ora sul lato perdente di un conflitto appena concluso.
 
@@ -58,6 +58,10 @@ Quando il re deve prendere decisioni di portata nazionale, convoca il **Consigli
 ### **Il Clero della Luce**
 
 La Chiesa non è formalmente parte del governo, ma nella pratica è inseparabile da esso. Il **Grande Sacerdote** è il secondo uomo del regno. Ogni Arconte ha un consigliere spirituale di alto rango al proprio fianco. Le sentenze dei tribunali civili possono essere appellate ai tribunali ecclesiastici, con esiti che spesso divergono dalla legge ordinaria. La magia clericale è monopolio della Chies,— *Cure Wounds*, *Lesser Restoration*, rituali di benedizione, e questa esclusività è fonte di potere immenso.
+
+### **La Prova della Luce**
+
+In Puritania l'appartenenza alla razza umana non è una questione di aspetto ma di rito. La *Prova della Luce* viene celebrata alla nascita, al matrimonio e in ogni processo per impurità: un sacerdote del Clero della Luce invoca la luce divina sul fedele, e secondo la dottrina il sangue puro brilla mentre quello impuro si oscura. La Chiesa la proclama infallibile. Le cronache di confine registrano però casi di famiglie nobili "assolte" dopo cospicue donazioni, e di nemici politici "oscurati" in modo sorprendentemente tempestivo. La Prova è insieme lo strumento della purezza e la fonte più temuta del potere del Clero.
 
 ---
 
@@ -106,10 +110,10 @@ La Puritania non ha un sistema di fazioni formali come la Repubblica, ma le tens
 
 ## Per Saperne di Più
 
-- **[Regione di Puritania](../../regioni/puritania.md)** — La geografia, l'economia e la cultura della regione
-- **[La Frontiera](../../regioni/la-frontiera.md)** — La regione orientale controllata da Puritania, contesa con la Repubblica
-- **[Foresta dei 4 Re](../../regioni/Foresta-dei-4-re.md)** — La foresta di cui Puritania occupa la porzione meridionale
-- **[Guerra del Grano](../../eventi/guerra_del_grano_.md)** — Il conflitto in cui Puritania ha combattuto nel Patto Continentale
+- **[Regione di Puritania](../regioni/puritania.md)** — La geografia, l'economia e la cultura della regione
+- **[La Frontiera](../regioni/la-frontiera.md)** — La regione orientale controllata da Puritania, contesa con la Repubblica
+- **[Foresta dei 4 Re](../regioni/Foresta-dei-4-re.md)** — La foresta di cui Puritania occupa la porzione meridionale
+- **[Guerra del Grano](../eventi/guerra_del_grano_.md)** — Il conflitto in cui Puritania ha combattuto nel Patto Continentale
 
 ---
 

@@ -9,7 +9,7 @@ Il Clero della Repubblica rappresenta l'autorità spirituale organizzata che ven
 
 La guerra ha spaccato il Clero, paralizzandolo moralmente e politicamente: i conservatori benedissero la guerra come "volontà divina" e "difesa della civiltà", mentre i progressisti riformatori la condannarono come "massacro inutile orchestrato da industriali avidi". Il Patriarca Luminaris tentò una posizione equilibrata, ma molti preti disobbedirono, scegliendo fazioni diverse. Il Consiglio dei Nove Sacri fu profondamente diviso, e i templi locali scelsero autonomamente posizioni contrastanti. Attualmente le tensioni tra fazioni interne sono molto alte.
 
-Oggigiorno, 150 anni dopo la liberazione, il Clero si trova diviso tra conservatori che difendono tradizioni e privilegi, e progressisti che vogliono adattare la fede ai tempi moderni. Basato in ogni città e villaggio attraverso templi, monasteri e santuari, il Clero controlla ricchezza immensa (decime, donazioni, terre), ha influenza su miliardi di credenti, e può legittimare o condannare politiche governative attraverso sermoni e decreti. È potenzialmente la forza più capace di unire o dividere la Repubblica, tuttavia attualmente è paralizzato dall'indecisione e incapace di agire con coerenza.
+Oggigiorno, 150 anni dopo la liberazione, il Clero si trova diviso tra conservatori che difendono tradizioni e privilegi, e progressisti che vogliono adattare la fede ai tempi moderni. Basato in ogni città e villaggio attraverso templi, monasteri e santuari, il Clero controlla ricchezza immensa (decime, donazioni, terre), ha influenza su milioni di credenti, e può legittimare o condannare politiche governative attraverso sermoni e decreti. È potenzialmente la forza più capace di unire o dividere la Repubblica, tuttavia attualmente è paralizzato dall'indecisione e incapace di agire con coerenza.
 
 ## Organizzazione
 
@@ -191,4 +191,4 @@ Ogni divinità ha ordine dedicato con specializzazione:
 ### **Patriarca Aldwin Luminaris** (Umano, 71 anni)
 - **Ruolo:** Patriarca dei Nove, leader spirituale supremo della Repubblica, membro del Consiglio della Repubblica
 
-[← Torna alle fazioni](../fazioni_repubblica.md)
+[← Torna alle fazioni](../../fazioni_repubblica.md)

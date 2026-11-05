@@ -61,7 +61,7 @@ L'economia di Albanova è caratterizzata da una sintesi unica tra **tecnologie r
 **Manifatture Metallurgiche**: Forgie dove altiforni alimentati a carbone sono potenziati con rune di calore intenso. Fabbri e forgiatori runichi collaborano usando questi incantesimi:
 - *Mending* (cantrip accessibile a molti artigiani) ripara attrezzi usurati istantaneamente
 - I forgiatori più specializzati fanno pagare un sovrapprezzo per l'uso di *Heat Metal*, che mantiene il metallo alla temperatura ideale durante la forgiatura con un controllo superiore alle tecniche tradizionali
-- Forgiatori runichi incidono rune su armi e armature in acciaio (rune di affilatura, resistenza, leggerezza). L'arte runica era originariamente esclusiva degli elfi dell'Impero dei Quattro Re; dopo l'apertura della magia a tutte le razze durante l'Era della Frammentazione, i nani ne sono diventati i principali depositari e praticanti
+- Forgiatori runichi incidono rune su armi e armature in acciaio (rune di affilatura, resistenza, leggerezza). Nelle fucine convivono le due arti runiche: i Segni di Forgia, che i nani praticano da sempre, e le rune di Trama elfiche, che molti maestri nanici hanno imparato dopo l'apertura della magia a tutte le razze
 L'acciaio prodotto, anche se ancora costoso, è di qualità eccezionale
 
 **Produzione di Armi da Fuoco**: Botteghe specializzate che producono moschetti seguendo progetti antichi decifrati. La produzione integra:
@@ -69,7 +69,7 @@ L'acciaio prodotto, anche se ancora costoso, è di qualità eccezionale
 - Alchimisti che producono polvere da sparo (talvolta potenziata magicamente con varianti del *Produce Flame*)
 - Incisori di rune che aggiungono piccole rune di precisione alle canne
 
-I moschetti sono ancora relativamente rari e costosi, ma la produzione aumenta costantemente. Durante la Guerra del Grano, le truppe equipaggiate con questi moschetti hanno dimostrato la loro efficacia.
+I moschetti di serie escono ormai a centinaia dagli Arsenali Riuniti di Albanova; quelli d'élite, con rune di precisione, restano rari e costosi. Durante la Guerra del Grano, le truppe equipaggiate con questi moschetti hanno dimostrato la loro efficacia.
 
 **Fabbriche di Macchinari a Vapore**: Laboratori dove si costruiscono i primi motori a vapore funzionanti. Gli ingegneri combinano:
 - Progetti recuperati dagli Antichi
@@ -90,7 +90,7 @@ Al momento esistono pompe a vapore funzionanti (usate nelle miniere per drenare 
 
 Istituzione dove studiosi, maghi e artigiani collaborano:
 
-**Maestro Archaeos**: Il celebre erudito che sembra abbia decifrato la lingua degli Antichi. Continua a lavorare su nuovi progetti, con particolare focus su macchinari più complessi.
+**[Maestro Archaeos](../personaggi/Maestro_Archaeos.md)**: Il celebre erudito che ha decifrato in modo sistematico la lingua degli Antichi. Continua a lavorare su nuovi progetti, con particolare focus su macchinari più complessi.
 
 **Dipartimenti dell'Accademia**:
 - **Dipartimento di Tecnologia Antica**: Decifrazione e ricostruzione di progetti
@@ -251,13 +251,13 @@ La cucina di Bosconero è una delle più divise della Repubblica: le tavole di A
 
 ### Centri Principali
 
-**Albanova - "La Città del Domani"**: La città principale della regione e centro dell'innovazione magico-tecnologica di Maggilia, situata sulla costa alla foce del fiume Brumetallo. Con una popolazione stimata di circa 35.000-40.000 abitanti, Albanova rappresenta la sintesi tra tecnologia e magia applicata.
+**Albanova - "La Città del Domani"**: La città principale della regione e centro dell'innovazione magico-tecnologica di Maggilia, situata sulla costa alla foce del fiume Brumetallo. Con una popolazione stimata di circa 50.000 abitanti, Albanova rappresenta la sintesi tra tecnologia e magia applicata.
 
 **Fendifoglia**: Principale villaggio druidico nel cuore della foresta centrale.. Popolazione 1.000-1.500 abitanti (varia stagionalmente). Rappresenta l'antitesi filosofica di Albanova.
 ### Insediamenti Minori
 
 **Villaggi Minerari Orientali** (ai piedi delle Catene degli Antichi, 300-1.500 abitanti):
-- **Bocca Nera**: Estrazione carbone, gallerie illuminate con *Continual Flame*, pompe a vapore
+- **Bocca Nera**: Estrazione carbone (Compagnia Carbonifera del Bosconero), gallerie illuminate con *Continual Flame*, pompe a vapore
 - **Picco del Ferro**: Miniere di ferro, alcuni minatori usano *Mold Earth* per scavi
 - **Vallescura**: Rame e zinco, piccola comunità di artigiani
 - **Pietraforte**: Cave di pietra, scalpellini usano *Stone Shape* quando possibile

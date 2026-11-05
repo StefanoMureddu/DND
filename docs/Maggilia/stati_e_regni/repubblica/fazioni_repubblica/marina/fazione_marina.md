@@ -3,89 +3,51 @@ title: La Marina della Repubblica
 layout: default
 ---
 
-La Marina della Repubblica rappresenta il braccio navale delle forze armate e il guardiano delle vie commerciali marittime. Nata dalla necessità di proteggere le coste e i commerci via mare dopo la liberazione, la Marina è cresciuta fino a diventare una forza politica ed economica autonoma con interessi spesso divergenti dall'Esercito.
+La Marina della Repubblica è il braccio navale delle forze armate e il guardiano delle vie commerciali marittime. Nata dalla necessità di proteggere coste e commerci dopo la Liberazione, è cresciuta fino a diventare una forza politica ed economica autonoma, con interessi spesso diversi da quelli dell'Esercito.
 
 **STATUS POST-GUERRA DEL GRANO (3817-3823):**
 
-La marina ha visto una crescita moderata durante la Guerra del Grano, con un aumento del 30% degli effettivi e l'acquisizione di nuove navi da guerra. Tuttavia, a differenza dell'Esercito, la Marina non ha subito la grande militarizzazione forzata, mantenendo un'immagine più "pulita" agli occhi del pubblico. La flotta è stata rafforzata per proteggere le rotte commerciali e contrastare la pirateria, ma non è stata coinvolta direttamente nella repressione interna e per questo è vista spesso più favorevolmente dal popolo.
-Basata principalmente nei grandi porti della costa occidentale (Albanova, Portogrigio, altri porti minori), la Marina controlla una flotta di navi da guerra, mercantili, esplorazione e pesca.
+Durante la Guerra del Grano la Marina è cresciuta di circa il 30% e oggi conta circa 18.000 marinai e 1.500 Predatori Blu. A differenza dell'Esercito non ha subito la militarizzazione di massa e non è stata coinvolta nella repressione interna, e per questo gode di un'immagine più "pulita" agli occhi del popolo. Ha bloccato Roccapura per tre anni, ha forzato lo Stretto tortuoso e ha distrutto la flotta del Patto nella Baia delle Nebbie: per molti repubblicani la guerra l'ha vinta lei.
 
 ## Organizzazione
 
-La Marina è strutturata gerarchicamente con comando centralizzato ma ampia autonomia operativa per i comandanti in mare:
-
 ### **Comando Supremo Navale**
+Con sede a Porto Grigio. Il **Gran Ammiraglio** comanda la flotta e siede nel Consiglio della Repubblica, con meno peso del Generale Supremo dell'Esercito. È nominato dal Gran Cancelliere su raccomandazione del Senato e gestisce strategia navale, bilancio e promozioni. Il **Consiglio degli Ammiragli**, composto dai sette ammiragli più anziani, delibera su operazioni maggiori, costruzioni navali e trattati marittimi.
 
-- **L'Ammiraglio Supremo**: Comandante della flotta, siede nel Consiglio della Repubblica (ma con meno peso del Generale Supremo dell'Esercito). Nominato dal Gran Cancelliere su raccomandazione del Senato. Gestisce strategia navale, budget, promozioni.
+Attuale Gran Ammiraglia: [Thalassa Stormwright](../../../../personaggi/Thalassa_Stormwright.md), la prima donna nella storia della Repubblica a ricoprire la carica.
 
-- **Il Consiglio degli Ammiragli**: Assemblea dei 7 ammiragli senior (uno per ogni divisione principale). Delibera su operazioni maggiori, costruzioni navali, trattati marittimi.
+### **Flotte**
+- **Flotta dell'Ovest** (Porto Grigio): Baia dell'Oro, Stretto del Serpente, Mare dell'Ovest. Durante la guerra ha tenuto il blocco di Roccapura.
+- **Squadra dell'Est** (Ancoraggio Grigio, Arcipelago di Nebbia): mare orientale, blocco di Spigamare. Che cosa ne sarà dopo la pace, e se la Repubblica terrà l'Ancoraggio Grigio, è una delle questioni aperte delle trattative.
+- **Flotta Mercantile di Stato** (25 navi da carico): trasporta beni per conto della Repubblica e gestisce i monopoli statali su spezie e metalli preziosi, i cui profitti finanziano la Marina.
+- **Corpo Esplorativo** (8 navi veloci, cartografi, naturalisti): spedizioni oltre l'Arcipelago di Nebbia e a sud di Tol-Eressëa, le uniche direzioni aperte. A ovest ci sono le Acque di Utar, a nord i ghiacci.
+- **Guardia Costiera** (centinaia di piccole imbarcazioni): contrabbando, pirateria, pesca illegale. È la Marina che la gente vede ogni giorno.
 
-### **Divisioni della Flotta**
+In tutto la Flotta da Guerra conta 12 navi maggiori, 30 fregate e oltre 50 navi minori, divise tra la Flotta dell'Ovest e la Squadra dell'Est.
 
-- **La Flotta da Guerra** (12 navi da guerra maggiori, 30 fregate, 50+ navi minori): Responsabile della difesa costiera, scorta ai convogli, proiezione di potenza. Equipaggi addestrati per combattimento navale. Quartier generale: Albanova.
+### **Corpi e servizi**
+- **Cantieri Navali Repubblicani** (4 cantieri maggiori, il principale a Porto Grigio): costruiscono e riparano navi militari e mercantili, in stretta alleanza con gli Industriali.
+- **Accademia Navale** (Porto Grigio): forma ufficiali, navigatori e ingegneri navali. È meritocratica: anche i figli dei pescatori possono diventare ufficiali. Lo statuto ammette i figli degli ufficiali, i giovani di famiglie che raggiungono il censo e i piloti abilitati della Gilda dei Piloti. Non vieta le donne, ma prima di Stormwright nessuna era mai entrata; oggi le cadette sono poche decine, quasi tutte figlie di piloti. Con il sistema censitario, però, molti di quegli ufficiali non votano.
+- **Predatori Blu:** fanteria di marina d'élite per abbordaggi, incursioni costiere e operazioni anfibie. Rivali dichiarati dei Falchi Grigi.
+- **Servizio di Intelligence Navale:** spionaggio marittimo e informazioni sulle flotte straniere. In conflitto di competenze con i Falchi Grigi.
+- **Cappellani di Nivia:** l'Ordine di Nivia benedice navi e partenze; i suoi cappellani hanno avvolto nella nebbia la Squadra dell'Est durante la Traversata del Tortuoso.
 
-- **La Flotta Mercantile di Stato** (25 navi cargo): Trasporta beni per conto della Repubblica, gestisce monopoli commerciali (spezie, metalli preziosi, beni di lusso). Profitti finanziare la Marina.
+### **Le lettere di corsa**
+Durante la guerra la Repubblica ha autorizzato capitani privati ad attaccare le navi del Patto, in cambio di una parte del bottino. Con la pace le lettere scadono.
 
-- **Il Corpo Esplorativo** (8 navi veloci, cartografi, naturalisti): Esplora oceani, scopre nuove terre, traccia mappe. Prestigioso ma sottofinanziato. Sogno romantico di molti marinai giovani.
+## Le richieste della Marina
 
-- **La Guardia Costiera** (centinaia di piccole imbarcazioni): Pattuglia coste, contrasta contrabbando, pirateria, pesca illegale. Contatto diretto con comunità costiere. Meno prestigiosa ma essenziale.
-
-- **I Cantieri Navali Repubblicani** (4 cantieri maggiori): Costruiscono e riparano navi militari e mercantili. Migliaia di operai specializzati. Alleanza stretta con Industriali (acciaio, macchinari).
-
-- **L'Accademia Navale** (Albanova): Addestra ufficiali, navigatori, ingegneri navali. Elite culturale della Marina. Meritocratica (anche figli di pescatori possono diventare ufficiali).
-
-### **Unità Speciali**
-
-- **I Predatori Blu** (marine d'assalto): Unità d'élite per abbordaggi, raid costieri, operazioni anfibie. Rivalità con Falchi Grigi dell'Esercito (entrambi rivendicano status di "migliori soldati della Repubblica").
-
-- **Il Servizio di Intelligence Navale**: Spionaggio marittimo, controspionaggio, informazioni su flotte straniere. Opera in segreto, conflitto territoriale con Falchi Grigi.
-
-## Ambizioni e obiettivi
-
-### **Visione centrale:**
+### **Visione dichiarata:**
 *"Chi controlla i mari, controlla il commercio. Chi controlla il commercio, controlla il mondo"*
 
-### **Obiettivi principali:**
+### **Cosa chiede pubblicamente:**
+- **Una flotta all'altezza del futuro:** più navi da guerra, una flotta a vapore, scafi rivestiti di ferro, un bilancio navale pari a quello dell'Esercito
+- **Il controllo del mare:** il dominio del Mare dell'Ovest, basi su isole strategiche, la fine della pirateria
+- **Nuove rotte:** spedizioni oltre l'Arcipelago di Nebbia e avamposti commerciali, trattati commerciali vantaggiosi
+- **Autonomia operativa:** meno dipendenza dal Senato per le decisioni in mare, un Gran Ammiraglio con lo stesso peso del Generale Supremo
+- **Neutralità:** nessun impiego della Marina nella repressione interna
 
-1. **Espansione della flotta**
-   - Triplicare navi da guerra
-   - Costruire flotta a vapore moderna
-   - Navi corazzate in ferro (tecnologia emergente)
-   - Budget navale pari a quello dell'Esercito (attualmente nettamente inferiore)
-
-2. **Dominio marittimo regionale**
-   - Controllo totale del Mare dell'Ovest
-   - Basi navali su isole strategiche
-   - Monopolio commerciale su rotte principali
-   - Eliminare pirateria e flotte rivali
-
-3. **Espansione commerciale e coloniale**
-   - Scoprire nuove terre oltre l'oceano (oro, risorse, mercati)
-   - Fondare colonie/avamposti commerciali
-   - Trattati commerciali esclusivi con nazioni straniere
-   - Proteggere interessi mercantili della Repubblica all'estero
-
-4. **Autonomia politica dalla terraferma**
-   - Ridurre dipendenza dal Senato per decisioni operative
-   - Autofinanziamento tramite commercio
-   - Ammiraglio Supremo con status pari al Generale Supremo
-   - Marina come "quarto potere" (dopo Senato, Cancelliere, Esercito)
-
-5. **Innovazione tecnologica navale**
-   - Investire in ricerca: navi più veloci, resistenti, armate
-   - Collaborazione con Industriali e Accademia Tecnica
-   - Primato tecnologico su flotte straniere
-   - Formare ingegneri navali di eccellenza
-
-6. **Prestigio e tradizione marinara**
-   - Promuovere cultura navale
-   - Reclutamento meritocratico
-   - Codice d'onore marinaro
-   - Marina come forza "nobile" in confronto all'Esercito "brutale"
-
-7. **Neutralità nei conflitti interni**
-   - Evitare repressione
-   - Mantenere immagine "pulita" rispetto all'Esercito
+I critici notano che una Marina che si finanzia con i monopoli e chiede autonomia dal Senato assomiglia sempre più a un potere a sé, il "quarto potere" di cui parlano alcuni ammiragli. La Marina risponde di essere l'unica forza armata che non ha mai puntato le armi contro un cittadino della Repubblica.
 
 ### **Slogan/Retorica pubblica:**
 - *"Il mare è la nostra strada, il mondo è la nostra meta"*
@@ -96,83 +58,62 @@ La Marina è strutturata gerarchicamente con comando centralizzato ma ampia auto
 
 ## Fazioni interne
 
-### 1. **Gli Espansionisti Coloniali** (Ufficiali esploratori, navigatori visionari)
-**Ideologia:** Esplorazione. Colonialismo, nuove rotte, dominazione oceani 
-**Base:** Corpo Esplorativo, capitani di lungo corso, cartografi, mercanti avventurosi
+La Marina mostra al pubblico un'unica bandiera, ma al suo interno si muovono sette correnti. Al centro di tutto c'è una disputa che nei porti si segue come una partita: vela contro vapore.
 
-**Obiettivi:**
-- Finanziamento massiccio per spedizioni esplorative
-- Fondare colonie oltremare
-- Trattati commerciali esclusivi con popoli lontani
-- Gloria e ricchezza per la Repubblica
+### 1. **I Fumaioli**
+**Base:** ufficiali della Flotta da Guerra, ingegneri navali, i migliori diplomati dell'Accademia
 
+Il nome viene dai marinai, che chiamano così gli ufficiali delle navi a caldaia, e i Fumaioli lo portano con orgoglio. Sono convinti che la prossima guerra sul mare la vincerà chi avrà per primo navi che non dipendono dal vento. Chiedono una flotta a vapore, scafi rivestiti di ferro e un bilancio navale pari a quello dell'Esercito.
 
-### 2. **I Mercantilisti Pragmatici** (Ufficiali della Flotta Mercantile, armatori)**
-**Ideologia:** "Generare profitti. Commercio in grande  
-**Base:** Flotta Mercantile, mercanti navali, cantieri privati, banchieri marittimi
+*Cosa dicono di loro:* i Velieri ricordano che la Traversata del Tortuoso l'hanno fatta le vele e la nebbia, non le caldaie. I Sindacalisti notano che ogni caldaia ordinata dalla Marina porta la firma della Baronessa Forgewick.
 
-**Obiettivi:**
-- Espandere Flotta Mercantile 
-- Ridurre regolamentazioni 
-- Privatizzare servizi navali
+### 2. **I Velieri**
+**Base:** capitani anziani, carpentieri navali, le famiglie marinare di Porto Grigio
 
+Per loro una nave è un'arte prima che un'arma, e la Marina è una comunità di uomini e donne che conoscono il vento. Non rifiutano il progresso, ma temono che la flotta diventi un reparto delle fabbriche di Albanova e che i marinai diventino fuochisti.
 
-### 3. **I Militaristi Navali** (Ufficiali della Flotta da Guerra)
-**Ideologia:** Nazionalismo marittimo, potenza navale, dominio militare
-**Base:** Comandanti di navi da guerra, ufficiali d'artiglieria, Predatori Blu
+*Cosa dicono di loro:* gli Innovatori li chiamano "il museo galleggiante". A Porto Grigio però nessuno dimentica che la guerra l'hanno vinta loro.
 
-**Obiettivi:**
-- Flotta da guerra massiccia
-- Costruire corazzate e navi a vapore da guerra
-- Dimostrazioni di forza
-- Preparazione a guerra navale contro potenze straniere
+### 3. **Gli Esploratori**
+**Base:** Corpo Esplorativo, capitani di lungo corso, cartografi e naturalisti
 
+Guardano oltre l'Arcipelago di Nebbia e a sud di Tol-Eressëa, dove nessuna carta repubblicana arriva. Chiedono spedizioni, nuove rotte e avamposti commerciali, e promettono che la prossima ricchezza della Repubblica verrà dal mare aperto.
 
-### 4. **I Guardiacoste Popolari** (Ufficiali della Guardia Costiera, pescatori)
-**Ideologia:** Protezione delle comunità costiere, pesca sostenibile, anti-pirateria locale
-**Base:** Guardia Costiera, pescatori, abitanti villaggi costieri, marinai di basso rango
+*Cosa dicono di loro:* in Senato li chiamano "i sognatori a spese pubbliche". I mercanti, però, comprano ogni carta che riportano.
 
-**Obiettivi:**
-- Priorità a protezione coste, pesca, contrabbando, pirateria locale
-- Opporsi a sfruttamento eccessivo delle risorse marine
-- Più fondi per piccole imbarcazioni rispetto a grandi navi da guerra
-- Rappresentare interessi di comunità costiere povere
+### 4. **I Mercantilisti**
+**Base:** ufficiali della Flotta Mercantile di Stato, funzionari dei monopoli
 
-### 5. **I Tradizionalisti Velici** (Vecchia guardia, veterani)
-**Ideologia:** Preservare tradizioni marinare, vela, cultura navale 
-**Base:** Ufficiali senior addestrati su velieri, artigiani navali tradizionali, marinai romantici
+Difendono i monopoli di Stato su spezie e metalli preziosi, che finanziano la Marina senza dover chiedere ogni anno il permesso al Senato. Per loro una flotta che si paga da sola è una flotta libera.
 
-**Obiettivi:**
-- Preservare flotta a vela
-- Mantenere addestramento tradizionale 
-- Opporsi a industrializzazione eccessiva della Marina
-- Proteggere cultura marinara
+*Cosa dicono di loro:* gli Industriali li accusano di soffocare il libero commercio. I loro critici in Senato temono che una Marina che si finanzia da sola smetta prima o poi di rispondere a qualcuno.
 
-### 6. **Gli Innovatori Tecnologici** (Ingegneri navali, giovani ufficiali)
-**Ideologia:** Modernizzazione, tecnologia avanzata, primato tecnologico
-**Base:** Accademia Navale, cantieri moderni, ufficiali giovani, ingegneri
+### 5. **I Guardiacoste**
+**Base:** Guardia Costiera, marinai di basso rango, villaggi di pescatori
 
-**Obiettivi:**
-- Flotta interamente a vapore 
-- Navi corazzate in ferro 
-- Sperimentare tecnologie avanzate 
-- Superare tecnologicamente ogni flotta rivale
+Sono la Marina che la gente vede ogni giorno. Chiedono più barche piccole e meno corazzate, più protezione per i villaggi, pesca regolata. Molti di loro hanno fratelli tra i portuali.
 
-### 7. **I Corsari Repubblicani** (Privatari, avventurieri semi-legali)
-**Ideologia:** Pirateria legalizzata, autonomia, servizio patriottico ambiguo
-**Base:** Capitani indipendenti con "lettere di corsa", equipaggi di rinnegati, avventurieri
+*Cosa dicono di loro:* gli ammiragli li considerano poco più che doganieri. I villaggi costieri li considerano gli unici marinai che non se ne sono mai andati.
 
-**Obiettivi:**
-- Ottenere lettere di corsa ufficiali
-- Attaccare navi mercantili straniere, dividere bottino con Repubblica
-- Autonomia totale
+### 6. **Gli Ufficiali di Casata**
+**Base:** ufficiali provenienti da famiglie di proprietari terrieri e da antiche famiglie militari
 
+Difendono la tradizione delle grandi famiglie che hanno dato ufficiali alla Repubblica fin dalla Liberazione. Sostengono che il comando richieda un'educazione che non si impara all'Accademia. Si ostinano a chiamare Stormwright "Gran Ammiraglio". Hanno presentato un ricorso per limitare l'ammissione dei piloti all'Accademia, e si oppongono allo Statuto della Pari Ammissione.
 
+*Cosa dicono di loro:* che non hanno mai perdonato a una figlia di piloti di aver vinto la guerra al posto loro.
+
+### 7. **I Corsari**
+**Base:** capitani privati con lettere di corsa
+
+Durante la guerra hanno attaccato le navi del Patto in cambio di una parte del bottino. Con la pace le loro lettere scadranno, e chiedono di essere assorbiti nella Marina, di ricevere nuove lettere o terre come i veterani.
+
+*Cosa dicono di loro:* nei porti ci si chiede che cosa faranno centinaia di uomini armati, con navi veloci e senza più un nemico legale.
 
 ## Figure di spicco
 
-### **Gran Ammiraglio Thalassa Stormwright** (Umana, 58 anni)
+### **Gran Ammiraglia [Thalassa Stormwright](../../../../personaggi/Thalassa_Stormwright.md)** (Umana, 58 anni)
+Prima donna a guidare la Marina della Repubblica, eroina della Traversata del Tortuoso e della Baia delle Nebbie.
+
 ---
 
-
-[← Torna alle fazioni](../fazioni_repubblica.md)
+[← Torna alle fazioni](../../fazioni_repubblica.md)

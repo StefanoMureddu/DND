@@ -3,84 +3,57 @@ title: I sindacalisti
 layout: default
 ---
 
-I Sindacalisti rappresentano la voce organizzata dei lavoratori della Repubblica: operai di fabbrica, minatori, portuali, braccianti agricoli e artigiani. Nati come risposta allo sfruttamento brutale dell'industrializzazione selvaggia, i sindacati hanno trasformato masse disperate in forza politica capace di sfidare Industriali e Proprietari Terrieri.
+I Sindacalisti sono la voce organizzata dei lavoratori della Repubblica: operai di fabbrica, minatori, portuali, braccianti e artigiani. Nati come risposta allo sfruttamento delle prime officine, i sindacati hanno trasformato masse disperate in una forza capace di sfidare Industriali e Proprietari Terrieri, pur senza che la maggior parte dei loro iscritti abbia il diritto di voto.
 
 **STATUS POST-GUERRA DEL GRANO (3817-3823):**
 
-Sei anni di guerra furono catastrofici per i Sindacalisti. Sotto la legge marziale e la retorica della sicurezza nazionale, il movimento sindacale fu brutalmente represso con arresti ed esecuzioni sommarie.
-La fine della guerra porta speranza di libertà e diritti nonchè grandi masse di combattenti in stato di smobilitazione che cercano un futuro.
-Concentrati principalmente ad Albanova e nelle città industriali della costa occidentale, i Sindacalisti oscillano tra strategia riformista (negoziazione, scioperi pacifici) e tattica rivoluzionaria (sabotaggio, insurrezione). 
+Sei anni di guerra sono stati catastrofici per i Sindacalisti. Sotto lo Stato di Pericolo ogni sciopero è diventato "sabotaggio dello sforzo bellico", e molti dirigenti sono finiti davanti ai tribunali militari. La fine della guerra porta speranza, e con essa decine di migliaia di coscritti che torneranno nelle officine e nei campi. Concentrati soprattutto ad Albanova e nelle città industriali della costa occidentale, i Sindacalisti oscillano tra la trattativa e la rivolta.
+
+## Storia
+
+- **L'Incendio delle Due Vie (3803):** un incendio nel Quartiere delle Fabbriche di Albanova distrugge due vie e uccide decine di operai. Dalle Case del Popolo nate per soccorrere le famiglie nasce la Federazione dei Lavoratori Metallurgici. Da allora le squadre antincendio sono obbligatorie per legge.
+- **Bocca Nera (3811):** le Guardie Statiche, su ordine del Generale Supremo [Harek Stoneshield](../../../../personaggi/Harek_Stoneshield.md), sgomberano lo sciopero dei minatori di Bocca Nera, nel Bosconero. Undici minatori muoiono. Ogni anno i minatori ne celebrano l'anniversario.
+- **La guerra (3817-3823):** con lo Stato di Pericolo gli scioperi diventano "sabotaggio dello sforzo bellico". Nel 3820 la Piazza degli Scioperi di Albanova viene sgomberata con arresti di massa. Tra gli arrestati c'è una giovane tessitrice, Aria Emberhart, che nella notte fugge dalla caserma della Guardia Cittadina liberando altri prigionieri. I manifesti con il suo nome, appesi in tutta Albanova, la rendono famosa come "Fiamma Rossa".
 
 ## Organizzazione
 
-I Sindacalisti sono organizzati in rete decentralizzata di sindacati locali, federazioni di categoria e comitati clandestini:
+I Sindacalisti sono una rete decentralizzata di sindacati locali, federazioni di mestiere e comitati clandestini.
+
+### **La Legge sulle Coalizioni**
+Le associazioni operaie sono tollerate come società di mutuo soccorso, ma la **Legge sulle Coalizioni** considera cospirazione ogni sciopero che "danneggia il commercio della Repubblica". Si può essere iscritti a un sindacato e finire in prigione per uno sciopero.
 
 ### **Sindacati**
 
-- **La Federazione dei Lavoratori Metallurgici** (FLM): Sindacato più grande e potente, rappresenta 12.000 operai delle acciaierie e officine di Albanova. Leader riformisti, negoziano contratti collettivi ma evitano scontri diretti.
+- **Federazione dei Lavoratori Metallurgici (FLM)** (circa 3.000 iscritti, Albanova): la più influente. Firma contratti collettivi, esprime un senatore, evita gli scontri diretti.
+- **Lega dei Minatori** (circa 8.000 iscritti, Picchi Dorati e Bosconero): la più numerosa e la più dura. Porta il lutto di Bocca Nera.
+- **Unione dei Portuali della Costa Ovest** (circa 1.500 iscritti): scaricatori, marinai e operai dei cantieri. Può paralizzare il commercio, e ha legami con marinai stranieri e con i Guardiacoste della Marina.
+- **Lavoratori Liberi di Albanova** (circa 2.500 iscritti): tutti i mestieri, molti giovani, cresciuti durante la guerra e più radicali degli altri.
+- **Le Tessitrici di Albanova:** le operaie delle fabbriche tessili.
+- **Lega dei Braccianti:** contadini, braccianti e servi per debito delle campagne.
+- **Circolo Operaio Rivoluzionario (COR):** non un sindacato ma una rete clandestina. Dopo gli arresti della Piazza degli Scioperi (3820) alcuni gruppi di giovani dei Lavoratori Liberi cominciarono ad agire da soli, in cellule separate; col tempo le cellule si sono messe in contatto e hanno cominciato a coordinarsi, ma i loro membri spesso non si conoscono tra loro, perché chi viene catturato non possa tradire troppi compagni. Ricercato dai Falchi Grigi.
 
-- **L'Unione dei Portuali della Costa Ovest**: Controlla scaricatori, marinai e operai dei cantieri navali. Strategicamente cruciali (possono paralizzare commercio), usano scioperi come arma politica.
+### **Strutture comuni**
 
-- **La Gilda dei Minatori dei Picchi Dorati**: Rappresenta 8.000 minatori in condizioni estreme (alta mortalità, salari bassi). Tradizionalmente militanti, frequenti scioperi violenti.
+- **Il Consiglio Generale del Lavoro:** assemblea informale dei dirigenti dei sindacati maggiori. Decide strategie, scioperi generali, alleanze.
+- **Le Case del Popolo:** luoghi dove gli operai si riuniscono, studiano e si aiutano: cibo, cure, assistenza legale.
+- **Le Casse di Resistenza:** i fondi che sostengono le famiglie durante gli scioperi e pagano il Fondo del Seggio dei senatori operai.
+- **I giornali operai,** come *La Voce delle Officine*, oggi censurati dallo Stato di Pericolo.
+- **I Comitati di Sciopero:** nascono durante le agitazioni per gestire picchetti, raccolte e trattative, e si sciolgono dopo.
 
-- **La Lega dei Braccianti Agricoli**: Sindacato rurale che organizza contadini e braccianti contro latifondisti. Meno organizzati, ma fondamentali per l'economia agricola.
+## Le richieste dei Sindacalisti
 
-- **I Lavoratori Liberi di Albanova**: Sindacato basato nell'omonima città, in grande crescita durante la guerra. Comprende tutti i settori (manifattura, servizi, edilizia) e ha una forte componente di giovani operai. Più radicale rispetto agli altri anche per la grande repressione subita durante guerra.
-
-- **Il Circolo Operaio Rivoluzionario** (COR): Inizialmente parte dei Lavoratori Liberi, si è staccato per adottare tattiche più aggressive. Cellula clandestina che promuove insurrezione armata, sabotaggio e propaganda rivoluzionaria. Attualmente sono ricercati e repressi brutalmente.
-
-### **Strutture di Coordinamento**
-
-- **Il Consiglio Generale del Lavoro**: Assemblea informale che riunisce leader sindacali maggiori. Decide strategie generali, scioperi nazionali, alleanze politiche.
-
-- **Le Case del Popolo**: Edifici dove operai si riuniscono, socializzano, studiano. Forniscono mutuo soccorso (cibo, cure, assistenza legale).
-
-- **I Comitati di Sciopero**: Strutture temporanee durante agitazioni, gestiscono picchetti, raccolta fondi, negoziazioni. Dissolti dopo lo sciopero.
-
-## Ambizioni e obiettivi
-
-### **Visione centrale:**
+### **Visione dichiarata:**
 *"Chi lavora deve mangiare, chi suda deve vivere dignitosamente. Il lavoro non è schiavitù, è diritto e dignità"*
 
-### **Obiettivi principali:**
+### **Cosa chiedono pubblicamente:**
+- **Diritti in officina:** la giornata di otto ore, un salario legato al costo del pane, la sicurezza nelle officine e nelle miniere, il divieto del lavoro dei bambini, pensioni per anziani e invalidi
+- **La fine della Legge sulle Coalizioni:** il diritto di sciopero senza tribunali né Guardie, contratti collettivi vincolanti
+- **Il voto:** il suffragio di tutti i cittadini liberi, non solo di chi raggiunge il censo
+- **La Remissione dei debiti e l'abolizione della schiavitù**
+- **Servizi per chi lavora:** *Cure Wounds* gratuito per gli infortuni sul lavoro, illuminazione nei quartieri operai, case popolari, scuole tecniche aperte a tutti
+- **Imposte più alte per chi possiede di più**
 
-1. **Diritti dei lavoratori fondamentali**
-   - Giornata lavorativa di 8 ore
-   - Salario minimo dignitoso legato al costo della vita
-   - Sicurezza sul lavoro obbligatoria
-   - Divieto di lavoro minorile
-   - Pensioni per anziani e invalidi
-   - Ferie retribuite
-
-2. **Riconoscimento legale dei sindacati**
-   - Diritto di sciopero senza repressione violenta
-   - Contratti collettivi vincolanti per legge
-   - Rappresentanti operai nei consigli di fabbrica
-   - Abolizione del reato di cospirazione attualmente usato per arresti
-   - Protezione legale contro licenziamenti arbitrari
-
-3. **Rappresentanza politica**
-   - Seggi riservati ai lavoratori nel Senato
-   - Partito dei Lavoratori legalmente riconosciuto
-   - Referendum popolari su leggi economiche
-   - Transizione verso democrazia diretta
-
-4. **Redistribuzione della ricchezza**
-   - Tasse progressive sui ricchi 
-   - Servizi pubblici gratuiti 
-   - Case popolari per operai 
-   - Cooperative di consumo 
-
-5. **Alleanza con altri oppressi**
-   - Supporto ai Piccoli Proprietari contro latifondisti
-   - Internazionalismo operaio 
-   - Unità tra operai urbani e braccianti rurali
-
-6. **Giustizia sociale e dignità umana**
-   - Fine dello sfruttamento 
-   - Uguaglianza davanti alla legge 
-   - Abolizione delle milizie private
-   - Educazione pubblica per tutti
+I loro avversari rispondono che otto ore di lavoro chiuderebbero metà delle officine della Repubblica, e che dietro ogni sciopero c'è qualcuno che vuole fermare il paese proprio quando ha più bisogno di produrre.
 
 ### **Slogan/Retorica pubblica:**
 - *"Il lavoro crea ricchezza. I lavoratori devono condividerla"*
@@ -91,81 +64,65 @@ I Sindacalisti sono organizzati in rete decentralizzata di sindacati locali, fed
 
 ## Fazioni interne
 
-### 1. **I Moderati Riformisti** (Sindacati legali, leader negoziatori)
-**Ideologia:** Riforme graduali, dialogo e negoziazione.  
-**Base:** Operai qualificati, artigiani, lavoratori con famiglie da proteggere
+Nel Consiglio Generale del Lavoro siedono sette correnti, che non sono d'accordo quasi su niente tranne su chi sia il nemico.
 
-**Obiettivi:**
-- Negoziare contratti collettivi con padroni
-- Fare pressione sul Senato per riforme legali
-- Scioperi brevi e disciplinati
-- Costruire mutuo soccorso, cooperative, scuole operaie
+### 1. **I Riformisti**
+**Base:** la FLM, gli operai qualificati, i lavoratori con famiglia, guidati dal senatore [Tomasz Ironwright](../../../../personaggi/Tomasz_Ironwright.md)
 
-### 2. **I Rivoluzionari Socialisti** (COR, cellule clandestine)
-**Ideologia:** Rivoluzione proletaria, abolizione del capitalismo, lotta di classe. 
-**Base:** Operai giovani, disoccupati, veterani disillusi, intellettuali radicali
+Credono che i diritti si conquistino un contratto alla volta e una legge alla volta. Chiedono la giornata di otto ore, un salario legato al costo del pane, la sicurezza nelle officine e la fine della Legge sulle Coalizioni. Scioperano poco e bene.
 
-**Obiettivi:**
-- Organizzare insurrezioni
-- Sabotaggio sistematico 
-- Propaganda rivoluzionaria 
-- Espropriare mezzi di produzione, abolire proprietà privata
+*Cosa dicono di loro:* il COR li chiama "i sindacalisti con il cappello in mano". Gli Industriali li considerano gli unici con cui si può parlare, ed è proprio questo che il COR rimprovera loro.
 
+### 2. **I Rossi**
+**Base:** le cellule del Circolo Operaio Rivoluzionario, giovani operai, disoccupati, studenti radicali. La loro voce più nota è [Aria "Fiamma Rossa" Emberhart](../../../../personaggi/Aria_Emberhart.md)
 
-### 3. **I Sindacati di Mestiere** (Artigiani, operai specializzati)
-**Ideologia:** Protezione dei lavoratori qualificati, conservazione di status e privilegi.
-**Base:** Carpentieri, fabbri, tipografi, meccanici, operai altamente qualificati
+Sostengono che nessun contratto cambierà mai chi possiede le officine, e che le officine devono passare a chi ci lavora. Sabotaggi, scioperi improvvisi, volantini che citano i testi degli Antichi tradotti ad Albanova, da cui prendono in prestito parole che nessun altro usa. Sono clandestini e ricercati.
 
-**Obiettivi:**
-- Proteggere privilegi di lavoratori qualificati
-- Limitare accesso al mestiere
-- Negoziare separatamente dagli operai generici
-- Conservare tradizioni artigianali contro macchine
+*Cosa dicono di loro:* il governo li chiama insurrezionalisti, e i Vittoriosi dicono che sono la prova che lo Stato di Pericolo è ancora necessario. Nei Quartieri Operai, a molti, Aria Emberhart sembra l'unica che dica ad alta voce ciò che tutti pensano.
 
+### 3. **I Senza Padroni**
+**Base:** piccole comunità operaie autogestite, artigiani radicali, disoccupati
 
-### 4. **Gli Industrialisti Progressisti** (Collaborazionisti, "gialli")
-**Ideologia:** Collaborazione con padroni per migliorare condizioni senza rovesciare sistema.
-**Base:** Capi operai, tecnici, lavoratori di fabbriche progressiste
+Non vogliono prendere lo Stato: vogliono farne a meno. Fondano officine comuni e mense collettive, rifiutano di trattare con padroni e governo. Sono pochi, ma i loro esperimenti attirano curiosi da tutta Albanova.
 
-**Obiettivi:**
-- Collaborazione con padroni 
-- Opporsi a scioperi
-- Accettare compromessi favorevoli ai padroni
-- Sindacati aziendali controllati dai padroni
+*Cosa dicono di loro:* il COR li considera degli ingenui che giocano alla rivoluzione. La Guardia Cittadina li sgombera regolarmente, e loro ricominciano altrove.
 
-### 5. **Gli Internazionalisti** (Solidarietà oltre i confini)
-**Ideologia:** Solidarietà internazionale tra lavoratori, lotta contro imperialismo e nazionalismo.
-**Base:** Portuali (contatti con marinai stranieri), intellettuali, rifugiati politici
+### 4. **I Sindacati di Mestiere**
+**Base:** fabbri runici, tipografi, carpentieri navali, meccanici qualificati
 
-**Obiettivi:**
-- Costruire solidarietà internazionale tra movimenti operai
-- Boicottare guerre imperialiste
-- Condividere tattiche e strategie con sindacati esteri
-- Opporsi a nazionalismo e xenofobia
+Difendono gli operai più qualificati: salari alti, accesso al mestiere limitato, apprendistati lunghi. Temono le macchine che rendono inutile la loro arte e gli operai senza esperienza che le fanno funzionare.
 
+*Cosa dicono di loro:* gli altri sindacati li accusano di difendere solo sé stessi. Gli Industriali sanno che, quando i Mestieri si fermano, le officine si fermano davvero.
 
-### 6. **Gli Anarchici Libertari** (Anti-autorità, azione diretta)
-**Ideologia:** Abolizione di ogni forma di autorità, Stato, capitalismo. Libertà totale per lavoratori. 
-**Base:** Operai giovani radicali, disoccupati, artisti, bohémien urbani
+### 5. **I Sindacati Gialli**
+**Base:** capisquadra, sorveglianti, sindacati nati dentro le fabbriche dei padroni
 
-**Obiettivi:**
-- Azione diretta
-- Rifiuto di negoziare con padroni o Stato
-- Creare comuni operaie autogestite
-- Abolire proprietà privata, Stato, esercito, polizia
+Promettono miglioramenti senza scioperi: una mensa, una cassa per gli infortuni, un aumento in cambio di pace in fabbrica. Sono finanziati, apertamente o no, dagli stessi proprietari.
 
+*Cosa dicono di loro:* per gli altri sindacati sono traditori. Per molti operai con figli da sfamare sono la scelta più sicura.
+
+### 6. **Le Tessitrici**
+**Base:** le operaie delle fabbriche tessili di Albanova, soprattutto della Grande Manifattura del Brumetallo
+
+Fanno gli stessi turni degli uomini per una paga più bassa, e a casa le aspettano i figli. Durante il loro grande sciopero del 3816 a parlare dal tetto di un capannone fu una tessitrice di diciotto anni, Aria Emberhart. Chiedono pari salario, turni compatibili con la famiglia e asili presso le fabbriche. Sono le più organizzate e le meno ascoltate.
+
+*Cosa dicono di loro:* nel Consiglio Generale del Lavoro molti dirigenti le considerano una questione minore. La Gran Ammiraglia Stormwright ha citato il loro sciopero del 3816 davanti al Senato, e da allora gli Ufficiali di Casata le chiamano "le marinaie di Stormwright".
+
+### 7. **La Lega dei Campi**
+**Base:** la Lega dei Braccianti, contadini poveri, servi per debito
+
+Il lavoro dei campi non si può interrompere come quello di un'officina: un raccolto perso è un anno di fame. Per questo la loro arma non è lo sciopero, ma la **Remissione dei debiti**, che chiedono al Senato da anni e che i veterani ora reclamano insieme a loro.
+
+*Cosa dicono di loro:* gli operai di città li conoscono poco. I Proprietari Terrieri li conoscono benissimo.
 
 ## Figure di spicco
 
-### **Tomasz "Martello" Ironwright** (Umano, 54 anni)
-- **Ruolo:** Segretario generale della Federazione dei Lavoratori Metallurgici (FLM), leader de facto dei Moderati Riformisti, senatore (uno dei pochi operai)
+### **[Tomasz "Martello" Ironwright](../../../../personaggi/Tomasz_Ironwright.md)** (Umano, 54 anni)
+Segretario generale della FLM, guida dei Riformisti, uno dei pochissimi senatori operai, eletto ad Albanova grazie al Fondo del Seggio.
+
+### **[Aria "Fiamma Rossa" Emberhart](../../../../personaggi/Aria_Emberhart.md)** (Umana, 25 anni)
+La voce più nota del Circolo Operaio Rivoluzionario, oratrice incendiaria, braccata dai Falchi Grigi.
 
 ---
 
-### **Aria "Fiamma Rossa" Emberhart** (Umana, 31 anni)
-- **Ruolo:** Leader carismatica del Circolo Operaio Rivoluzionario (COR), oratrice incendiaria, braccata dai Falchi Grigi
-
----
-
-
-[← Torna alle fazioni](../fazioni_repubblica.md)
+[← Torna alle fazioni](../../fazioni_repubblica.md)

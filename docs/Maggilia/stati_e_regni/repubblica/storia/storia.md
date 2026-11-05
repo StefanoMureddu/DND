@@ -73,7 +73,7 @@ Il lungo assedio di Edhellond segnalò a tutto il continente che l'Impero era fi
 - Il **Regno di Loral** occupò tutto il sud della Foresta dei 4 Re quasi senza resistenza: gran parte della guarnigione di Aran-Haven era partita in difesa della capitale
 - A nord, **Gund-Garim** venne occupata dal regno di Pinoscuro, **Gund-Dum** dagli orchi della piana
 
-Ad Elanor, le forze elfiche, in netta inferiorità numerica, ottennero una vittoria pirrica contro i puritani, sufficiente a tenerli fuori dalla città. Ma il costo fu altissimo: la guarnigione rimase intrappolata a gestire l'ordine interno, incapace di mandare rinforzi alla capitale. Separato da tutti strisse un patto con i ribelli divenendo nuovamente un regno indipendente.
+Ad Elanor, le forze elfiche, in netta inferiorità numerica, ottennero una vittoria pirrica contro i puritani, sufficiente a tenerli fuori dalla città. Ma il costo fu altissimo: la guarnigione rimase intrappolata a gestire l'ordine interno, incapace di mandare rinforzi alla capitale. Isolata da tutti, la città strinse un patto con i ribelli e tornò a essere indipendente.
 
 - La **Puritania**, dopo la sconfitta ad Elanor, spostò i propri obiettivi verso est: occupò la Frontiera e parte della Brughiera di Sottovento
 
@@ -89,7 +89,7 @@ Seguirono giorni di scontri nelle vie della capitale. I ribelli penetrarono nell
 
 ## La Fine dell'Impero e la Nascita della Repubblica
 
-L'imperatore fu processato in piazza pubblica e giustiziato tramite decapitazione. Chi poté fuggire trovò asilo nell'**Impero di Tol-Eressëa** a sud. Gli elfi che avevano sostenuto il regime imperiale furono ridotti in schiavitù e venduti all'asta dopo la fondazione della nuova repubblica.
+L'imperatore fu processato in piazza pubblica e giustiziato tramite decapitazione. Chi poté fuggire trovò asilo nell'**Impero di Tol-Eressëa** a sud. Gli elfi che avevano sostenuto il regime imperiale furono ridotti in schiavitù e venduti all'asta dopo la fondazione della nuova repubblica. Anche le loro tenute, a cominciare dalle masserie fortificate della Valle del Drago, furono confiscate e messe all'asta: le comprarono i capitani della ribellione e le famiglie che l'avevano finanziata.
 
 Fecero eccezione **Thalion Aegnor** e i suoi sottoposti, ricompensati per aver aperto le porte, e i pochi che avevano sostenuto i ribelli.
 

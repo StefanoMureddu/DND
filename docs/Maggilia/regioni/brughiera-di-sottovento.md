@@ -51,7 +51,7 @@ L'economia della Brughiera è dominata dall'allevamento estensivo di animali res
 
 La **lana delle pecore della Brughiera** è nota per la sua robustezza e impermeabilità, qualità sviluppate in secoli di adattamento al clima ventoso e variabile. Viene venduta soprattutto a Albanova e agli stabilimenti tessili di Bosconero. Le **pelli di capra** conciata sono apprezzate per borse, cinture e indumenti resistenti all'abrasione.
 
-I pastori più esperti usano *Speak with Animals* (2° livello) per comunicare con le greggi e gestire situazioni difficili, come il recupero di animali smarriti o il controllo di comportamenti anomali nei greggi. Non è un incantesimo accessibile a tutti, ma chi lo conosce può chiedere tariffe alte per i propri servizi. La maggior parte dei pastori si affida invece a tecniche tradizionali e a cani da pastore addestrati. *Cure Wounds* (1° livello) viene usato per gli animali di maggior valore che si infortunano, servizio offerto dai guaritori itineranti in cambio di pagamento.
+I pastori più esperti usano *Speak with Animals* (1° livello) per comunicare con le greggi e gestire situazioni difficili, come il recupero di animali smarriti o il controllo di comportamenti anomali nei greggi. Non è un incantesimo accessibile a tutti, ma chi lo conosce può chiedere tariffe alte per i propri servizi. La maggior parte dei pastori si affida invece a tecniche tradizionali e a cani da pastore addestrati. *Cure Wounds* (1° livello) viene usato per gli animali di maggior valore che si infortunano, servizio offerto dai guaritori itineranti in cambio di pagamento.
 
 ### Sale e Lago Salato
 

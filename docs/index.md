@@ -5,7 +5,7 @@ layout: default
 
 # Il Mondo di (Work in progress)
 
-![Mappa del Mondo](mondo/mappa-mondo.jpg)
+<!-- Mappa del Mondo: da aggiungere -->
 
 descrizione
 
@@ -21,8 +21,8 @@ descrizione
 descrizione
 
 **Nazioni principali:**
-- [Repubblica degli Stati Liberi](continente-principale/regioni/repubblica.md)
-- [Puritania](continente-principale/regioni/puritania.md)
+- [Repubblica degli Stati Liberi](Maggilia/stati_e_regni/repubblica/repubblica.md)
+- [Puritania](Maggilia/stati_e_regni/Regno-di-Puritania.md)
 
 ---
 
@@ -30,7 +30,7 @@ descrizione
 
 ## 🌊 Gli Oceani
 
-### [Mare dell'Ovest](mare/mare-ovest.md)
+### Mare dell'Ovest
 Descrizione
 
 
@@ -44,13 +44,13 @@ Descrizione
 
 ## 🗺️ Mappe
 
-### [Mappa Mondo Completa](mondo/mappa-mondo.jpg)
+### Mappa Mondo Completa
 Tutti i continenti conosciuti.
 
-### [Mappa Politica Globale](mondo/mappa-politica.jpg)
+### Mappa Politica Globale
 Nazioni e imperi attuali.
 
-### [Rotte Commerciali](mare/rotte-commerciali.md)
+### Rotte Commerciali
 Vie marittime e terrestri principali.
 
 ---
@@ -69,9 +69,9 @@ Vie marittime e terrestri principali.
 ## 🔍 Ricerca Rapida
 
 **Cerchi qualcosa di specifico?**
-- [Indice Completo Luoghi](indici/luoghi.md)
-- [Indice Personaggi](indici/personaggi.md)
-- [Indice Eventi Storici](indici/eventi.md)
+- Indice Completo Luoghi
+- [Indice Personaggi](Maggilia/personaggi/index.md)
+- Indice Eventi Storici
 
 ---
 

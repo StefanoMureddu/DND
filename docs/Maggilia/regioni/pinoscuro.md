@@ -63,7 +63,7 @@ Il Bacino del Gelo, i laghi minori e la Corrente dell'Ovest producono pesce abbo
 
 La magia a Pinoscuro è magia di sopravvivenza e di mestiere. Non ci sono grandi accademie né circoli druidici formalizzati, la tradizione magica locale si trasmette in modo pratico, da maestro ad allievo, da cacciatore a cacciatore.
 
-**Orientamento e sopravvivenza**: *Druidcraft* (cantrip) e *Pass Without Trace* (2°) sono i pilastri. *Goodberry* (1°) come riserva alimentare. *Endure Elements* (equivalente a *Protection from Energy* su freddo) è offerto come servizio dai chierici di Carovento ai mercanti che devono attraversare i valichi in stagione avanzata.
+**Orientamento e sopravvivenza**: *Druidcraft* (cantrip) e *Pass Without Trace* (2°) sono i pilastri. *Goodberry* (1°) come riserva alimentare. *Protection from Energy* (contro il freddo) è offerto come servizio dai chierici di Carovento ai mercanti che devono attraversare i valichi in stagione avanzata.
 
 **Miniere e artigianato**: Tutta la gamma dei Picchi Dorati si ritrova anche a Gund-Garim, con in più le rune naniche su strutture, carrelli e strumenti.
 
@@ -85,7 +85,7 @@ La **Foresta dei Ragni** e il **Bosco Sacro** sono presenze costanti nell'orizzo
 
 ### I Nani di Gund-Garim
 
-La popolazione nanica di Gund-Garim ha una propria cultura interna che continua indipendentemente da chi governa la città in superficie. Le famiglie naniche che abitano i quartieri profondi mantengono le tradizioni, runecraft, cerimonie minerarie, le lingue antiche, come se il cambio di governo fosse una temporanea inconvenienza. Per i nani, Gund-Garim ha mille anni, per Pinoscuro, è una conquista recente. Questa asimmetria di prospettiva produce una convivenza funzionale e una diffidenza strutturale che nessuna generazione ha ancora risolto.
+La popolazione nanica di Gund-Garim ha una propria cultura interna che continua indipendentemente da chi governa la città in superficie. Le famiglie naniche che abitano i quartieri profondi mantengono le tradizioni, runecraft, cerimonie minerarie, le lingue antiche, come se il cambio di governo fosse una temporanea inconvenienza. Per i nani, Gund-Garim ha mille anni, per Pinoscuro è una conquista di pochi nonni fa. Questa asimmetria di prospettiva produce una convivenza funzionale e una diffidenza strutturale che nessuna generazione ha ancora risolto.
 
 ### Cultura Culinaria
 
@@ -101,7 +101,7 @@ La cucina di Pinoscuro è cucina di sopravvivenza trasformata in tradizione. Il 
 
 Carovento è la città principale di Pinoscuro, 12.000-16.000 abitanti, sul mare settentrionale alla foce della Corrente dell'Ovest. Il porto è il cuore pulsante, banchine per il legname, magazzini per le pellicce, cantieri navali per la manutenzione e la costruzione di imbarcazioni adatte ai mari freddi del nord. Il castello domina il promontorio nordoccidentale, sede del governo della regione, con torri da cui nelle giornate limpide si vede il profilo delle montagne a est.
 
-Il **Quartiere dei Mercanti** raccoglie le case commerciali, i cambiavalute e le osterie per i marinai di passaggio. Il **Quartiere dei Boscaioli** è più rumoroso e meno ordinato, con segherie, depositi di resina e taverne frequentate da squadre che tornano dalle settimane in foresta. Il **Tempio** offre servizi medici e climatici; il chiere-anziano conosce *Endure Elements*, *Cure Wounds* e *Create or Destroy Water* — sufficienti per la maggior parte delle emergenze locali.
+Il **Quartiere dei Mercanti** raccoglie le case commerciali, i cambiavalute e le osterie per i marinai di passaggio. Il **Quartiere dei Boscaioli** è più rumoroso e meno ordinato, con segherie, depositi di resina e taverne frequentate da squadre che tornano dalle settimane in foresta. Il **Tempio** offre servizi medici e climatici; il chiere-anziano conosce *Protection from Energy*, *Cure Wounds* e *Create or Destroy Water* — sufficienti per la maggior parte delle emergenze locali.
 
 *Continual Flame* illumina il faro portuale e le banchine principali. Il resto della città usa lampade a olio. La **Banca di Carovento** ha *Arcane Lock*, *Alarm* e *Glyph of Warding*.
 

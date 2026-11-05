@@ -3,7 +3,7 @@ title: Puritania
 layout: default
 ---
 
-La Puritania è una regione situata nella parte sud-occidentale di Maggilia, affacciata sul Mare dell'Ovest a ovest e sullo Stretto tortuoso a sud. È la terra dei Puritani, un popolo umano che ha costruito la propria identità attorno all'idea di purezza razziale e alla devozione a una divinità unica. Il confine orientale, segnato dal Fiume della Frontiera, separa la regione dai territori della Repubblica degli Stati Liberi.
+La Puritania è una regione situata nella parte sud-occidentale di Maggilia, affacciata sul Mare dell'Ovest a ovest e sullo Stretto tortuoso a sud. È la terra dei Puritani, un popolo umano che ha costruito la propria identità attorno all'idea di purezza razziale e alla devozione a una divinità unica. Il confine orientale, segnato dal Fiume della Frontiera, separa la regione dalla Frontiera, territorio occupato dal regno e conteso con la Repubblica degli Stati Liberi.
 
 ## Geografia
 

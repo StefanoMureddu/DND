@@ -15,6 +15,12 @@ Procedendo verso ovest, la costa diventa più frastagliata e rocciosa, culminand
 
 La costa meridionale è caratterizzata da spiagge sabbiose alternate a promontori rocciosi e piccole baie protette, ideali per villaggi di pescatori. Le foreste costiere sono meno dense che nell'entroterra di Bosconero, con prevalenza di pini marittimi e macchia mediterranea.
 
+### Le Acque di Utar
+
+I marinai dividono il mare attorno all'isola in tre fasce. Le *Acque Morte*, a ridosso dell'isola, da cui nessuna nave è mai tornata intatta: gli equipaggi che vi si avvicinano si ammalano, le bussole impazziscono, il legno marcisce in pochi giorni. Il *Mare Grigio*, una fascia più ampia percorsa da nebbie che non seguono il vento, correnti improvvise e creature deformi: si attraversa solo di giorno, con piloti esperti. Lo **Stretto del Serpente**, tra la Testa del Serpente e l'isola, è l'unico passaggio per uscire dalla Baia dell'Oro, e i suoi canali sicuri sono tra i segreti più gelosamente custoditi delle famiglie di piloti di Porto Grigio e Grast. Oltre comincia il mare libero.
+
+La rotta settentrionale verso la costa orientale è teoricamente possibile, ma richiede di girare al largo dell'isola e poi di affrontare per mesi i ghiacci del nord. Nessuno la percorre per commercio.
+
 ### Confini e Territorio Interno
 
 La regione confina:
@@ -61,7 +67,7 @@ La pesca rappresenta la seconda voce economica della regione, con una flotta di 
 
 I cantieri navali di Porto Grigio sono tra i più importanti della Repubblica:
 
-- **Navi mercantili**: Costruzione di cargo, velieri mercantili e imbarcazioni per il commercio costiero. Le navi più costose vengono dotate di rune incise sullo scafo dai maestri artigiani nanichi, che ne aumentano la resistenza all'acqua e la velocità. Queste rune sono un retaggio dell'antica tradizione elfica, ora praticata soprattutto dai nani
+- **Navi mercantili**: Costruzione di cargo, velieri mercantili e imbarcazioni per il commercio costiero. Le navi più costose vengono dotate di rune incise sullo scafo dai maestri artigiani nanichi, che ne aumentano la resistenza all'acqua e la velocità. Sono Segni di Forgia nanici, a volte combinati con rune di Trama di tradizione elfica
 - **Navi da guerra**: Durante la Guerra del Grano, i cantieri hanno prodotto gran parte della flotta militare repubblicana che ha dominato i mari durante il conflitto. Le navi ammiraglia portano le rune più potenti
 - **Riparazioni navali**: Bacini di carenaggio e strutture per la manutenzione e riparazione delle navi. Il legname può essere modellato con *Shape Wood* da carpentieri specializzati, accelerando le riparazioni. *Mending* viene usato costantemente per piccole riparazioni, essendo un cantrip accessibile
 - **Maestranze specializzate**: Carpentieri navali, velai, cordai, fabbri navali e altri artigiani altamente qualificati. Alcuni cantieri più grandi impiegano operai addestrati che con *Water Breathing* possono lavorare sott'acqua per riparazioni dello scafo, anche se il costo di tale addestramento è significativo
@@ -98,7 +104,7 @@ Il governo repubblicano chiama i fedeli del Culto del Ritorno terroristi. Grast,
 
 ### La Marina e il Suo Mito
 
-La flotta militare repubblicana è la spina dorsale dell'identità regionale. Le famiglie di Porto Grigio che hanno figli in marina li nominano con orgoglio, e i nomi degli ammiragli che hanno combattuto durante la Guerra del Grano vengono ripetuti come santi laici. Il **Gran Ammiraglio Thalassa Stormwright** è il nome più citato, venerata quasi come una figura mitica, le si attribuiscono vittorie navali che forse non ha mai combattuto. Le navi da guerra costruite nei cantieri locali vengono varate con cerimonie elaborate, presenziate dalle famiglie degli artigiani che le hanno costruite, come se partisse un membro della famiglia.
+La flotta militare repubblicana è la spina dorsale dell'identità regionale. Le famiglie di Porto Grigio che hanno figli in marina li nominano con orgoglio, e i nomi degli ammiragli che hanno combattuto durante la Guerra del Grano vengono ripetuti come santi laici. Il **Gran Ammiraglia [Thalassa Stormwright](../personaggi/Thalassa_Stormwright.md)** è il nome più citato, venerata quasi come una figura mitica, le si attribuiscono vittorie navali che forse non ha mai combattuto. Le navi da guerra costruite nei cantieri locali vengono varate con cerimonie elaborate, presenziate dalle famiglie degli artigiani che le hanno costruite, come se partisse un membro della famiglia.
 
 ### Cultura Culinaria
 

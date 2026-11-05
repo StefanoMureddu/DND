@@ -9,7 +9,7 @@ West Loral è una regione che si estende dai contrafforti meridionali dei Monti 
 
 ### Conformazione del Territorio
 
-La parte settentrionale è occupata dai contrafforti collinari degli **Ered-Morn**, dove boschi di conifere cedono gradualmente a colline coltivabili. La fascia centrale ospita le pianure più fertili della regione, attraversate dai **Figli del Custode** — i due fiumi che scendono dalle pendici del Picco verso nord. Il confine occidentale segue il **Ragano**, corso d'acqua veloce e poco navigabile che divide West Loral dai boschi orientali della Foresta dei 4 Re; ad est del Ragano cominciano le terre loralesi, con i boschi di Pontesto e le pianure di Crocevia.
+L'angolo nordorientale è occupato dai contrafforti collinari degli **Ered-Morn**, dove boschi di conifere cedono gradualmente a colline coltivabili. La fascia centrale ospita le pianure più fertili della regione, attraversate dai **Figli del Custode** — i due fiumi che scendono dalle pendici del Picco verso nord. Il confine occidentale segue il **Ragano**, corso d'acqua veloce e poco navigabile che divide West Loral dai boschi orientali della Foresta dei 4 Re; ad est del Ragano cominciano le terre loralesi, con i boschi di Pontesto e le pianure di Crocevia.
 
 La **Penisola del Custode** è l'elemento geografico più caratteristico: una lingua di terra che si protende a sud nel mare, stretta e boscosa, dominata dal **Picco del Custode Silente** al suo centro. La costa orientale è frastagliate con scogliere a picco sul mare aperto; quella occidentale è più riparata, con insenature e piccole baie dove si concentrano i villaggi di pescatori.
 
@@ -19,12 +19,13 @@ I **Figli del Custode** sono i due corsi d'acqua principali. Il **Figlio Orienta
 
 Il **Fiume Loral** segna il confine orientale: nasce dai Monti Ered-Morn settentrionali, bagna la sponda ovest di East Loral lungo tutto il suo corso e raggiunge il mare nei pressi di Portocolle.
 
-Il **Fiume Ragano** segna il confine occidentale con la Foresta dei 4 Re. Poco navigabile per i fondali bassi e i tratti rapidi, è comunque usato dai boscaioli di Pontesto per trasportare tronchi verso il lago Mir-Enedh. *Shape Water* (cantrip) è usato dai barcaioli più esperti per correggere la corrente nei passaggi difficili.
+Il **Fiume Ragano** segna il confine settentrionale con la Piana del Grano, poi entra nella Foresta dei 4 Re e scende verso il lago Mir-Enedh. Poco navigabile per i fondali bassi e i tratti rapidi, è comunque usato dai boscaioli di Pontesto per trasportare tronchi verso il lago Mir-Enedh. *Shape Water* (cantrip) è usato dai barcaioli più esperti per correggere la corrente nei passaggi difficili.
 
 ### Confini
 
 - **Nord**: Fiume Ragano con la Piana del Grano
-- **Ovest**: La Foresta dei 4 Re
+- **Ovest**: Il margine della Foresta dei 4 Re
+- **Nordest**: I Monti Ered-Morn
 - **Est**: Fiume Loral con East Loral
 - **Sud**: Mare aperto (costa orientale della penisola) e Baia delle Sirene (costa occidentale)
 

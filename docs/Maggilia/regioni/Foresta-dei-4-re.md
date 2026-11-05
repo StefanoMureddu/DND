@@ -42,7 +42,7 @@ Il clima è temperato umido, molto diverso dall'aridità della Brughiera a ovest
 
 La Foresta dei 4 Re non è mai stata unificata dopo la caduta dell'Impero. Quattro potenze si dividono l'eredità imperiale usando i fiumi come confini naturali, ma contestandosi costantemente le zone di maggior valore.
 
-### Repubblica di Maggilia — Nordovest
+### Repubblica degli Stati Liberi — Nordovest
 
 La Repubblica controlla il quadrante nordoccidentale della foresta, dal confine con la Brughiera di Sottovento fino al Lago Mir-Enedh e alla città di **Edhellond**. È il quadrante più ricco di eredità elfiche, con la maggiore concentrazione di antichi siti imperiali. La Repubblica rivendica la legittimità storica sull'intera foresta come erede dell'Impero — argomento contestato dagli altri tre poteri ma ascoltato con attenzione diplomatica, data la presenza di Edhellond entro i suoi confini.
 
