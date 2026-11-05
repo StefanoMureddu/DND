@@ -1,9 +1,9 @@
 ---
-title: Continente Maggilia
+title: Continente Magilia
 layout: default
 ---
 
-# Il Continente [Maggilia]
+# Il Continente [Magilia]
 
 [← Torna al Mondo](../index.md)
 
@@ -13,7 +13,7 @@ layout: default
 
 ## 🗺️ Panoramica
 
-**Nome ufficiale:** [Maggilia]  
+**Nome ufficiale:** [Magilia]  
 **Popolazione:** 
 **Superficie:**  
 **Anno attuale:** 

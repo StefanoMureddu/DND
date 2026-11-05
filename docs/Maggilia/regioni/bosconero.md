@@ -3,7 +3,7 @@ title: Bosconero
 layout: default
 ---
  
-Bosconero è una regione situata nella parte centro-occidentale di Maggilia, caratterizzata da fitte foreste, colline ondulate e numerosi corsi d'acqua. La regione prende il nome dalle sue vaste aree boschive, che coprono gran parte del territorio. Il nome stesso deriva dall'antica pratica dei minatori di segnare sulle cortecce degli alberi col carbone le vie verso le varie miniere, creando una rete di sentieri neri che solcavano la foresta.
+Bosconero è una regione situata nella parte centro-occidentale di Magilia, caratterizzata da fitte foreste, colline ondulate e numerosi corsi d'acqua. La regione prende il nome dalle sue vaste aree boschive, che coprono gran parte del territorio. Il nome stesso deriva dall'antica pratica dei minatori di segnare sulle cortecce degli alberi col carbone le vie verso le varie miniere, creando una rete di sentieri neri che solcavano la foresta.
 
 Bosconero rappresenta uno dei maggiori contrasti culturali e filosofici del continente, mentre la costa occidentale, dominata dalla città di Albanova, incarna la sintesi tra scoperta tecnologica e magia applicata all'industria, il cuore della regione rimane un dominio della natura incontaminata, popolato da druidi e guardiani della foresta che praticano le arti magiche ancestrali in armonia con l'ambiente.
  
@@ -251,7 +251,7 @@ La cucina di Bosconero è una delle più divise della Repubblica: le tavole di A
 
 ### Centri Principali
 
-**Albanova - "La Città del Domani"**: La città principale della regione e centro dell'innovazione magico-tecnologica di Maggilia, situata sulla costa alla foce del fiume Brumetallo. Con una popolazione stimata di circa 50.000 abitanti, Albanova rappresenta la sintesi tra tecnologia e magia applicata.
+**Albanova - "La Città del Domani"**: La città principale della regione e centro dell'innovazione magico-tecnologica di Magilia, situata sulla costa alla foce del fiume Brumetallo. Con una popolazione stimata di circa 50.000 abitanti, Albanova rappresenta la sintesi tra tecnologia e magia applicata.
 
 **Fendifoglia**: Principale villaggio druidico nel cuore della foresta centrale.. Popolazione 1.000-1.500 abitanti (varia stagionalmente). Rappresenta l'antitesi filosofica di Albanova.
 ### Insediamenti Minori

@@ -3,7 +3,7 @@ title: Gran-Karak
 layout: default
 ---
 
-Gran-Karak è la città più grande di Maggilia e la capitale della Repubblica degli Stati Liberi. Il suo nome antico **Gund-Karak**, "Fortezza del Confine", la descriveva per quello che era, un presidio nanico a guardia dei valichi meridionali dei Picchi Dorati. Poi arrivò l'oro. Poi arrivarono i mercanti. Poi arrivarono gli umani, le gilde, le famiglie ricche, il potere, e il presidio divenne una metropoli.
+Gran-Karak è la città più grande di Magilia e la capitale della Repubblica degli Stati Liberi. Il suo nome antico **Gund-Karak**, "Fortezza del Confine", la descriveva per quello che era, un presidio nanico a guardia dei valichi meridionali dei Picchi Dorati. Poi arrivò l'oro. Poi arrivarono i mercanti. Poi arrivarono gli umani, le gilde, le famiglie ricche, il potere, e il presidio divenne una metropoli.
 
 Chi la conosce solo dai libri la chiama capitale, chi ci commercia la chiama **Portapedaggio**, perché chiunque voglia attraversare il Passo Stretto tra il nord e il centro del continente deve passare di qui, e passare non è gratis. Sono questi dazi, accumulati per secoli, ad aver reso Gran-Karak abbastanza potente da sfidare un impero.
 

@@ -3,7 +3,7 @@ title: Taur-Erthaid
 layout: default
 ---
 
-Taur-Erthaid è un regno elfico indipendente, interamente coperto dalla foresta, sulla costa orientale di Maggilia, stretta tra i Monti Ered-Morn a ovest e il mare a est. È la regione più chiusa del continente, le comunità elfiche che la abitano non cercano contatti con l'esterno, non commerciano regolarmente con nessuno e non permettono a forestieri di penetrare nell'interno boschivo. L'unico volto pubblico di Taur-Erthaid sono le due fortezze costiere. **Galen-dûr** a nord e **Galen-ost** a sud — che controllano gli unici approdi accessibili della costa e rispondono con cortesia fredda a chiunque si avvicini via mare.
+Taur-Erthaid è un regno elfico indipendente, interamente coperto dalla foresta, sulla costa orientale di Magilia, stretta tra i Monti Ered-Morn a ovest e il mare a est. È la regione più chiusa del continente, le comunità elfiche che la abitano non cercano contatti con l'esterno, non commerciano regolarmente con nessuno e non permettono a forestieri di penetrare nell'interno boschivo. L'unico volto pubblico di Taur-Erthaid sono le due fortezze costiere. **Galen-dûr** a nord e **Galen-ost** a sud — che controllano gli unici approdi accessibili della costa e rispondono con cortesia fredda a chiunque si avvicini via mare.
 
 A nord, la guerra si avvicina: Spigamare è assediata da mesi, e il fronte della Guerra del Grano ha raggiunto il margine settentrionale della foresta. Gli elfi di Taur-Erthaid osservano. Non intervengono.
 
@@ -38,7 +38,7 @@ Il **Fiume degli Elfi** non attraversa Taur-Erthaid ma ne segna il confine nordo
 
 ### Clima
 
-Marittimo umido, tra i più piovosi di Maggilia. La combinazione tra montagne a ovest che raccolgono le nuvole e mare a est che le alimenta produce precipitazioni abbondanti quasi tutto l'anno. La foresta è sempre verde, densa, carica di muschio. Le nebbie mattutine nei mesi autunnali e invernali rendono la navigazione costiera pericolosa; i marinai stranieri evitano la costa di Taur-Erthaid di notte o con visibilità ridotta. Le temperature sono miti tutto l'anno grazie all'influenza marina, raramente gelano, raramente superano i 25°C.
+Marittimo umido, tra i più piovosi di Magilia. La combinazione tra montagne a ovest che raccolgono le nuvole e mare a est che le alimenta produce precipitazioni abbondanti quasi tutto l'anno. La foresta è sempre verde, densa, carica di muschio. Le nebbie mattutine nei mesi autunnali e invernali rendono la navigazione costiera pericolosa; i marinai stranieri evitano la costa di Taur-Erthaid di notte o con visibilità ridotta. Le temperature sono miti tutto l'anno grazie all'influenza marina, raramente gelano, raramente superano i 25°C.
 
 ## Economia
 
@@ -50,7 +50,7 @@ Il commercio con l'esterno è minimo e avviene esclusivamente alle due fortezze 
 
 ## Magia nella Vita Quotidiana
 
-La magia a Taur-Erthaid è profondamente intrecciata con la vita quotidiana, più di qualsiasi altra regione di Maggilia. Non è magia da mercato né da laboratorio, è magia da foresta, pratica e silenziosa.
+La magia a Taur-Erthaid è profondamente intrecciata con la vita quotidiana, più di qualsiasi altra regione di Magilia. Non è magia da mercato né da laboratorio, è magia da foresta, pratica e silenziosa.
 
 *Druidcraft* (cantrip) è il cantrip che ogni elfo della foresta conosce prima di qualsiasi altro, previsioni meteo, comunicazione con le piante, piccoli effetti naturali. *Mending* (cantrip) è usato su archi, frecce, strumenti da caccia. *Speak with Animals* (1° livello) è quasi universale tra i cacciatori adulti. *Goodberry* (1° livello) è conosciuto da molti come forma di riserva alimentare per le lunghe uscite.
 

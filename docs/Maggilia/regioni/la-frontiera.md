@@ -82,7 +82,7 @@ La magia nella Frontiera è sobria e funzionale. Non ci sono tradizioni elfiche 
 
 ### Gente di Confine
 
-Gli abitanti della Frontiera sono tra i più pragmatici e diffidenti verso le autorità esterne di tutta Maggilia. Generazioni di vita lontana da qualsiasi governo stabile hanno prodotto comunità abituate a risolvere i conflitti localmente. L'ospitalità verso i viaggiatori è genuina ma misurata: i forestieri portano commercio, ma anche problemi.
+Gli abitanti della Frontiera sono tra i più pragmatici e diffidenti verso le autorità esterne di tutta Magilia. Generazioni di vita lontana da qualsiasi governo stabile hanno prodotto comunità abituate a risolvere i conflitti localmente. L'ospitalità verso i viaggiatori è genuina ma misurata: i forestieri portano commercio, ma anche problemi.
 
 La vicinanza con Puritania ha lasciato tracce culturali profonde, specialmente al sud. Molte comunità costiere hanno forti componenti di popolazione con tradizioni puritane, religione, lingua, costumi. Non è raro trovare villaggi dove si parla sia la lingua comune che il dialetto puritano. La domanda "di chi sei?" è considerata indelicata, la risposta giusta è sempre "della mia famiglia".
 

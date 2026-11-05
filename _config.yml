@@ -1,4 +1,4 @@
-﻿title: Cronache di Maggilia
+﻿title: Cronache di Magilia
 description: Un mondo fantasy homebrew per D&D 5e - Anno 157 NE
 lang: it
 
@@ -20,7 +20,7 @@ plugins:
 # Impostazioni SEO
 author: Stefano Mureddu
 social:
-  name: Cronache di Maggilia
+  name: Cronache di Magilia
   links: []
 
 # Defaults
@@ -33,7 +33,7 @@ defaults:
       path: "docs/Maggilia"
     values:
       layout: "default"
-      continente: "Maggilia"
+      continente: "Magilia"
 
 # Esclusioni
 exclude:

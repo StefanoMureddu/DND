@@ -3,7 +3,7 @@ title: Pinoscuro
 layout: default
 ---
 
-Pinoscuro è la regione più settentrionale di Maggilia prima delle terre selvagge del nord. Il suo nome descrive tutto: pini ovunque, fitti, scuri, carichi di neve per buona parte dell'anno, che coprono colline e valli fino ai margini dei Picchi Dorati a sud-est. Chi viene dal sud la attraversa per arrivare altrove, o per non tornare, se si addentra troppo verso nord dove la **Foresta dei Ragni** e il **Bosco Sacro** segnano il confine tra il mondo conosciuto e qualcosa che non lo è.
+Pinoscuro è la regione più settentrionale di Magilia prima delle terre selvagge del nord. Il suo nome descrive tutto: pini ovunque, fitti, scuri, carichi di neve per buona parte dell'anno, che coprono colline e valli fino ai margini dei Picchi Dorati a sud-est. Chi viene dal sud la attraversa per arrivare altrove, o per non tornare, se si addentra troppo verso nord dove la **Foresta dei Ragni** e il **Bosco Sacro** segnano il confine tra il mondo conosciuto e qualcosa che non lo è.
 
 La città di **Carovento**, sul mare occidentale, è il cuore civile della regione: porto, mercato, castello, punto d'incontro tra i boscaioli dell'interno, i cacciatori delle foreste e le carovane che salgono dai Picchi Dorati. A sud-est, **Gund-Garim** è un'altra storia: città nana di origini antichissime, oggi sotto il controllo di Pinoscuro, dove le fucine non si sono mai fermate e i tunnel scendono più in profondità di quanto chiunque abbia mai mappato completamente.
 

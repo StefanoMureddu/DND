@@ -13,7 +13,7 @@ descrizione
 
 ## 🌍 I Continenti
 
-### [Maggilia](Maggilia/index.md)
+### [Magilia](Maggilia/index.md)
 **Status:** creazione in corso  
 **Popolazione:** 
 **Era attuale:** 

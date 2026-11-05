@@ -87,7 +87,7 @@ La Valle del Drago ha sofferto la Guerra del Grano diversamente dalla Piana. Non
 
 ### Cultura Culinaria
 
-La cucina della Valle del Drago è la più ricca e varia di Maggilia, riflesso diretto di una terra che produce tutto in abbondanza. La varietà degli ingredienti ha prodotto una tradizione culinaria che le altre regioni guardano con invidia mal celata.
+La cucina della Valle del Drago è la più ricca e varia di Magilia, riflesso diretto di una terra che produce tutto in abbondanza. La varietà degli ingredienti ha prodotto una tradizione culinaria che le altre regioni guardano con invidia mal celata.
 
 **Dalla fauna locale e selvatica:** maiali (allevati quasi ovunque), bovini da latte e da carne, pecore di collina, polli e oche (in ogni fattoria), conigli selvatici delle colline, cervi e caprioli dei boschi periferici, trote e lucci del Fiume Linfa del Grano, tinche e carpe del Lago dell'Alba, anguille di foce, anatre selvatiche del lago, api mellifere (il miele della Valle è tra i più pregiati della Repubblica, con varietà floreali distinte per zona).
 

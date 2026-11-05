@@ -3,7 +3,7 @@ title: Foresta dei 4 Re
 layout: default
 ---
 
-La Foresta dei 4 Re è la più vasta regione boschiva di Maggilia e una delle più antiche: le sue radici storiche affondano nell'Impero dei Quattro Re, l'antico impero elfico che per secoli governò queste terre con la forza della magia e della sapienza. La foresta porta il loro nome come monito e memoria, prima di ogni altra cosa, questo era il cuore del mondo degli elfi, e le loro tracce sono ancora ovunque nelle città che crescono tra gli alberi, nei laghi dai nomi elfici antichi, nelle rune dimenticate scolpite sulle cortecce dei carpini millenari.
+La Foresta dei 4 Re è la più vasta regione boschiva di Magilia e una delle più antiche: le sue radici storiche affondano nell'Impero dei Quattro Re, l'antico impero elfico che per secoli governò queste terre con la forza della magia e della sapienza. La foresta porta il loro nome come monito e memoria, prima di ogni altra cosa, questo era il cuore del mondo degli elfi, e le loro tracce sono ancora ovunque nelle città che crescono tra gli alberi, nei laghi dai nomi elfici antichi, nelle rune dimenticate scolpite sulle cortecce dei carpini millenari.
 
 Oggi la regione è frammentata tra quattro potenze politiche che si dividono l'eredità imperiale, spesso in tensione tra loro, mentre alcune tra le comunità druidiche più antiche e potenti del continente continuano a considerare la foresta stessa come la sola vera autorità legittima.
 
@@ -105,11 +105,11 @@ La Foresta dei 4 Re conserva la più alta concentrazione di magia antica del con
 
 ### L'Eredità dei Quattro Re
 
-La Foresta dei 4 Re è l'unica regione di Maggilia che conserva memoria concreta dell'Impero: non nei racconti, non nelle rovine sparse, ma negli alberi millenari piantati dai re stessi, nelle strade lastricate con pietre unite senza malta, nella Biblioteca di Edhellond che è uno dei depositi di conoscenza più importanti del continente. Gli abitanti di Edhellond — specialmente la componente elfica — non si rapportano al passato imperiale come a qualcosa di lontano. È intorno a loro, nelle strutture che abitano, nelle tradizioni che praticano. Questo crea un paradosso rispetto alla Repubblica: l'orgoglio per la propria storia imperiale viene gestito con cura in un contesto dove l'Impero è visto come il nemico che la Repubblica ha sconfitto.
+La Foresta dei 4 Re è l'unica regione di Magilia che conserva memoria concreta dell'Impero: non nei racconti, non nelle rovine sparse, ma negli alberi millenari piantati dai re stessi, nelle strade lastricate con pietre unite senza malta, nella Biblioteca di Edhellond che è uno dei depositi di conoscenza più importanti del continente. Gli abitanti di Edhellond — specialmente la componente elfica — non si rapportano al passato imperiale come a qualcosa di lontano. È intorno a loro, nelle strutture che abitano, nelle tradizioni che praticano. Questo crea un paradosso rispetto alla Repubblica: l'orgoglio per la propria storia imperiale viene gestito con cura in un contesto dove l'Impero è visto come il nemico che la Repubblica ha sconfitto.
 
 ### Tensioni e Coesistenza
 
-La popolazione della Foresta è la più etnicamente eterogenea di Maggilia dopo Gran-Karak: elfi concentrati a Edhellond e nelle comunità forestali profonde, umani ad Aran-Haven e nei borghi commerciali, una minoranza di mezzelfi che occupa spesso ruoli di mediazione culturale. Le tensioni esistono, soprattutto tra la concezione elfica della foresta come patrimonio ancestrale non cedibile e la spinta umana a espandere le coltivazioni ai margini. Ma la convivenza ha secoli di storia, e la Foresta ha imparato a gestire le proprie contraddizioni internamente, senza esportarle.
+La popolazione della Foresta è la più etnicamente eterogenea di Magilia dopo Gran-Karak: elfi concentrati a Edhellond e nelle comunità forestali profonde, umani ad Aran-Haven e nei borghi commerciali, una minoranza di mezzelfi che occupa spesso ruoli di mediazione culturale. Le tensioni esistono, soprattutto tra la concezione elfica della foresta come patrimonio ancestrale non cedibile e la spinta umana a espandere le coltivazioni ai margini. Ma la convivenza ha secoli di storia, e la Foresta ha imparato a gestire le proprie contraddizioni internamente, senza esportarle.
 
 ### I Druidi della Foresta
 

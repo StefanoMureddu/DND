@@ -3,7 +3,7 @@ title: Costa Brumetallo
 layout: default
 ---
  
-La Costa Brumetallo è una regione situata lungo la costa occidentale di Maggilia, affacciata sia sulla Baia dell'Oro a nord che sul Mare dell'Ovest a ovest. È caratterizzata da una lunga linea costiera frastagliata con numerose insenature, spiagge sabbiose, scogliere e foreste costiere. La regione prende il nome dal fiume Brumetallo, che scorre lungo il suo confine orientale.
+La Costa Brumetallo è una regione situata lungo la costa occidentale di Magilia, affacciata sia sulla Baia dell'Oro a nord che sul Mare dell'Ovest a ovest. È caratterizzata da una lunga linea costiera frastagliata con numerose insenature, spiagge sabbiose, scogliere e foreste costiere. La regione prende il nome dal fiume Brumetallo, che scorre lungo il suo confine orientale.
  
 ## Geografia
 

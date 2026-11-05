@@ -1,9 +1,9 @@
 ---
-title: Personaggi di Maggilia
+title: Personaggi di Magilia
 layout: default
 ---
 
-# Personaggi di Maggilia
+# Personaggi di Magilia
 
 [← Torna al Continente](../index.md)
 
